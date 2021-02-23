@@ -1,0 +1,9836 @@
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Williams, Chris"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r1r2k/1p2n1np/p1qp2p1/8/1P2PP2/PBN1Q2P/6PB/3R2K1 w - - 7 39"]
+
+39.Ne2
+
+[Event "BCC Herb Healy"]
+[Site "?"]
+[Date "2015.01.01"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Slade, Charles"]
+[Result "1-0"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "r5k1/pbp4p/3P2p1/4Q3/q7/4P1K1/P5PP/5B1R b - - 10 31"]
+
+31...cxd6
+
+[Event "BCF April Quads"]
+[Site "?"]
+[Date "2017.04.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Perl, Joe"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "4k3/p5R1/4p3/1KP2p1p/1P2pP1P/8/r4P2/8 b - - 4 37"]
+
+37...a6+
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.04.20"]
+[Round "?"]
+[White "Rabin, Evan"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[SetUp "1"]
+[FEN "3R4/2r3pk/7p/1p2pb2/8/1B2K3/P1P4P/8 w - - 1 36"]
+
+36.Bg8+
+
+[Event "BCC $5 Open"]
+[Site "?"]
+[Date "2015.03.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "4r2k/pp1rNp2/5P1p/8/3PR2P/3B4/bP4P1/6K1 b - - 3 36"]
+
+36...Rdd8
+
+[Event "?"]
+[Site "?"]
+[Date "2014.08.08"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Karlsson, Fridrik"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "3r2k1/pbqnrppp/1p2pn2/1Bb1N3/P7/1P3N2/1BP1QPPP/3R1RK1 b - - 6 16"]
+
+16...Bxf3
+
+[Event "BCC May Quads"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Garcia"]
+[Black "Hoy"]
+[Result "*"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r2k1b1r/pp3p1p/4pp2/qB1N1b2/3P4/5N2/PP1Q1PPP/R4RK1 b - - 0 13"]
+
+13...Qxb5
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.20"]
+[Round "?"]
+[White "Hoy"]
+[Black "Arond"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r2qkn1r/pp1bbppp/2n1p3/3pP3/3P1N2/3B1N2/PP1B1PPP/2RQR1K1 b kq - 6 14"]
+
+14...Rc8
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "r5k1/p5pp/1p6/2pPp3/2P5/P1P1PrPb/4R2P/R3B1K1 w - - 1 29"]
+
+29.Bd2
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Harris, David"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3ppp/2nbp3/7q/2PPR3/1B3N2/P4PPP/R1BQ2K1 b - - 2 15"]
+
+15...Be7
+
+[Event "Eastern Class Championships 2015"]
+[Site "?"]
+[Date "2015.04.25"]
+[Round "3"]
+[White "Isakov, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "8/1p5R/p1k1P3/4K3/8/3p4/bP1N1r1P/8 w - - 5 55"]
+
+55.e7
+
+[Event "BCF Tornado #124"]
+[Site "?"]
+[Date "2016.07.09"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Karlsson, Fridrik"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "2kr3r/1pqb1ppp/B2bpn2/8/3N3B/8/PPP1QPPP/R3R1K1 b - - 0 15"]
+
+15...bxa6
+
+[Event "March Game 45"]
+[Site "North Shore Chess Club"]
+[Date "2013.03.03"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Smythe, Bill"]
+[Result "1-0"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "2kr3r/pp1bbppN/1qn1p2p/3pP3/P1pP2Q1/2P1B3/2B2PPP/R4RK1 w - - 0 16"]
+
+16.Rfb1
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.03.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Rihel, Jason"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "5r1k/1p3R2/3p1q2/4pB2/1P2P3/2R2P1P/r2b2p1/1K2Q1B1 b - - 0 38"]
+
+38...Rxf7
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.04.10"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "George, Michael"]
+[Result "1-0"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "rn1qkbnr/ppp2pp1/3p3p/4p3/2BPP1b1/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 5"]
+
+5...Ne7
+
+[Event "BCC Spring Thaw Premier"]
+[Site "?"]
+[Date "2015.04.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Fins, Mark"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r3rnk1/1pBb3p/p1nPp3/5pp1/1P6/P7/2BR1PPP/3RN1K1 b - - 1 28"]
+
+28...Ng6
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "5rk1/B3bpp1/6r1/3Bp2p/1pP1P3/4RbP1/P4P1P/R5K1 b - - 1 22"]
+
+22...Rf6
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.23"]
+[Round "1"]
+[White "Smirnov, William"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "rn2qr2/pp4kp/2p2np1/4pbN1/3Pp2P/2N5/PPPQ2P1/2K1RB1R b - - 3 14"]
+
+14...exd4
+
+[Event "BCC Greg Hager Memorial"]
+[Site "?"]
+[Date "2014.11.22"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Lauretti, Loring"]
+[Result "1-0"]
+[ECO "C52"]
+[SetUp "1"]
+[FEN "r6r/ppp2kp1/1bnpbq1p/4p3/2NPP3/2P2N2/PB2QPPP/3R1RK1 b - - 0 17"]
+
+17...Bg4
+
+[Event "Eastern Class Championships"]
+[Site "Sturbridge, MA"]
+[Date "2013.03.17"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Carter, David"]
+[Result "0-1"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "5rk1/p1bq2pp/1r6/4p3/1PP2p2/P4Q2/5PPP/R1B2RK1 b - - 0 22"]
+
+22...Qd4
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.11.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Li, Jason"]
+[Result "0-1"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "6k1/6pp/1R3b2/p7/8/P2r2BP/5PP1/7K w - - 1 31"]
+
+31.Bd6
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.05"]
+[Round "7"]
+[White "Hoy, Andrew"]
+[Black "Ellenbogen, Michael"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1br1nk1/pp3qp1/4p2p/2bpP2N/8/4B3/PPB2PPP/R2QR1K1 b - - 2 18"]
+
+18...Bb4
+
+[Event "BCC May Quads"]
+[Site "?"]
+[Date "2015.05.02"]
+[Round "3"]
+[White "Garbarino, Jake"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B90"]
+[SetUp "1"]
+[FEN "5rk1/1p1q1rbp/pB1pn3/3Np3/2P2p2/7Q/PP3PPP/3RR1K1 b - - 0 26"]
+
+26...Rf5
+
+[Event "?"]
+[Site "?"]
+[Date "2017.07.08"]
+[Round "2"]
+[White "Milliern, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "r4rk1/2q3pp/2pbp1p1/p7/QnPP2P1/7P/1P1B1P2/2KR1B1R w - - 1 21"]
+
+21.Be3
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.08"]
+[Round "1"]
+[White "Esserman, Marc"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B87"]
+[SetUp "1"]
+[FEN "rn1qk2r/1b2b1pp/p2pNn2/1p6/4P3/2N2Q2/PPP2PPP/R1B2RK1 b kq - 0 11"]
+
+11...Qc8
+
+[Event "BCF Paramount"]
+[Site "?"]
+[Date "2017.04.24"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Astrachan, Ed"]
+[Result "1-0"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r3kb1r/ppqb1ppp/3pp3/2p5/2P1PB2/2N3P1/PPP1QP1P/R2R2K1 b kq - 3 13"]
+
+13...O-O-O
+
+[Event "SBCC Name It Yourself Open 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.06.06"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r3br1k/p1q3b1/1p2P1pp/2p2nN1/2Q2pB1/2P5/PP3PPP/3RR1K1 w - - 0 30"]
+
+30.Nf7+
+
+[Event "SBCC Team Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Hess, Carl"]
+[Result "*"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "r4rk1/p2n1ppp/3P4/1p2P1R1/2p2Q2/q4P1B/P6P/2KR4 w - - 10 27"]
+
+27.Kd2
+
+[Event "BCC G/80"]
+[Site "?"]
+[Date "2014.05.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bpp1/4p2p/4R3/3P4/2PB4/P4PPP/R1BQ2K1 b - - 0 14"]
+
+14...b6
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2016.08.07"]
+[Round "4"]
+[White "Hoy"]
+[Black "Bonin"]
+[Result "1/2-1/2"]
+[ECO "C09"]
+[SetUp "1"]
+[FEN "r5k1/1p4p1/p6p/3pNqp1/5b2/1PP3PP/P3QP2/4R1K1 b - - 0 27"]
+
+27...Re8
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.29"]
+[Round "5"]
+[White "Fortier, Gerard"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "1rbqk2r/p4p1p/8/2b1pp2/1P1p4/P4Q2/2P2PPP/R3KB1R w KQk - 0 15"]
+
+15.bxc5
+
+[Event "?"]
+[Site "?"]
+[Date "2016.11.04"]
+[Round "?"]
+[White "Hoy"]
+[Black "Polat"]
+[Result "*"]
+[ECO "B27"]
+[SetUp "1"]
+[FEN "r1q2rk1/p4pbp/bpn1pnp1/1N4B1/P7/2PB1N2/1PQ2PPP/3R1RK1 b - - 6 19"]
+
+19...e5
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.11.02"]
+[Round "1"]
+[White "Hoy"]
+[Black "Li, Jason"]
+[Result "0-1"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "rn1qr1k1/pb2bppp/1p2p3/3nN3/2BP4/1QN3B1/PP3PPP/R4RK1 b - - 2 13"]
+
+13...Nc6
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2015.10.05"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Vernon, Bryant"]
+[Result "1-0"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "2r1n1k1/p2bppbp/3p2p1/2q5/2PNP1P1/2Q1BP2/PRP4P/K2R4 b - - 8 21"]
+
+21...Nc7
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.10.10"]
+[Round "2"]
+[White "Hoy"]
+[Black "Winsor"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "6k1/Q5pp/2ppq3/7n/2P2r2/1P4N1/PB5P/R5K1 b - - 0 28"]
+
+28...Qg6
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.03"]
+[Round "1"]
+[White "Hoy"]
+[Black "Sfougaris"]
+[Result "1-0"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2n1bp/4pnp1/3pN1B1/3P2P1/2NB4/PP1Q1P1P/R4RK1 b - - 2 14"]
+
+14...Ne4
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.03.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Rihel, Jason"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "r4r1k/1pR5/3pBq1b/4p2b/1P2P3/2R2P1P/P1K3p1/3Q2B1 w - - 8 35"]
+
+35.Bf5
+
+[Event "BCC March TNS 2015"]
+[Site "?"]
+[Date "2015.03.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Poliannikov, Oleg"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pppp1ppp/2n2n2/1BbPP3/5P2/2N5/PPP3PP/R1BQ1R1K b - - 2 11"]
+
+11...Nd4
+
+[Event "?"]
+[Site "?"]
+[Date "2016.01.23"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Xu, Bernie"]
+[Result "1-0"]
+[ECO "C09"]
+[SetUp "1"]
+[FEN "3r2k1/pp1q1pp1/2n4p/5N2/3P2P1/1P4PP/P2QR1K1/8 b - - 0 30"]
+
+30...Nxd4
+
+[Event "BCC June Grand Prix"]
+[Site "?"]
+[Date "2015.06.27"]
+[Round "1"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "2k3r1/ppq2p1p/2p1pBb1/3r4/3P1bP1/2PR1N1P/PPQ2P2/1K5R w - - 5 20"]
+
+20.Be5
+
+[Event "BCC Highland Ave. Octads"]
+[Site "Boylston Chess Club"]
+[Date "2010.02.20"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Wang, Jimmy"]
+[Result "1-0"]
+[ECO "D70"]
+[SetUp "1"]
+[FEN "8/5p2/4k3/8/4P2p/1r3P1P/R4K2/8 b - - 1 44"]
+
+44...Ke5
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.20"]
+[Round "?"]
+[White "Hoy"]
+[Black "Arond"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "2n5/5pk1/4p2p/3pP3/3P2qn/P1P3P1/5P1P/1R1Q1K2 b - - 16 40"]
+
+40...Qh3+
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "0-1"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1br1n1k/pp4p1/2nbpq1p/3p4/3P4/1QBB1NN1/PP3PPP/4RRK1 b - - 7 16"]
+
+16...a6
+
+[Event "?"]
+[Site "?"]
+[Date "2016.05.20"]
+[Round "1"]
+[White "Hori, Calvin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "r5k1/3r2p1/1pnNp2p/p1Pp2nP/P2P4/1N2RpP1/5P2/4R1K1 w - - 0 33"]
+
+33.Kh2
+
+[Event "Metrowest Chess Club"]
+[Site "?"]
+[Date "2015.08.04"]
+[Round "1"]
+[White "Yu, Alex"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "4r1k1/5pp1/1p3n1p/p1q1p3/2R5/2PQ1B1P/PP3PP1/6K1 b - - 1 24"]
+
+24...Qb5
+
+[Event "SBCC Team Tournament 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.02.15"]
+[Round "2"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[SetUp "1"]
+[FEN "4r1k1/ppq4p/6pb/3R4/P1N1pp2/1P4P1/4QP1P/6K1 w - - 0 26"]
+
+26.Rd4
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.01"]
+[Round "1"]
+[White "Lesieur, Nicholas"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppq2ppp/1n1bpn2/2p5/2PP4/1P3NN1/PB2BPPP/R2Q1RK1 b kq - 2 11"]
+
+11...O-O
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Cross, Ted"]
+[Result "0-1"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "2kr3r/ppp2pp1/1nn1p3/4P2p/1bPPNq2/5P2/PP2BB1P/R2Q1K1R w - h6 0 15"]
+
+15.a3
+
+[Event "BCC Early Bird Rapid Quads 1-2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.01.20"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Iglesias, Bernardo"]
+[Result "1-0"]
+[ECO "E90"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp1ppbp/5np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQK2R b KQkq - 1 8"]
+
+8...Bd7
+
+[Event "SBCC Club Championship"]
+[Site "?"]
+[Date "2015.05.06"]
+[Round "5"]
+[White "Fortier, Gerry"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B50"]
+[SetUp "1"]
+[FEN "5r2/1pq4k/p1nprb1p/2p1p1p1/P3Pp2/2PP1N1P/1PQ2PPB/R4RK1 w - - 0 26"]
+
+26.c4
+
+[Event "BCF Summer Action Swiss"]
+[Site "?"]
+[Date "2015.07.11"]
+[Round "4"]
+[White "Liang, Dustin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "2r2rk1/pp1n1ppp/1qn1p3/3pP3/3P1B2/bPNQ1N2/P4PPP/2R2RK1 w - - 2 18"]
+
+18.Rc2
+
+[Event "March Game 45"]
+[Site "North Shore Chess Club"]
+[Date "2013.03.03"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Vitkauskas, Vytautas"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r4r1k/pp4pp/1qn1p3/3p4/3P4/1P2QNP1/P4PP1/1R3RK1 b - - 0 22"]
+
+22...Rxf3
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "4"]
+[White "Times, Lawyer"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2kr1b1r/1pp2b1p/p1n3pP/3pq3/4pN2/P1N5/1PPQBPP1/2KR3R w - - 2 18"]
+
+18.Bg4+
+
+[Event "BCC Greg Hager Memorial"]
+[Site "?"]
+[Date "2014.11.22"]
+[Round "3"]
+[White "Terrie, Hal"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r5k1/p1p1q1bp/1p1p2n1/1PP2rp1/P2PN3/BQ2P3/4B1PP/1R4K1 b - - 0 20"]
+
+20...d5
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.11.28"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "D52"]
+[SetUp "1"]
+[FEN "r2r2k1/1b2qp1p/2p1p1p1/2Pn2N1/p2P3P/1p1BP3/3Q1PP1/RR4K1 w - - 8 26"]
+
+26.Ra3
+
+[Event "?"]
+[Site "?"]
+[Date "2015.03.25"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Algole, Ajay"]
+[Result "1-0"]
+[ECO "C47"]
+[SetUp "1"]
+[FEN "r3k2r/ppp1qppp/5n2/4P3/3Q2b1/2N5/PPP2KPP/R4B1R b kq - 2 12"]
+
+12...Nd7
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sfougaris, Jim"]
+[Result "1-0"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp1n1p1p/2p1pqp1/8/2PP3P/3B1N2/PP1Q1PP1/2KR3R b - h3 0 12"]
+
+12...h5
+
+[Event "SBCC Year End Open 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.12.15"]
+[Round "3"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r1b1qr2/pp4kp/4npp1/2p5/4N2Q/5N2/PP3PPP/3RR1K1 b - - 1 20"]
+
+20...Qf7
+
+[Event "World Open"]
+[Site "Arlington, VA"]
+[Date "2014.07.04"]
+[Round "5"]
+[White "Li, Ben"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r5k1/1pp1prbp/p7/3Pp2q/1PP1Ppb1/6P1/PBQ3BP/1R3RK1 w - - 2 19"]
+
+19.Rf2
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.06.25"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Giambo, Jerry"]
+[Result "1-0"]
+[ECO "B98"]
+[SetUp "1"]
+[FEN "rn2k2r/1b3ppp/2qNpb2/8/4PPP1/5Q2/PPP4P/2KR1B1R b kq - 0 14"]
+
+14...Ke7
+
+[Event "?"]
+[Site "?"]
+[Date "2013.09.04"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "C04"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pppn2pp/4pPn1/3p4/3P3P/2PB1N2/PP1N1PP1/R1BQK2R b KQkq - 0 9"]
+
+9...gxf6
+
+[Event "BCC Reubens Landey 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.07.19"]
+[Round "2"]
+[White "Cross, Ted"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "r3r3/pp3kbp/n1pq1pp1/3p1P2/3P2P1/2NQ1R1N/PPP4P/R5K1 b - - 0 17"]
+
+17...g5
+
+[Event "Continental Open 2015"]
+[Site "?"]
+[Date "2015.08.14"]
+[Round "2"]
+[White "Wu, Brandon"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "8/8/1p6/7p/3k2p1/1BN3P1/Pr6/6K1 w - - 4 41"]
+
+41.Nd1
+
+[Event "BCC Tornado #98"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.18"]
+[Round "1"]
+[White "Baez-Rosario, Luis"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "4nq2/p2Qp1kp/1pp1Pp2/2p5/2P1bNP1/7P/PP1N4/2K5 b - - 2 31"]
+
+31...Nd6
+
+[Event "SBCC Year End Open 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.12.29"]
+[Round "5"]
+[White "Hall, Jeff"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B06"]
+[SetUp "1"]
+[FEN "r1b5/p5k1/1pN2np1/2np4/7R/2NB4/PPP2PPP/2K5 w - - 1 26"]
+
+26.Nd4
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.11.28"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "D52"]
+[SetUp "1"]
+[FEN "r1b2rk1/3nqp1p/2p1p1p1/2P3N1/pp1P3P/3BP3/4QPP1/2R2RK1 w - - 0 21"]
+
+21.Qd2
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Correia"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "8/4Npk1/3q1np1/p2P2p1/6P1/P4P1P/Q5K1/8 w - - 0 54"]
+
+54.Nc6
+
+[Event "SBCC Team Tournament 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.02.08"]
+[Round "1"]
+[White "Dean, Lawrence"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C65"]
+[SetUp "1"]
+[FEN "2kr4/2pr1ppp/p1p5/1pq5/P3P1Q1/1RB2P2/2P2P1P/1R5K w - - 3 24"]
+
+24.Rd1
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.01"]
+[Round "?"]
+[White "Lee, Jonathan"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "7k/p3r2p/1p3r2/2p2P2/3bB3/2BP3R/PPn3K1/7R b - - 0 29"]
+
+29...Ne3+
+
+[Event "Eastern Class Championships 2015"]
+[Site "?"]
+[Date "2015.04.26"]
+[Round "5"]
+[White "Mahoney, Michael"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "1k4r1/pp3p1p/3r1q2/3pn3/3N2pP/2P3P1/PP3PK1/R2QR3 b - - 4 23"]
+
+23...Qg6
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.21"]
+[Round "7"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C62"]
+[SetUp "1"]
+[FEN "k1r4r/pp1qbp1p/8/1N1p2p1/8/4Q2P/P1Pn1PPB/1R3RK1 b - - 3 20"]
+
+20...Bc5
+
+[Event "?"]
+[Site "?"]
+[Date "2017.02.09"]
+[Round "?"]
+[White "Lee, Jonathan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "2k4r/ppq2pp1/2nbp3/3p2pr/3Pn3/1QP2N1P/PP2RPP1/2B1RNK1 w - - 0 18"]
+
+18.Ne5
+
+[Event "BCF November TNS"]
+[Site "?"]
+[Date "2015.02.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Landel, Derek"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1b2r1k/pp4pB/2nqp3/3p4/3P2n1/5NNP/PP3PP1/R2QR1K1 b - - 0 17"]
+
+17...e5
+
+[Event "BCC March TNS 2015"]
+[Site "?"]
+[Date "2015.03.19"]
+[Round "3"]
+[White "Godin, Eric"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "r2qr2k/pp4bp/2p2pp1/5b2/1n1P4/1BN2N1P/PPP3P1/2KR1Q1R w - - 0 17"]
+
+17.Qc4
+
+[Event "BCF Fall Foliage Premier"]
+[Site "?"]
+[Date "2015.10.17"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "1rb1rnk1/5qb1/p3pBp1/1p1pP3/5Q2/2PB2R1/PP3PPP/4R1K1 b - - 3 25"]
+
+25...Rb7
+
+[Event "BCC November TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2009.11.19"]
+[Round "4"]
+[White "Sifter, Thomas"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "8/2R4p/3r2pk/8/8/2P2NK1/2r3PP/8 w - - 12 44"]
+
+44.Rc4
+
+[Event "SBCC Winter Classic 2015"]
+[Site "?"]
+[Date "2015.03.11"]
+[Round "4"]
+[White "Aspinall, Jim"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B94"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p1nbppp/p2p1n2/2q1p1B1/4PP2/1BN2N2/P1PQ2PP/1R2K2R w Kkq - 6 13"]
+
+13.f5
+
+[Event "?"]
+[Site "?"]
+[Date "2015.02.19"]
+[Round "3"]
+[White "Becker, Jared"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B10"]
+[SetUp "1"]
+[FEN "r4rk1/1pqnppbp/p4np1/3PNb2/2B2P2/1QNPB3/PP4PP/R3K2R w KQ - 3 15"]
+
+15.d6
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.31"]
+[Round "9"]
+[White "Hoy, Andrew"]
+[Black "Hong, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "3r4/2Q2Bk1/pr1b1qp1/7p/3p4/3R3P/PP3PP1/3R2K1 w - - 1 31"]
+
+31.Qc4
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Wheeler, Ken"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "r4rk1/pQ3ppp/2Nq1n2/8/8/2N3P1/PPnP1P1K/R1B2R2 b - - 0 17"]
+
+17...Nxa1
+
+[Event "SBCC 9/11 Memorial 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.09.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Hanson, David"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppn3b1/2p1P2p/2Pp1p1Q/1P2p3/1R4N1/P4PPP/2B2RK1 b - - 1 20"]
+
+20...Qe8
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.03.06"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r4rk1/1pN3b1/p2p3p/3P3q/4P3/1Q1R2Pp/PP2bP1K/2B1R3 w - - 2 25"]
+
+25.Be3
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.29"]
+[Round "5"]
+[White "Prilleltensky, Matan"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "r1b1kr2/p1pp3p/1pn1pqpQ/7P/3P4/2P2N2/PP3PP1/R3KB1R b KQq - 2 13"]
+
+13...Rf7
+
+[Event "Saturday Action 9/1/2012"]
+[Site "CMC Providence"]
+[Date "2012.09.01"]
+[Round "?"]
+[White "Hoy"]
+[Black "Banks"]
+[Result "1/2-1/2"]
+[ECO "D91"]
+[SetUp "1"]
+[FEN "8/2r3k1/3bB1b1/p1pp2p1/P7/1PR1P1P1/3NKP2/8 b - - 4 44"]
+
+44...Bf7
+
+[Event "SEMCC Summer Swiss"]
+[Site "?"]
+[Date "2015.07.15"]
+[Round "3"]
+[White "Giambo"]
+[Black "Hoy"]
+[Result "1-0"]
+[ECO "E87"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp1q1bp/n2p2p1/3Pp2n/2P1Pp2/2N2P2/PP1Q1BPP/R1N1KB1R b KQ - 3 13"]
+
+13...g5
+
+[Event "BCC May Thursday Night Swiss"]
+[Site "?"]
+[Date "2014.05.31"]
+[Round "4"]
+[White "Yip, Carissa"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "8/1r6/1P6/1R2p2k/5p2/8/1K6/8 w - - 0 55"]
+
+55.Rxe5+
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.02"]
+[Round "1"]
+[White "Kelly, Joseph"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "4Q3/q6p/3Bpk1r/5p2/2PP2p1/3KP3/5P2/8 b - - 9 36"]
+
+36...Qf7
+
+[Event "?"]
+[Site "?"]
+[Date "2015.08.12"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r3k2r/1b3pp1/pq1BB1np/np5Q/4P3/2P5/P4PPP/2RR2K1 b kq - 0 18"]
+
+18...Bxe4
+
+[Event "BCC $5 Open"]
+[Site "?"]
+[Date "2015.03.14"]
+[Round "2"]
+[White "Shankar, Niranjan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B84"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/pp2p3/2qr2P1/P4P2/8/1PP1Q2P/R4R1K w - - 0 22"]
+
+22.Qxa6
+
+[Event "MIT Open 2016"]
+[Site "?"]
+[Date "2016.04.17"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Yu, Alex"]
+[Result "1-0"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "2rkr3/3b1pB1/3Np3/4n3/1p2P1P1/2N2P2/PPp5/2K4R b - - 0 28"]
+
+28...Nc4
+
+[Event "BCC January MNS 2011"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.31"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "1-0"]
+[ECO "D58"]
+[SetUp "1"]
+[FEN "8/p1pb1k2/1p3r2/3P3p/4PPp1/P1PB2K1/8/6R1 b - - 0 32"]
+
+32...b5
+
+[Event "SBCC Winter Classic 2015"]
+[Site "?"]
+[Date "2015.03.04"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Robillard, Tom"]
+[Result "1-0"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "r2q1k1r/4bpp1/p1Qp2np/1pp5/4PBP1/P6P/1PP1BP2/R3K2R w KQ - 3 18"]
+
+18.Bxd6
+
+[Event "?"]
+[Site "?"]
+[Date "2015.03.25"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Algole, Ajay"]
+[Result "1-0"]
+[ECO "C47"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp1qppp/5n2/4P3/3Q4/2N5/PPP3PP/R3KB1R b KQkq - 0 11"]
+
+11...Bg4
+
+[Event "BCC March TNS 2015"]
+[Site "?"]
+[Date "2015.03.19"]
+[Round "3"]
+[White "Godin, Eric"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2r4k/p3R2p/5pp1/1p1P4/5b2/P1Pb1B1P/1P1N1rP1/2KR4 w - - 1 28"]
+
+28.Re6
+
+[Event "BCF Paramount 2017"]
+[Site "?"]
+[Date "2017.03.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Becker, Jared"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "r1b3k1/2q1br1p/p3N1n1/5BpQ/1p2p3/8/PPP1N2P/2KR3R b - - 1 20"]
+
+20...Bxe6
+
+[Event "SBCC Fall Classic"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.11.14"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "C52"]
+[SetUp "1"]
+[FEN "1r1n4/6pk/1q2p2p/8/P1QNP3/7P/1p3PP1/1R4K1 b - - 0 38"]
+
+38...Rb7
+
+[Event "BCF Year End TNS"]
+[Site "?"]
+[Date "2016.12.08"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Hodgden, Paul"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "6r1/pr5p/1bp1k3/3ppN1P/1P4P1/2PP2K1/R7/4R3 b - - 2 44"]
+
+44...c5
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.09.07"]
+[Round "?"]
+[White "Hoy"]
+[Black "Aspinall"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "R4nk1/1b5p/4p3/p2pPp1P/2pP1Nr1/2P2K2/P7/8 w - - 0 41"]
+
+41.Rxa5
+
+[Event "BCF January TNS"]
+[Site "?"]
+[Date "2016.01.21"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Astrachan, Ed"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "8/1p2k3/p5p1/6P1/3pQ3/8/Pq3P1P/6K1 b - - 2 45"]
+
+45...Kf7
+
+[Event "SBCC Club Championship 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.05.16"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Plante, Gerry"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "8/p2r4/2p2k2/2P2p1P/PP2p1p1/4P3/4K3/7R b - - 0 35"]
+
+35...a6
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.11"]
+[Round "2"]
+[White "Hall, Jeff"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A26"]
+[SetUp "1"]
+[FEN "1q3r2/2p2rbk/R2pb1p1/3N1P2/2PpP3/3Q2pP/6B1/5R1K b - - 1 33"]
+
+33...Be5
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "1"]
+[White "Perelshteyn, Eugene"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1b1k2r/ppp3bp/3pp1p1/q2P4/2P2N2/2NQ4/PP3PPP/R4RK1 b kq - 0 14"]
+
+14...e5
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "5rk1/B3bpp1/6r1/3Bp2p/1pP1P3/4RbP1/P4P1P/R5K1 b - - 1 22"]
+
+22...Rf6
+
+[Event "?"]
+[Site "?"]
+[Date "2015.01.08"]
+[Round "1"]
+[White "Costello, Brian"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A21"]
+[SetUp "1"]
+[FEN "1r3rk1/ppp2qb1/2npb2p/3N1pp1/2P2p2/3PP1P1/PPQN2BP/R4RK1 w - - 0 16"]
+
+16.exf4
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.10.10"]
+[Round "2"]
+[White "Hoy"]
+[Black "Winsor"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pppnbppp/2npp3/8/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 b - - 2 8"]
+
+8...f5
+
+[Event "BCC Herb Healy"]
+[Site "?"]
+[Date "2015.01.01"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Slade, Charles"]
+[Result "1-0"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "6k1/p6p/B5p1/8/4PK2/8/b1r3PP/R7 b - - 1 38"]
+
+38...Rxg2
+
+[Event "SBCC Team Tournament 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.02.29"]
+[Round "?"]
+[White "Hoy"]
+[Black "Sfougaris"]
+[Result "0-1"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "3r1nk1/1p3pp1/p1p5/q1bp1P2/3NnP1p/1B3Q1P/1PP3PK/3R1R2 w - - 0 25"]
+
+25.Qg4
+
+[Event "SEMCC Winter Classic"]
+[Site "?"]
+[Date "2016.02.24"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B77"]
+[SetUp "1"]
+[FEN "r2q1rk1/3b1pb1/p2p1np1/1p2B2p/4P1PP/1BN2P2/PPPQ4/2KR3R b - - 0 15"]
+
+15...hxg4
+
+[Event "BCF June TNS"]
+[Site "?"]
+[Date "2017.06.01"]
+[Round "?"]
+[White "Gillaspie, Craig"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "5rk1/pp5p/2pb2p1/3p1q2/8/2P1P3/PP1BQ1PP/R5K1 w - - 6 21"]
+
+21.b4
+
+[Event "BCC Early Bird Rapid Quads 1-2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.01.20"]
+[Round "1"]
+[White "Lieberman, Seth"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "3b2k1/1r5p/p2p1p2/1n1rp2R/KPN5/3B4/P1P3PP/5R2 w - - 2 31"]
+
+31.Be4
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.15"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "4r1n1/1b5k/3p2pp/1q6/1p1pPP2/1P3BQ1/r1PB3P/2R1R2K b - - 2 31"]
+
+31...d3
+
+[Event "BCF July Thursday Night Swiss"]
+[Site "?"]
+[Date "2015.07.30"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "E11"]
+[SetUp "1"]
+[FEN "r1b2r2/pppn2k1/3p3p/5Bp1/2Pq2P1/P7/1PQN1PP1/2KR3R b - - 0 18"]
+
+18...Nc5
+
+[Event "BCF March TNS"]
+[Site "?"]
+[Date "2017.03.16"]
+[Round "3"]
+[White "Kannan, Atul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "r7/1p1r2kp/p1p2pp1/4b3/R3P3/1P1B1RP1/P1P3KP/8 w - - 1 27"]
+
+27.Rc4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.17"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Hess, Carl"]
+[Result "1-0"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "r5kr/1p1n2p1/4R2p/p3P3/2PqbQ2/8/PP4PP/2K2B1R w - - 4 26"]
+
+26.Rd6
+
+[Event "?"]
+[Site "?"]
+[Date "2013.09.04"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "C04"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppn3p/3bppn1/3p4/3P3P/2PB1NP1/PP3P2/R1BQKN1R b KQkq - 0 11"]
+
+11...Qe7
+
+[Event "BCC February TNS 2015"]
+[Site "?"]
+[Date "2015.02.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Poliannikov, Danila"]
+[Result "1-0"]
+[ECO "C66"]
+[SetUp "1"]
+[FEN "r2qr1k1/ppp2pp1/2bp1b1p/1N5n/4PP2/3B3P/P1PQ2PB/1R2R1K1 w - - 1 19"]
+
+19.g4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.11"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Schmidt, Daniel"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "6k1/p5pp/R1p2p2/4rP2/4Nb1P/2PP1K2/5P2/8 b - - 4 36"]
+
+36...Bh2
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.23"]
+[Round "4"]
+[White "Jaleel, Zaroug"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "8/8/3p4/p2B4/P7/1Pk3p1/5bK1/8 w - - 7 65"]
+
+65.Bc4
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.24"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Lomeli, Ian"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "6rk/1p2n1r1/3N4/4p2q/P3Ppb1/1Q4p1/3R2BP/5RBK b - - 1 38"]
+
+38...f3
+
+[Event "SBCC Brask Invitational"]
+[Site "Plainville, MA"]
+[Date "2014.03.20"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Nour, Mike"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bqk1nr/1p2ppbp/p1np2p1/3N4/2B1P3/4BN2/PP3PPP/R2Q1RK1 b kq - 3 9"]
+
+9...e6
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.09"]
+[Round "2"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "2r1k2r/p3b1pp/1q2p3/3pNp1b/3Pn3/3BB3/PP3PPP/RQ3RK1 b k - 0 17"]
+
+17...O-O
+
+[Event "BCC November TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2009.11.19"]
+[Round "4"]
+[White "Sifter, Thomas"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "1r1q1r1k/7p/b2p1pp1/p2N2b1/R1NQP3/1PP5/6PP/R6K b - - 2 27"]
+
+27...Rxb3
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2015.06.07"]
+[Round "4"]
+[White "Niemann, Hans"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "8/8/kp2b3/P1p5/1nN5/1N6/3K4/8 w - - 8 71"]
+
+71.Kc3
+
+[Event "SBCC Year End Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.12.15"]
+[Round "3"]
+[White "Plante, Gerry"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C45"]
+[SetUp "1"]
+[FEN "r5k1/2pn1p2/2pp2b1/1p6/1P5p/2P1r2P/P3BRPB/5RK1 w - - 0 28"]
+
+28.Bf3
+
+[Event "BCC Herb Healy"]
+[Site "?"]
+[Date "2015.01.01"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Slade, Charles"]
+[Result "1-0"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "r1b1r1k1/p1pn3p/5qp1/3P4/2Q1p3/2P1P3/P2N2PP/R3KB1R w KQ - 1 20"]
+
+20.Nxe4
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.09"]
+[Round "2"]
+[White "Sifter, Thomas"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r7/1b3kp1/5qp1/p2pp3/6R1/2P1P3/BP3QPP/6K1 b - - 1 30"]
+
+30...a4
+
+[Event "BCC May Quads"]
+[Site "?"]
+[Date "2015.05.07"]
+[Round "1"]
+[White "Hoy"]
+[Black "Hu"]
+[Result "1-0"]
+[ECO "D87"]
+[SetUp "1"]
+[FEN "5rk1/5p1p/4b1pb/2p1p3/2P1P1qP/r1NB2P1/P1R2P2/3R1QK1 b - h3 0 23"]
+
+23...Rd8
+
+[Event "BCC February TNS 2015"]
+[Site "?"]
+[Date "2015.02.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Poliannikov, Danila"]
+[Result "1-0"]
+[ECO "C66"]
+[SetUp "1"]
+[FEN "r2qr1k1/ppp2pp1/2bp3p/1N5n/4PPPb/3B3P/P1PQ3B/1R2R1K1 w - - 1 20"]
+
+20.Re3
+
+[Event "?"]
+[Site "?"]
+[Date "2014.08.08"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Karlsson, Fridrik"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "3r2k1/p1qnrppp/1p2pn2/1Bb5/P7/1P3N2/1BP1QPPP/3R1RK1 b - - 0 17"]
+
+17...Ng4
+
+[Event "BCC Extra Game"]
+[Site "Boylston Chess Club"]
+[Date "2009.03.06"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Sadykov, Khikmet"]
+[Result "*"]
+[ECO "D60"]
+[SetUp "1"]
+[FEN "5rk1/p3q1pp/b1r5/1p1pPp2/2pP4/P3PQ2/1PB3PP/2R1R1K1 b - - 2 23"]
+
+23...Qe6
+
+[Event "New England Masters 2016"]
+[Site "?"]
+[Date "2016.03.20"]
+[Round "7"]
+[White "Sage, Tim"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "rn1q1k2/6Rp/4p3/p2b4/1pP5/3BPp2/1B5P/2KR4 w - - 0 22"]
+
+22.Bxh7
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Williams, Chris"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "4rr1k/1p1q2np/pQnp2p1/3B4/4PP2/P6P/1P2N1PB/2R3K1 b - - 10 33"]
+
+33...Nd8
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.12"]
+[Round "7"]
+[White "Chase, Chris"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[SetUp "1"]
+[FEN "r2qr1k1/1b3p2/pp3bp1/3p4/P2NnBB1/5Q2/1PP3PP/R4R1K w - - 0 23"]
+
+23.Bg5
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "2"]
+[White "Post, Evan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B11"]
+[SetUp "1"]
+[FEN "2r1kb1r/p4pp1/4p2p/4P3/1npPN3/3qBQ2/P1p2PPP/2R2RK1 w k - 6 26"]
+
+26.d5
+
+[Event "SBCC Club Championship 2015"]
+[Site "?"]
+[Date "2015.04.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Dawar, Ria"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp1p1p1p/2n1p1p1/8/2B1P3/2N2N2/PP3PPP/R1BQ1RK1 b kq - 0 7"]
+
+7...Bg7
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.09.08"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Griffin, Mike"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "3rr1k1/pp1nbppp/1qp1pn2/4N3/3P1B2/1BPQ4/PP3PPP/R3R1K1 b - - 7 15"]
+
+15...Qa5
+
+[Event "BCC Weaver Adams 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.06.22"]
+[Round "4"]
+[White "Iglesias, Bernardo"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B20"]
+[SetUp "1"]
+[FEN "1r1qr1k1/1p1b1pbp/p2ppnp1/n1p3B1/P1P1P3/2NP1N1P/1P3PP1/R1QBR1K1 b - - 7 14"]
+
+14...b5
+
+[Event "Eastern Class Championships 2015"]
+[Site "?"]
+[Date "2015.04.25"]
+[Round "3"]
+[White "Isakov, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "8/1pk3rp/p6R/3KP3/4N3/3p4/PPb4P/8 w - - 22 49"]
+
+49.e6
+
+[Event "BCF July Thursday Night Swiss"]
+[Site "?"]
+[Date "2015.07.30"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "E11"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pppn1p2/3pp2p/6p1/2PPn3/P2BPNB1/1P3PPP/R2QK2R b KQ - 2 11"]
+
+11...f5
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Manon-Og, Ramon"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "1r3k1r/pBp2p2/P2p4/6p1/1P1n4/6P1/5PP1/2R1R1K1 b - - 2 28"]
+
+28...Ne6
+
+[Event "MIT Open 2016"]
+[Site "?"]
+[Date "2016.04.17"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Yu, Alex"]
+[Result "1-0"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "2rqr1k1/3bppbn/3p4/1p2n3/3NP1P1/1pN1BP2/PPPQ4/1K1R3R w - - 0 18"]
+
+18.Rxh7
+
+[Event "World Open"]
+[Site "Arlington, VA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Astrachan"]
+[Black "Hoy"]
+[Result "*"]
+[ECO "E76"]
+[SetUp "1"]
+[FEN "r2qr1k1/1p4bp/2ppb1p1/p1n2p2/2P1PP2/2N2B2/PPQB2PP/R3R2K w - - 2 17"]
+
+17.b3
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.20"]
+[Round "?"]
+[White "Hoy"]
+[Black "Arond"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1bqkn1r/pp2bppp/2n1p3/3pP3/3P1N2/3B1N2/PP1B1PPP/2RQ1RK1 b kq - 4 13"]
+
+13...Bd7
+
+[Event "SBCC Brask Invitational"]
+[Site "Plainville, MA"]
+[Date "2014.01.22"]
+[Round "3"]
+[White "Silva, Cory"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "3b2k1/p4pp1/b1p1p2p/2P5/1P2N3/P4N2/5PPP/6K1 b - - 1 26"]
+
+26...f6
+
+[Event "World Open"]
+[Site "Arlington, VA"]
+[Date "2014.07.05"]
+[Round "7"]
+[White "Gautam"]
+[Black "Hoy"]
+[Result "1-0"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "2nr4/ppk2ppp/q1p5/P3P3/2P1PP2/1Q3R1P/3rN1P1/1R3K2 b - - 0 29"]
+
+29...Ne7
+
+[Event "BCC May Thursday Night Swiss"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Dondis, Harold"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp1bppp/1n1p4/4p1P1/4P3/1PNPBQ2/1PP2P1P/R3K1R1 b Q - 0 13"]
+
+13...c5
+
+[Event "SBCC Winter Classic 2015"]
+[Site "?"]
+[Date "2015.03.04"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Robillard, Tom"]
+[Result "1-0"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "r2q3r/3k1pp1/p2b3p/1pp1n3/4Q1P1/P6P/1PP1BP2/3R1RK1 b - - 0 22"]
+
+22...Re8
+
+[Event "SEMCC Summer Swiss"]
+[Site "?"]
+[Date "2015.07.15"]
+[Round "3"]
+[White "Giambo"]
+[Black "Hoy"]
+[Result "1-0"]
+[ECO "E87"]
+[SetUp "1"]
+[FEN "r4rk1/p2bq1bp/np1p4/3Pp2n/4Ppp1/2NN1P2/PP1Q1BPP/1K1R1B1R b - - 1 19"]
+
+19...Rfc8
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Warfield, Simon"]
+[Result "0-1"]
+[ECO "D58"]
+[SetUp "1"]
+[FEN "8/5p2/3K2k1/4P1pp/3N4/8/6nP/8 w - - 2 48"]
+
+48.Ke7
+
+[Event "BCF March TNS"]
+[Site "?"]
+[Date "2017.03.16"]
+[Round "3"]
+[White "Kannan, Atul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "5rk1/1p1rbp1p/p1p3p1/R7/4PR2/3B4/PPP3PP/7K w - - 0 22"]
+
+22.g3
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Plante, Gerald"]
+[Result "0-1"]
+[ECO "D38"]
+[SetUp "1"]
+[FEN "7r/3b2k1/4pq1p/1p1p2p1/2pQ1P2/r1P1P1P1/P3BKP1/R6R w - - 2 26"]
+
+26.Rhc1
+
+[Event "SBCC Name It Yourself Open"]
+[Site "Plainville, MA"]
+[Date "2013.06.19"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Giambo, Jerry"]
+[Result "1-0"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "3q1rk1/pp1bppb1/3p1np1/7P/2rNP1p1/2N1BP2/PPPQ4/1K1R3R b - - 0 16"]
+
+16...Qa5
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.06.06"]
+[Round "?"]
+[White "Robillard, Tom"]
+[Black "Hoy, Andrew"]
+[Result "*"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r2q1rk1/6bp/p1np4/1p1Npb2/4QP2/N1P5/PP3P1P/R3KBR1 w Q - 1 17"]
+
+17.Nf6+
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Hall"]
+[Result "*"]
+[ECO "D17"]
+[SetUp "1"]
+[FEN "r3kb1r/1p3ppp/1np1b3/p3P3/Pq2P3/2N2PP1/1P5P/R1BQKB1R w KQkq - 1 15"]
+
+15.Bd3
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.03"]
+[Round "1"]
+[White "Holmgren, Bob"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r4rk1/ppq2pp1/2nbp1p1/8/2BP2P1/P3B2P/2PQ1P2/R3K2R w KQ - 0 17"]
+
+17.h4
+
+[Event "SBCC Summer Swiss 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.06.30"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Gavlick, Paul"]
+[Result "1-0"]
+[ECO "E90"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppn1pbn/3p2p1/3Pp2p/1PP1P3/2N1BQ1P/P1B2PP1/2R2RK1 b - - 2 14"]
+
+14...a6
+
+[Event "SBCC Brask Invitational 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.02.16"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Dean, Lawrence"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[SetUp "1"]
+[FEN "r2q1b1r/pbp2kpp/8/1p1np3/3P4/5Q2/PP1P1PPP/RNB1KB1R b KQ - 2 10"]
+
+10...Ke7
+
+[Event "BCF August TNS"]
+[Site "?"]
+[Date "2016.08.25"]
+[Round "4"]
+[White "Pedersen"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "E86"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3pbp/n2p2p1/3P4/2P1P1b1/4B3/PP1QN2P/2KR1B1R w - - 0 15"]
+
+15.h4
+
+[Event "Saturday Action 9/1/2012"]
+[Site "CMC Providence"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Correia"]
+[Result "*"]
+[ECO "C51"]
+[SetUp "1"]
+[FEN "r1b1qk1r/ppp2ppp/1nnb4/1B6/8/B1P2NQ1/P4PPP/RN1R2K1 b - - 3 16"]
+
+16...Bd7
+
+[Event "BCC Weaver Adams 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.06.22"]
+[Round "4"]
+[White "Iglesias, Bernardo"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B20"]
+[SetUp "1"]
+[FEN "3qB1k1/5pbp/Q2ppnp1/2p3B1/1r2P3/3P1N1P/1Pn2PP1/4R1K1 w - - 1 22"]
+
+22.Bxf7+
+
+[Event "BCF April Quads"]
+[Site "?"]
+[Date "2017.04.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Perl, Joe"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "4k3/6R1/p1K1p3/2P2p1p/1P2pP1P/8/r4P2/8 b - - 1 38"]
+
+38...Rxf2
+
+[Event "BCF Harry Lyman Memorial"]
+[Site "?"]
+[Date "2015.09.19"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "0-1"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "2r3k1/p1P3b1/4P1pp/r1R2p1n/3pp3/6P1/P4PBP/1R4K1 w - - 2 32"]
+
+32.Rcc1
+
+[Event "BCC Underwater $10 Open"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.10"]
+[Round "2"]
+[White "Foye, Edward"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E81"]
+[SetUp "1"]
+[FEN "6k1/5p2/1p1qn3/8/1Pr1P3/3pBP2/R2Q1KP1/8 w - - 3 36"]
+
+36.Qb2
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.14"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "r4b1r/pp1n1k1p/2p2qp1/2Pp1Bn1/3P1B2/1P3P2/P1Q2PKP/RN2R3 w - - 1 17"]
+
+17.Be5
+
+[Event "SBCC Club Championship 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.04.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1pppbp/2n3pn/3NP3/2B2B2/5N2/PP2QPPP/R4RK1 b - - 0 11"]
+
+11...b5
+
+[Event "BCF Fundraiser"]
+[Site "?"]
+[Date "2017.02.12"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Song, Alan"]
+[Result "1-0"]
+[ECO "C09"]
+[SetUp "1"]
+[FEN "1qr1r3/1p1b2k1/p2b4/3Q4/3N4/2P4P/PP3PP1/2R1R1K1 b - - 0 27"]
+
+27...Rcd8
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2016.11.09"]
+[Round "9"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "D43"]
+[SetUp "1"]
+[FEN "8/3b4/7p/k1K1P3/8/6P1/7P/8 b - - 1 45"]
+
+45...Ka4
+
+[Event "SBCC 9/11 Memorial 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.09.15"]
+[Round "3"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "7r/pppkq3/4pbQ1/3p1pp1/1n1P4/2NBP3/PPP1KPP1/R7 w - - 5 19"]
+
+19.g4
+
+[Event "BCC Underwater $10 Open"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.10"]
+[Round "2"]
+[White "Foye, Edward"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E81"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp2pb1/4bn1p/3Np1p1/2PnP3/3B1PB1/PP1QN1PP/R3K2R b KQ - 1 13"]
+
+13...Nd7
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "r1b2rk1/p5pp/1p3pq1/2pPp3/2P1P3/P1P1P1P1/2QB1R1P/R5K1 b - - 3 23"]
+
+23...f5
+
+[Event "SEMCC Club Championship"]
+[Site "?"]
+[Date "2017.05.10"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "B00"]
+[SetUp "1"]
+[FEN "2r2rk1/p4pp1/1pRp1nnp/1P1Pp3/4P1q1/5NP1/P2BQP1P/4R1K1 b - - 0 20"]
+
+20...Ne7
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.30"]
+[Round "5"]
+[White "Dusza, Richard"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A48"]
+[SetUp "1"]
+[FEN "r3r1k1/1ppq1pbn/p2p1np1/P2N1b2/2PPp2p/4P2P/1PQN1PPB/1RR2BK1 b - - 5 18"]
+
+18...Nh5
+
+[Event "BCC $5 Open"]
+[Site "?"]
+[Date "2015.03.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1bbpp1/1qp2n1p/3p1P2/3P3B/2PB1QNP/PP4P1/4RRK1 b - - 0 20"]
+
+20...c5
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Hall"]
+[Result "*"]
+[ECO "D17"]
+[SetUp "1"]
+[FEN "r4rk1/1p4pp/1B6/pP2qp2/1b2P3/3B1PPb/1P2K2P/R2Q3R w - f6 0 22"]
+
+22.Qb3+
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Phelps, Matt"]
+[Result "1-0"]
+[ECO "D32"]
+[SetUp "1"]
+[FEN "8/3k1p1p/6p1/p2q4/3P3P/P2K2P1/1Q3P2/8 b - - 16 55"]
+
+55...Ke6
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.19"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Duncan, Troy"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "5rk1/p1p3qp/1p1p4/4p3/1n2Q2N/3P2P1/P4P1P/4R2K b - - 1 26"]
+
+26...Nc2
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.09"]
+[Round "2"]
+[White "Sifter, Thomas"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "8/6p1/r2k2p1/1K1Pp3/1R6/2P5/6PP/8 b - - 5 40"]
+
+40...Ra2
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.07"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Giambo, Jerry"]
+[Result "1-0"]
+[ECO "B27"]
+[SetUp "1"]
+[FEN "r1bqk2r/1p2npbp/p3p1p1/n2pP3/3P3P/2NB1N2/PP3PP1/R1BQ1RK1 b kq h3 0 11"]
+
+11...h5
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.03"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Ling, Evan"]
+[Result "0-1"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r6r/B4kp1/4pn1p/4p3/2n5/1N3R2/P4PPP/4RK2 w - - 3 28"]
+
+28.Re4
+
+[Event "New England Junior Chess Congress"]
+[Site "RI College"]
+[Date "2006.04.29"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Chen, Michelle"]
+[Result "1-0"]
+[ECO "E12"]
+[SetUp "1"]
+[FEN "1k5r/pb1P1ppp/1p6/1B2p3/3p1q2/5P2/PP4PP/2RQ1K2 w - - 0 25"]
+
+25.g3
+
+[Event "?"]
+[Site "?"]
+[Date "2013.08.28"]
+[Round "?"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp1npppp/2p2n2/8/2BPN3/8/PPP2PPP/R1BQK1NR w KQkq - 3 6"]
+
+6.Bxf7+
+
+[Event "SBCC Lucky Shamrock Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.03.30"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, Jim"]
+[Result "1-0"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "8/5k2/8/3P3R/4P3/r7/5K1p/8 b - - 1 52"]
+
+52...Ra4
+
+[Event "BCF Year End Open"]
+[Site "?"]
+[Date "2016.12.17"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Archibald, John"]
+[Result "1-0"]
+[ECO "C09"]
+[SetUp "1"]
+[FEN "r3kbnr/pp4p1/2n1Q2p/1q1p4/2pP4/5N2/PPP2PPP/R1B2RK1 b kq - 0 12"]
+
+12...Nge7
+
+[Event "Eastern Chess Congress"]
+[Site "?"]
+[Date "2014.11.07"]
+[Round "1"]
+[White "Hoy"]
+[Black "Koganov"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r5k1/pp4p1/4p2p/3p4/B2P2q1/P2QBrP1/1P4KR/2R5 b - - 0 30"]
+
+30...Rxg3+
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.20"]
+[Round "?"]
+[White "Hoy"]
+[Black "Arond"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/5pk1/4p2p/3pP3/P2Pn2P/2P3P1/1KQn1P2/R4q2 b - - 22 60"]
+
+60...Qc4
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.16"]
+[Round "?"]
+[White "Yu, Alex"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r4q1k/1ppb4/p2p1r1b/P2Ppp1p/1PP3pn/1NN1P3/3QBPPP/3RR1K1 w - - 6 22"]
+
+22.c5
+
+[Event "BCC @ Google"]
+[Site "?"]
+[Date "2014.11.20"]
+[Round "3"]
+[White "Sullivan, Robert"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "3r3k/2p2q2/2p2bp1/2n1np1p/2P1p3/1P2P1P1/1B3PBP/1RQ1N1K1 w - - 0 27"]
+
+27.Qc3
+
+[Event "BCC Ruben 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.10.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Lung, Luke"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r2q1r1k/pp2Npbp/4bnp1/4Q3/2B5/8/PP3PPP/R1B1R1K1 w - - 3 15"]
+
+15.Qc5
+
+[Event "Eastern Chess Congress"]
+[Site "?"]
+[Date "2014.11.09"]
+[Round "4"]
+[White "Glassman, Jeremy"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "E69"]
+[SetUp "1"]
+[FEN "r4rk1/3RQpb1/p5pp/1p2p3/2p1PP2/P3B1PP/1q1N2B1/6K1 w - - 2 35"]
+
+35.Nf3
+
+[Event "?"]
+[Site "?"]
+[Date "2017.04.22"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hori, Calvin"]
+[Result "*"]
+[ECO "B27"]
+[SetUp "1"]
+[FEN "rr6/4qpkp/p1b1p1p1/3pP3/2pR1Q1P/2P2N2/PP2RPP1/6K1 b - - 2 23"]
+
+23...h6
+
+[Event "Eastern Class Championships 2015"]
+[Site "?"]
+[Date "2015.04.25"]
+[Round "3"]
+[White "Isakov, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "4rr1k/1p4bp/p1b5/Q2pN1q1/3P1pp1/2N5/PPP1R1PP/5R1K w - - 4 26"]
+
+26.Qc7
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.23"]
+[Round "4"]
+[White "Jaleel, Zaroug"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "2r2b2/1p3kr1/p2pR1pR/3P4/2P2Pp1/3B4/PP6/1K6 b - - 4 31"]
+
+31...g5
+
+[Event "BCC November TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.11.05"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Sadykov, Khikmet"]
+[Result "1-0"]
+[ECO "D55"]
+[SetUp "1"]
+[FEN "rn3rk1/pbp1qp1p/1p4p1/3p4/3Pn3/2NBPN2/PPQ2PPP/2R2RK1 b - - 1 12"]
+
+12...Nd7
+
+[Event "BCC Legends of Chess: Oscar Panno"]
+[Site "?"]
+[Date "2015.02.21"]
+[Round "1"]
+[White "Dondis, Harold"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A21"]
+[SetUp "1"]
+[FEN "1r4k1/ppp3bp/2npb2r/4p1pq/1PP2p2/P2PP1PP/2Q1NPB1/1RB1R1K1 w - - 0 18"]
+
+18.g4
+
+[Event "Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2014.08.10"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Baez, Luis"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r3kb1r/pp3ppp/2n1p3/1N1n4/3P4/1P3N2/1P3PPP/R1B2RK1 w kq - 1 15"]
+
+15.Bf4
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "4B3/6k1/8/4p1P1/1pKbP3/8/P7/8 b - - 14 67"]
+
+67...Bc3
+
+[Event "BCF Fundraiser"]
+[Site "?"]
+[Date "2017.02.12"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Song, Alan"]
+[Result "1-0"]
+[ECO "C09"]
+[SetUp "1"]
+[FEN "1q1rr3/1p4k1/p2b4/5Q2/8/2P3PP/PP3P2/2R1R1K1 b - - 0 31"]
+
+31...b6
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.08"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Becker, Jared"]
+[Result "1-0"]
+[ECO "A57"]
+[SetUp "1"]
+[FEN "4kb1r/1b1p1ppp/1r6/2pP4/6P1/1PN4N/P3K1PP/R6R b k - 0 18"]
+
+18...c4
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.28"]
+[Round "3"]
+[White "Chevannes, Sabrina"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[SetUp "1"]
+[FEN "r1b1rbk1/pp3p1p/1q4p1/2n5/4p3/BP2QPPP/P1N3B1/1R3RK1 w - - 2 20"]
+
+20.b4
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.20"]
+[Round "?"]
+[White "Hoy"]
+[Black "Arond"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/5pk1/4p2p/3pPq2/P1nP3P/2P2nP1/K3QP2/1R6 w - - 1 50"]
+
+50.Rb5
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "5rk1/p1p1bppp/1r6/3Bp2b/4P3/2P1B3/PP3PPP/R3R1K1 b - - 2 17"]
+
+17...Rg6
+
+[Event "BCC Tornado #98"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.18"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Mishkin, Paul"]
+[Result "0-1"]
+[ECO "E12"]
+[SetUp "1"]
+[FEN "r5k1/5pp1/5n1p/N7/R7/2q1P2P/2r2PP1/RQ4K1 b - - 0 32"]
+
+32...Rd8
+
+[Event "BCF January TNS"]
+[Site "?"]
+[Date "2016.01.21"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Astrachan, Ed"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "8/1p3k2/p5p1/3Q4/3p2P1/8/Pq3P1P/6K1 b - - 7 43"]
+
+43...Kf6
+
+[Event "Mass Open"]
+[Site "?"]
+[Date "2014.05.25"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Perez, Robert"]
+[Result "0-1"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "r2q3k/1ppb4/3pp1B1/pN1Pp3/P3Pr2/7P/1PPQ1P2/2K3R1 w - - 3 24"]
+
+24.Qe2
+
+[Event "BCF May TNS"]
+[Site "?"]
+[Date "2017.05.11"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Zargari, Amir"]
+[Result "1-0"]
+[ECO "C03"]
+[SetUp "1"]
+[FEN "r1bq1rk1/6pp/1p2pP2/p2p4/Pn1P1PPb/1N6/1P5P/RBBQ1RK1 b - - 0 16"]
+
+16...gxf6
+
+[Event "BCC Spring Thaw Premier"]
+[Site "?"]
+[Date "2015.04.18"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sage, Timothy"]
+[Result "1-0"]
+[ECO "B00"]
+[SetUp "1"]
+[FEN "8/6pk/8/1ppq1p2/5Q2/1PK3P1/P1P2P2/8 b - - 0 32"]
+
+32...Qe6
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2015.06.06"]
+[Round "1"]
+[White "Henner, Peter"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "rn1qkb1r/ppp1p2p/5np1/3p2BP/3Pp3/2N5/PPP1QPP1/R3K1NR b KQkq - 0 8"]
+
+8...Bg7
+
+[Event "New England Masters 2016"]
+[Site "?"]
+[Date "2016.03.20"]
+[Round "7"]
+[White "Sage, Tim"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "8/8/8/2k1p3/3nP3/1pBB4/p4R1P/2K3r1 w - - 2 40"]
+
+40.Bf1
+
+[Event "BCC Herb Healy"]
+[Site "?"]
+[Date "2015.01.01"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Slade, Charles"]
+[Result "1-0"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPPQPPP/RNB1KB1R b KQkq - 1 4"]
+
+4...f5
+
+[Event "SBCC Club Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.05.24"]
+[Round "7"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[SetUp "1"]
+[FEN "8/2R5/4Bk1p/p2n1Pp1/2pr4/P7/5P1P/5K2 w - - 2 35"]
+
+35.Rc5
+
+[Event "BCC September TNS 2011"]
+[Site "Boylston Chess Club"]
+[Date "2011.09.29"]
+[Round "4"]
+[White "Pittman, Adam"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r5k1/p4pp1/2p4p/3q4/8/2P1Q3/P1P3PP/4R1K1 w - - 0 21"]
+
+21.Qd4
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Gu, Christopher"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "r2q1r1k/ppp3b1/3pPnpp/1P6/2PQP3/2N5/P3B1PP/R3R1K1 b - - 0 19"]
+
+19...Nxe4
+
+[Event "BCF February TNS"]
+[Site "?"]
+[Date "2017.02.16"]
+[Round "2"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D85"]
+[SetUp "1"]
+[FEN "4r1k1/1p2pp2/2p3pQ/2P1q3/4P3/7P/3R1PPK/8 w - - 1 33"]
+
+33.g3
+
+[Event "BCC Spring Thaw Premier"]
+[Site "?"]
+[Date "2015.04.18"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sage, Timothy"]
+[Result "1-0"]
+[ECO "B00"]
+[SetUp "1"]
+[FEN "r2q1k1r/pppbn1pp/3b2n1/4ppB1/2B5/1QN3P1/PPP2P2/R3K1NR w KQ - 4 14"]
+
+14.Rxh7
+
+[Event "BCF August TNS"]
+[Site "?"]
+[Date "2017.08.31"]
+[Round "5"]
+[White "Oresick"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "A40"]
+[SetUp "1"]
+[FEN "r3k2r/5pb1/pnpNp1p1/1p1nP2p/5B1P/1P1R1P1B/P1P2P2/2K1R3 b kq - 4 19"]
+
+19...Ke7
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Williams, Chris"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "4rr1k/1p1q2np/pQnp2p1/3B4/4PP2/P6P/1P2N1PB/2R3K1 b - - 6 31"]
+
+31...Nd8
+
+[Event "?"]
+[Site "?"]
+[Date "2014.08.28"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Graf, John"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bnkb1r/pp2pppp/5n2/1N2p3/2B5/5N2/PP3PPP/R1B1K2R b KQkq - 1 9"]
+
+9...Nc6
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.02.01"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Lemieux, James"]
+[Result "1-0"]
+[ECO "B09"]
+[SetUp "1"]
+[FEN "r4k1r/pp1qp2p/n2p1np1/2p3N1/5P2/2B3K1/PPP1Q1PP/4R2R b - - 16 23"]
+
+23...h6
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.07.03"]
+[Round "2"]
+[White "Han, Joseph"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1nnpp1/2p5/3pP1Np/1b1P3P/2NQ4/PP3PP1/R1B1K2R b KQkq - 4 11"]
+
+11...Nf8
+
+[Event "BCF April TNS"]
+[Site "?"]
+[Date "2016.04.28"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Zhou, David"]
+[Result "1-0"]
+[ECO "D44"]
+[SetUp "1"]
+[FEN "1r5r/pbq1k3/4p3/1ppP1p2/1np5/4NQP1/PP3PBP/R4RK1 b - - 0 22"]
+
+22...Nxd5
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Griffin, Mike"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r6r/pp2k1pp/1q1n4/3P4/Q7/8/P5PP/R3R2K b - - 0 23"]
+
+23...Kd8
+
+[Event "BCC September TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.24"]
+[Round "4"]
+[White "Bromberg, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B31"]
+[SetUp "1"]
+[FEN "3rr1k1/qb3p1p/p5pb/Pp1p4/1B1Pn3/1B1QN3/1P3PPP/2RR2K1 w - - 3 24"]
+
+24.Rc7
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.11.28"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "D52"]
+[SetUp "1"]
+[FEN "1rb3k1/4qp1p/2p1p1p1/2Pn2N1/R2P3P/1p1BP3/3Q1PP1/6K1 b - - 0 29"]
+
+29...Qb7
+
+[Event "Gus Gosselin Grade Championships 2002"]
+[Site "Sage School Foxboro"]
+[Date "2002.03.10"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Chua, Alan"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppp1ppp/5n2/2bPp3/2Pn1P2/2N1B3/PP2P1PP/R2QKBNR b KQkq f3 0 6"]
+
+6...exf4
+
+[Event "BCF January TNS"]
+[Site "?"]
+[Date "2016.01.21"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Astrachan, Ed"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r1b1k2r/1p2ppbp/pnnq2p1/8/3P4/NB3N2/PP3PPP/R1BQ1RK1 w kq - 1 12"]
+
+12.Bxf7+
+
+[Event "BCF August $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "8/6k1/8/4N2p/8/P1p3p1/K1P4r/6R1 b - - 5 57"]
+
+57...h4
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.15"]
+[Round "2"]
+[White "Chen, Avery"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r1bqkb1r/5ppp/p1np4/1p1Np3/4n3/N3BP2/PPP3PP/R2QKB1R b KQkq - 1 14"]
+
+14...Qh4+
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.28"]
+[Round "3"]
+[White "Chevannes, Sabrina"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[SetUp "1"]
+[FEN "r1b1r1k1/pp3pbp/1q4p1/2np4/4P3/1P2Q1PP/P1N2PB1/1RB2RK1 w - - 0 18"]
+
+18.f3
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Wheeler, Ken"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "r4rk1/pQ3ppp/2N2n2/3P3q/5B2/2N2PP1/PPn3K1/5R2 b - - 2 22"]
+
+22...Ng4
+
+[Event "BCC Quads 9-12"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1b3r1/pp3k1p/4p2P/2q2p2/2BQ4/2P1P3/P4P2/3RK2R b K - 3 26"]
+
+26...Qc6
+
+[Event "SBCC Summer Swiss 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.01"]
+[Round "4"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "1r3rk1/p6p/3p2p1/2B1bb2/1p3n1P/1P1P4/P1P3B1/1R1NR1K1 b - - 0 25"]
+
+25...Nxd3
+
+[Event "BCC May Quads"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Garcia"]
+[Black "Hoy"]
+[Result "*"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r2k1br1/pp1q1p1p/4pp2/5b2/3PN3/5N2/PP1Q1PPP/R3R1K1 b - - 5 16"]
+
+16...Qd5
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "4B3/6k1/8/4p1P1/1pKbP3/8/P7/8 b - - 14 67"]
+
+67...Bc3
+
+[Event "BCF August $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1r4k1/6pp/p2Nbb2/8/np2P3/2PR4/P1P3BP/1K4R1 w - - 0 24"]
+
+24.c4
+
+[Event "BCF February TNS"]
+[Site "?"]
+[Date "2017.02.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Lee, Jonathan"]
+[Result "1-0"]
+[ECO "C66"]
+[SetUp "1"]
+[FEN "r3r1k1/ppp3pp/2bpq1n1/5p2/3QPP2/1P4PP/PBP3B1/R3R2K b - - 2 19"]
+
+19...Qd7
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.30"]
+[Round "5"]
+[White "Dusza, Richard"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A48"]
+[SetUp "1"]
+[FEN "r1b1rnk1/ppp1qpb1/3p1np1/7p/2PPp3/2N1P2P/PPQNBPPB/R1R3K1 b - - 1 13"]
+
+13...h4
+
+[Event "BCF February TNS"]
+[Site "?"]
+[Date "2017.02.23"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Slive, Alex"]
+[Result "1-0"]
+[ECO "D58"]
+[SetUp "1"]
+[FEN "3r3k/p4Bp1/1p5p/2p5/3PR3/4P3/PP4PP/3b2K1 b - - 2 27"]
+
+27...Kh7
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.04.20"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp2pppp/1qnp4/4P3/2B2Bn1/2N2N2/PP3PPP/R2Q1RK1 b kq - 0 9"]
+
+9...Bf5
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.10"]
+[Round "2"]
+[White "Hall"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "1r1q1r2/p4pkp/3pbnp1/2p1p3/1p1nP2P/3PN1P1/PPPQNPB1/R4RK1 w - - 1 15"]
+
+15.f4
+
+[Event "BCF Paramount 2017"]
+[Site "?"]
+[Date "2017.03.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Becker, Jared"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "3b4/7p/p7/5k2/1p2p1p1/4R3/PPPK3P/8 w - - 0 33"]
+
+33.Ke2
+
+[Event "SEMCC Winter Classic"]
+[Site "?"]
+[Date "2016.02.03"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, Jim"]
+[Result "1-0"]
+[ECO "B09"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1nppbp/2pp1np1/4P3/3P1P2/2NB1Q1P/PPP3P1/R1B2RK1 b - - 0 10"]
+
+10...Nd5
+
+[Event "BCF February TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.02.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Frazier, Frank"]
+[Result "1-0"]
+[ECO "D06"]
+[SetUp "1"]
+[FEN "1r6/2p1kpp1/7p/R1p1P3/2b1P3/2P2P2/3r2PP/R3N1K1 b - - 0 25"]
+
+25...Rbb2
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.08.24"]
+[Round "4"]
+[White "Hoy"]
+[Black "Kelly"]
+[Result "1-0"]
+[ECO "E94"]
+[SetUp "1"]
+[FEN "r5k1/pp1q1rbp/n2pbBp1/3Npp2/1PP1P3/5P2/P3B1PP/R2QNR1K b - - 0 18"]
+
+18...Bxd5
+
+[Event "?"]
+[Site "?"]
+[Date "2014.10.08"]
+[Round "2"]
+[White "Hoy"]
+[Black "Plante"]
+[Result "1-0"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "rn2kbnr/ppp2ppp/5q2/4p3/2B1P3/1Q6/PPP2PPP/RNB1K2R b KQkq - 3 7"]
+
+7...Bc5
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.11"]
+[Round "2"]
+[White "Berkey, Eric"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "1r3Nk1/pp3pp1/5n1p/2b1n3/2p5/2P2PPq/PP1BB2P/R2Q1R1K b - - 3 25"]
+
+25...h5
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.04.04"]
+[Round "1"]
+[White "Wald, Joel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1pbp1p/p3pnp1/np6/4PB2/2NQ1N2/PPB2PPP/R2R2K1 w - - 0 14"]
+
+14.h3
+
+[Event "SEMCC Brask Invitational"]
+[Site "?"]
+[Date "2015.12.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "r1b1kb1r/2q2pp1/pnp2n1p/1p1pP3/4P1PP/1PN1BPN1/P1PQ4/R3KB1R b KQkq - 0 12"]
+
+12...dxe4
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Cross, Ted"]
+[Result "0-1"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "1k1r3r/1pp1b3/4Q3/1p3p1p/3P1q2/P4P2/1P3B1P/3R1K1R w - - 1 25"]
+
+25.Rd3
+
+[Event "BCF Winter Action Swiss"]
+[Site "?"]
+[Date "2015.07.20"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Hoy"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "3r1rk1/1p4pp/p1q2p2/2bnp3/7B/2P2Q2/PPNR1PPP/5RK1 b - - 1 20"]
+
+20...Nb4
+
+[Event "BCF April TNS"]
+[Site "?"]
+[Date "2017.04.13"]
+[Round "2"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D35"]
+[SetUp "1"]
+[FEN "1r6/3k2p1/R7/Bn1p1p1p/2pP1P1P/1p3PP1/1P1K4/8 w - - 21 52"]
+
+52.Bc3
+
+[Event "SBCC Dog Days of Chess 2011"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.24"]
+[Round "4"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "5r2/pp4k1/2p2q2/3pRp1Q/3P1p2/2P5/PP6/6K1 w - - 0 34"]
+
+34.Re2
+
+[Event "BCF Tornado #120"]
+[Site "?"]
+[Date "2015.07.18"]
+[Round "2"]
+[White "Oresick, Robert"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r7/4p1kp/1q4p1/p2pNr2/2pPpP2/2PbP2P/P2Q2P1/R3R1K1 w - - 0 26"]
+
+26.Nxd3
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.16"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Qu, Chen"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2bppp/3n4/4Q3/2B2B2/2N5/PP3PPP/R2R2K1 b - - 0 14"]
+
+14...Qc7
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.20"]
+[Round "3"]
+[White "Cross, Ted"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2kr1b1r/p1p1p3/2pq3p/3pR1pn/3P3B/2N2P2/PPPQ3P/2K4R w - g6 0 15"]
+
+15.Qe2
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.01"]
+[Round "1"]
+[White "Lesieur, Nicholas"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "5rk1/pb2bp2/1p1rpp1p/6q1/2P3N1/1P1B3P/P3QPP1/3R1RK1 w - - 0 23"]
+
+23.Ne3
+
+[Event "Saturday Action 9/1/2012"]
+[Site "CMC Providence"]
+[Date "2012.09.01"]
+[Round "4"]
+[White "Chin"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "3q1rk1/4b1pp/1p2pn2/nP1pN3/4P3/2N1B3/Q4PPP/R5K1 w - - 0 19"]
+
+19.Bxb6
+
+[Event "SBCC Club Championship 2015"]
+[Site "?"]
+[Date "2015.04.08"]
+[Round "2"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "6rk/p7/2p1P3/2Pp3n/5P1q/5Qpb/P2B4/1R2R1K1 b - - 0 32"]
+
+32...Bg4
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.22"]
+[Round "4"]
+[White "Costello, Brian"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A25"]
+[SetUp "1"]
+[FEN "8/p2r3p/1p1k4/5pp1/1P2p3/P1R3PP/4KP2/8 w - - 2 35"]
+
+35.Rc1
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.08.17"]
+[Round "3"]
+[White "Birzu"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "3rk2r/pp3ppp/2n1p3/6q1/1b1P4/1P1Q2P1/PB1N1P1P/R3K2R w KQk - 1 15"]
+
+15.O-O
+
+[Event "Hauptturnier Side Game"]
+[Site "?"]
+[Date "2017.09.11"]
+[Round "1"]
+[White "Barry, Michael"]
+[Black "Hoy, Andrew"]
+[Result "*"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r4rk1/1b2bppp/pq3n2/1pn1p3/4B3/P4PN1/1PPN2PP/R1BQR1K1 w - - 1 18"]
+
+18.Kf1
+
+[Event "BCF October TNS"]
+[Site "?"]
+[Date "2015.10.08"]
+[Round "2"]
+[White "Astrachan, Ed"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "r1b1k2B/pp2np1p/2pQp3/8/2P5/8/PPq1NPPP/n3KB1R b kq - 2 14"]
+
+14...Qxc4
+
+[Event "BCF Fall Foliage Premier"]
+[Site "?"]
+[Date "2015.10.17"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "2b2n2/6k1/p2r1qp1/1p4R1/4Q2P/2PB4/PP3PP1/6K1 b - - 4 34"]
+
+34...Bf5
+
+[Event "SEMCC Opening Gambit"]
+[Site "?"]
+[Date "2016.01.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1rr3k1/2q2pp1/p2p2Pp/2nb1P1Q/8/1PR4B/1PP1N2P/2K2R2 b - - 3 23"]
+
+23...Rxb3
+
+[Event "SBCC Name It Yourself Open 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.06.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp1b1ppp/2nb1n2/1B2p1N1/8/2NQ4/PPPP1PPP/R1B2RK1 b - - 1 11"]
+
+11...Qc7
+
+[Event "World Open"]
+[Site "Arlington, VA"]
+[Date "2014.07.03"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Agu, Uche"]
+[Result "1-0"]
+[ECO "A55"]
+[SetUp "1"]
+[FEN "r3r1k1/4bpp1/1R1p3p/2pP1P2/p1PqPP1P/P2B2QK/8/4R3 b - - 4 39"]
+
+39...f6
+
+[Event "USATE"]
+[Site "Plainville, MA"]
+[Date "2014.02.16"]
+[Round "?"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B06"]
+[SetUp "1"]
+[FEN "r2qk1nr/1ppb1pb1/p1npp1pp/3P4/4P3/2N1BN2/PPPQ1PPP/1K1R1B1R b kq - 0 9"]
+
+9...Ne5
+
+[Event "BCC Ruben 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.10.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Lung, Luke"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "7k/p4pb1/1p4p1/3b3p/P5PP/5P2/1Pr1B3/1RB1K3 w - h6 0 30"]
+
+30.b3
+
+[Event "?"]
+[Site "?"]
+[Date "2017.06.22"]
+[Round "4"]
+[White "Bonnell, Leo"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "3r2k1/5p1p/p2qpnp1/Qp1r4/5P2/3BP3/PP2KP1P/2RR4 w - - 2 25"]
+
+25.Qa3
+
+[Event "SEMCC Brask Invitational"]
+[Site "?"]
+[Date "2016.12.07"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Bird, David"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp1pn1pp/2nBpp2/8/1P2P3/2Q2N2/P4PPP/R3KB1R b KQkq b3 0 10"]
+
+10...b6
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.30"]
+[Round "7"]
+[White "Hoy, Andrew"]
+[Black "Meruga"]
+[Result "0-1"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "1R6/ppbrkp2/2p5/5K2/1PP1P3/5PP1/P7/8 w - - 9 43"]
+
+43.Rg8
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.26"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Neale, Mark"]
+[Result "1-0"]
+[ECO "C66"]
+[SetUp "1"]
+[FEN "8/8/3pr1Rp/3k1p1P/3n1P2/2B5/5KP1/8 b - - 4 44"]
+
+44...Rxg6
+
+[Event "Philadelphia Open 2014"]
+[Site "?"]
+[Date "2014.04.18"]
+[Round "?"]
+[White "Hoy"]
+[Black "Miyasaka, Matthew"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "1k1r1bnr/p4ppp/4p3/1N6/3q4/5Q2/PP3PPP/2R2RK1 b - - 3 16"]
+
+16...Qd5
+
+[Event "?"]
+[Site "?"]
+[Date "2014.02.16"]
+[Round "?"]
+[White "Rajasekaran, Vignesh"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E62"]
+[SetUp "1"]
+[FEN "1n1r2k1/ppq2pb1/2p3pp/P1P1p1n1/1P2P3/B1NBQ1P1/5PK1/1R6 w - - 1 29"]
+
+29.b5
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Cross, Ted"]
+[Result "0-1"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1b3/1n2p3/5p1p/2nP1q2/P1N2P2/1PQ1BB1P/3R1K1R w - - 0 21"]
+
+21.Nb5
+
+[Event "SBCC Club Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.04.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Hanson, David"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "3r3k/1R1r2p1/3P3p/p7/4Q3/q5P1/5P1P/3R2K1 b - - 0 34"]
+
+34...Rxb7
+
+[Event "BCC Quads 9-12"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1b5/pp3k1p/2q1p2P/5p2/2BQ1P2/2P1P3/P3K1r1/3R3R w - - 1 29"]
+
+29.Kd3
+
+[Event "?"]
+[Site "?"]
+[Date "2013.10.19"]
+[Round "?"]
+[White "Klein, Ethan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D91"]
+[SetUp "1"]
+[FEN "2r3k1/4ppbp/p3b1p1/8/1npP3B/4PB2/P2N1PPP/2R3K1 w - - 4 22"]
+
+22.Bxe7
+
+[Event "Gus Gosselin Grade Championships 2002"]
+[Site "Sage School Foxboro"]
+[Date "2002.03.10"]
+[Round "2"]
+[White "Levens, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp3ppp/2qpp3/4P3/3p2n1/5N2/PPP1QPPP/RN2K2R w KQkq - 0 12"]
+
+12.Nxd4
+
+[Event "BCF February TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.02.26"]
+[Round "4"]
+[White "Bohigian, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "8/1pq3kp/p5p1/r3p3/3p2P1/1P1P3P/2PQR3/5K2 w - - 0 30"]
+
+30.Rf2
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Wu, Elliott"]
+[Result "1-0"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "2r2rk1/3b1pb1/3p2p1/3B1pq1/p2NP3/5P2/PPPQ2P1/2KR3R b - - 2 21"]
+
+21...f4
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.06.14"]
+[Round "3"]
+[White "Abdi, Farzad"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E62"]
+[SetUp "1"]
+[FEN "r2qr1k1/1p3pbp/pn2bnp1/3p4/3PpBP1/2N1N2P/PP1QPPB1/2RR2K1 w - - 4 20"]
+
+20.Nxe4
+
+[Event "BCC March TNS 2015"]
+[Site "?"]
+[Date "2015.03.19"]
+[Round "3"]
+[White "Godin, Eric"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2r4k/pp5p/5ppb/8/3P4/P1Pb1B1P/1P1N1rP1/2KRR3 w - - 5 26"]
+
+26.Re7
+
+[Event "BCC Early Bird Rapid Quads 1-2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.01.20"]
+[Round "1"]
+[White "Lieberman, Seth"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "1r2k2r/5p1p/p2p3b/1n1Pp3/2N1q3/1K6/PPP3PP/R2Q1B1R w k - 1 21"]
+
+21.Ka4
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2016.11.05"]
+[Round "?"]
+[White "Bing, Charles"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "4r3/ppk1PRp1/2p4p/3rq3/6Q1/2Pp4/PP4PP/5RK1 w - - 0 23"]
+
+23.Rf8
+
+[Event "Gus Gosselin Grade Championships 2002"]
+[Site "Sage School Foxboro"]
+[Date "2002.03.10"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Chua, Alan"]
+[Result "0-1"]
+[SetUp "1"]
+[FEN "r1bqk2r/pppp1ppp/5n2/2bPp3/2Pn4/2N1B3/PP2PPPP/R2QKBNR w KQkq - 3 6"]
+
+6.f4
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.05"]
+[Round "2"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D41"]
+[SetUp "1"]
+[FEN "2rq1rk1/p4p1p/bp2p1p1/b4nN1/3PQ3/P1P3P1/3B1PBP/R1R3K1 w - - 4 22"]
+
+22.Nxe6
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Griffin, Mike"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r3k2r/pp4pp/1qn1bn2/3p4/Q2P4/3B1N2/P4PPP/R3R1K1 b kq - 1 16"]
+
+16...Ke7
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2015.06.06"]
+[Round "1"]
+[White "Henner, Peter"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "8/p2R3p/5pkn/6pN/2P5/1P3rP1/P1K2P2/8 w - - 1 45"]
+
+45.g4
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.03"]
+[Round "1"]
+[White "Holmgren, Bob"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r3k2r/ppq2pp1/2nbp1p1/8/2BP2P1/P3B2P/2P2P2/R2QK2R w KQkq - 1 16"]
+
+16.Qd2
+
+[Event "?"]
+[Site "?"]
+[Date "2015.09.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "8/1k6/7R/P7/KP6/8/6rp/8 b - - 0 51"]
+
+51...Ka7
+
+[Event "BCF Chess Day Open"]
+[Site "?"]
+[Date "2016.10.08"]
+[Round "4"]
+[White "Chen, Max"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "rn1q1rk1/ppp3bp/3pb1p1/5p2/2PN1B2/1Pn5/P3PPPP/2RQKB1R w K - 0 11"]
+
+11.Nxe6
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "5"]
+[White "Smail, Benedict"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[SetUp "1"]
+[FEN "1R6/p3pk1q/8/2pPpb1r/2P2p1P/P4Q2/8/5K1R w - - 6 50"]
+
+50.Qf2
+
+[Event "BCF September TNS"]
+[Site "?"]
+[Date "2015.09.10"]
+[Round "2"]
+[White "Feld, Uri"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "1r6/5rkp/1n6/1P3pP1/pp1p4/3B4/P6P/1K1R1R2 w - - 0 34"]
+
+34.Bxf5
+
+[Event "SBCC 9/11 Memorial 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.09.29"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Wheeler, Ken"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "8/1p2kp1p/p7/PPP3p1/3p4/R2Pr1PP/5KP1/8 b - - 0 32"]
+
+32...axb5
+
+[Event "BCF August $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "3k4/4b1pp/4P3/1N6/8/P1p4r/K1P1R3/8 b - - 0 43"]
+
+43...g5
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.24"]
+[Round "4"]
+[White "Felker, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B31"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1qppb1/3p3p/3NP1p1/3P2b1/5NP1/PP2QPP1/2R1R1K1 b - - 2 18"]
+
+18...Rac8
+
+[Event "?"]
+[Site "?"]
+[Date "2016.05.20"]
+[Round "1"]
+[White "Hori, Calvin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "r4rk1/1p1q2p1/4p2p/pNPp1pnP/Pn1P4/1N6/4QPP1/R3R1K1 w - - 0 25"]
+
+25.Rac1
+
+[Event "BCF Summer Action Swiss"]
+[Site "?"]
+[Date "2015.07.11"]
+[Round "4"]
+[White "Liang, Dustin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "r3kb1r/pp1n1ppp/1q2p3/3pP3/1n1P1B2/1P1Q1N2/P4PPP/RN2K2R w KQkq - 1 13"]
+
+13.Qd2
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.16"]
+[Round "?"]
+[White "Yu, Alex"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1b2q1k/1pp5/p2p1r1b/P2Ppp1p/1PP3pn/1NN1P3/2Q1BPPP/3RR1K1 w - - 4 21"]
+
+21.Qd2
+
+[Event "BCC December Thursday Night Swiss"]
+[Site "?"]
+[Date "2014.12.08"]
+[Round "2"]
+[White "Sullivan, Robert"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "r5rk/p2R2b1/1pp2np1/3p2p1/3P2R1/3B3P/PPP1N1P1/6K1 w - - 2 24"]
+
+24.Rxg5
+
+[Event "SBCC Dog Days of Chess 2011"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.24"]
+[Round "4"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "6r1/pp4k1/2p2q2/3p1p1Q/3P1p2/2P5/PP2R3/6K1 w - - 2 35"]
+
+35.Kf1
+
+[Event "BCC September TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.09.09"]
+[Round "1"]
+[White "Shapiro, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp6/3p4/n2Pp2p/1Pp1Pppq/P1NB1Pb1/2P1Q1PP/RR3N1K w - - 0 22"]
+
+22.bxa5
+
+[Event "BCC March TNS 2015"]
+[Site "?"]
+[Date "2015.03.12"]
+[Round "2"]
+[White "Wald, Joel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B84"]
+[SetUp "1"]
+[FEN "2r2rk1/1b2bppp/pB2pn2/1p6/5P2/P1N2N2/1PP3PP/R4RK1 w - - 0 19"]
+
+19.Rad1
+
+[Event "SEMCC Club Championship"]
+[Site "?"]
+[Date "2017.05.17"]
+[Round "6"]
+[White "Fortier, Gerry"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "8/5K2/1pk1PP2/3p4/3Pn3/PR6/8/5r2 w - - 3 65"]
+
+65.e7
+
+[Event "BCC Highland Ave. Octads"]
+[Site "Boylston Chess Club"]
+[Date "2010.02.20"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Wang, Jimmy"]
+[Result "1-0"]
+[ECO "D70"]
+[SetUp "1"]
+[FEN "r7/5pkp/6p1/1p6/4P3/p2N4/R4PPP/6K1 b - - 1 30"]
+
+30...Kf6
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.03.03"]
+[Round "4"]
+[White "Bungo, Greg"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "C13"]
+[SetUp "1"]
+[FEN "6k1/pb6/6pP/2p2q2/3p1r2/4p1Q1/PPP4R/2KR4 w - - 0 29"]
+
+29.Rh4
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.04.20"]
+[Round "?"]
+[White "Rabin, Evan"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[SetUp "1"]
+[FEN "3r1r1k/5Ppp/p7/1p1ppP2/4b3/1B6/P1PR1K1P/1R6 w - - 0 28"]
+
+28.Rbd1
+
+[Event "BCC Tornado #98"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.18"]
+[Round "3"]
+[White "Foye, Edward"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A34"]
+[SetUp "1"]
+[FEN "rnb1k2r/pp1p1p2/4p1pp/8/2P5/2n1PN2/P2Q1PPP/q1R1KB1R b Kkq - 3 14"]
+
+14...Qxa2
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Cross, Ted"]
+[Result "0-1"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "1k1r2r1/1pp5/3b4/1p5p/3P1p2/PR2QPBK/1q5P/7R w - - 0 32"]
+
+32.Qd3
+
+[Event "BCC January TNS"]
+[Site "?"]
+[Date "2015.01.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp2pppp/2n5/8/3P4/1QP2P2/P4P1P/R1B1KB1R b KQkq - 0 10"]
+
+10...Qc8
+
+[Event "?"]
+[Site "?"]
+[Date "2016.02.14"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Sprechman, Daniel"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "rn1q1rk1/p3nppp/bp6/1NPp4/2B5/P4N2/5PPP/R1BQ1RK1 b - - 0 12"]
+
+12...bxc5
+
+[Event "SBCC Team Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.06.08"]
+[Round "1"]
+[White "Dean, Lawrence"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "3r2k1/p3rpqp/4bRp1/1p1p2P1/3PPQ1P/P7/6B1/5RK1 w - - 0 29"]
+
+29.exd5
+
+[Event "BCC Polar Vortex"]
+[Site "?"]
+[Date "2015.01.17"]
+[Round "1"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D01"]
+[SetUp "1"]
+[FEN "8/p2Pk3/1p6/2p5/2Pr1p2/1P1R4/P1K5/8 w - - 1 38"]
+
+38.Rxd4
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hanson, Dave"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "3r1rk1/ppN3bp/6p1/2Q1p1q1/1PP1pnb1/6P1/P4P1P/R1B1RBK1 b - - 2 17"]
+
+17...Bf3
+
+[Event "SEMCC Opening Gambit"]
+[Site "?"]
+[Date "2016.01.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1rr3k1/1bq2pp1/p2p2Pp/2n2P1Q/2R5/1P5B/1PP1N2P/2K2R2 b - - 1 22"]
+
+22...Bd5
+
+[Event "BCF Club Championship 2016"]
+[Site "?"]
+[Date "2016.09.12"]
+[Round "1"]
+[White "Birzu"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "E01"]
+[SetUp "1"]
+[FEN "8/p2r3p/8/8/1PR5/2Kpkr2/P2R3P/8 w - - 4 46"]
+
+46.a4
+
+[Event "SEMCC"]
+[Site "?"]
+[Date "2015.07.22"]
+[Round "4"]
+[White "Kamara, Segun"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2rq1rk1/1b1pbppp/p3pn2/1p2N3/2n1PB2/2N5/PPB1QPPP/2RR2K1 w - - 2 15"]
+
+15.Bb3
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2015.06.07"]
+[Round "4"]
+[White "Niemann, Hans"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2krq2b/ppp5/2n3pB/4Pb1n/N2p4/P1N2P2/1PPQ4/2KR1B2 w - - 0 21"]
+
+21.Na2
+
+[Event "?"]
+[Site "?"]
+[Date "2013.07.10"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D93"]
+[SetUp "1"]
+[FEN "r2qr1k1/1p3pbp/p1n2np1/2Pppb2/8/2N1P1B1/PPN1BPPP/R2Q1RK1 w - - 1 13"]
+
+13.a3
+
+[Event "BCF Year End Open"]
+[Site "?"]
+[Date "2016.12.17"]
+[Round "3"]
+[White "Pillai, Natesh"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r2qr1k1/1pp3bp/3p2p1/3Pnp2/p1P5/P3BB1P/1P3PP1/R2Q1RK1 w - - 1 18"]
+
+18.Qc2
+
+[Event "BCC Legends of Chess: Tigran Petrosian"]
+[Site "?"]
+[Date "2015.03.21"]
+[Round "?"]
+[White "Birzu, Gabriel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r4r2/ppp2qk1/2n2bp1/2P2p2/4pN1P/P3P3/1P2P1BP/1RQR2K1 w - - 1 23"]
+
+23.Bh3
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "5"]
+[White "Smail, Benedict"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[SetUp "1"]
+[FEN "2rq3r/pp1bpkb1/3p1np1/2pP1p1p/2P2Pn1/2NQ1BP1/PPN1P1K1/R1B4R w - h6 0 18"]
+
+18.Bd2
+
+[Event "BCF Paramount 2017"]
+[Site "?"]
+[Date "2017.03.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Becker, Jared"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "r7/4nk1p/p4b2/6p1/1p1Np3/8/PPP4P/2KR3R b - - 0 26"]
+
+26...Nd5
+
+[Event "BCC May Thursday Night Swiss"]
+[Site "?"]
+[Date "2014.05.31"]
+[Round "4"]
+[White "Yip, Carissa"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "8/1r6/1P6/4p1kP/5p2/1R6/1K6/8 w - - 1 54"]
+
+54.Rb5
+
+[Event "BCC Legends of Chess: Oscar Panno"]
+[Site "?"]
+[Date "2015.02.21"]
+[Round "1"]
+[White "Dondis, Harold"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A21"]
+[SetUp "1"]
+[FEN "5rk1/ppp3bp/2np3r/4p3/1PP2pp1/P2PPP2/5QBq/1RB1RKN1 w - - 4 24"]
+
+24.fxg4
+
+[Event "BCC September TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.24"]
+[Round "4"]
+[White "Bromberg, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B31"]
+[SetUp "1"]
+[FEN "3rr1k1/1b3pbp/pq3np1/1p1p4/PB1P4/1B2N3/1P3PPP/2RQR1K1 w - - 3 21"]
+
+21.Qd3
+
+[Event "BCF August $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "3R4/5k2/8/4N2p/8/P1p3pr/K1P5/8 b - - 1 55"]
+
+55...Kg7
+
+[Event "Cranston Chess Club"]
+[Site "?"]
+[Date "2016.03.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Neale, Mark"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "8/2p3kp/1b4p1/p1q5/2B4P/6P1/P3QP2/6K1 b - - 10 52"]
+
+52...Qa3
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.25"]
+[Round "4"]
+[White "Gavlick, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r4r2/ppp1p1k1/3q2pp/n2p4/2PPp1bP/N3Q1P1/PP2PPB1/2R1K2R b K - 0 20"]
+
+20...e6
+
+[Event "BCC Swiss #24 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.08.29"]
+[Round "4"]
+[White "Xu, Grant"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "3r2k1/5pp1/1p3q1p/p7/Q7/7P/P4PP1/4R1K1 w - a6 0 28"]
+
+28.Qc2
+
+[Event "SBCC Year End Open 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.12.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Lemieux, Jim"]
+[Result "1-0"]
+[ECO "C57"]
+[SetUp "1"]
+[FEN "2kr3r/Bbpqb1pp/2n5/1BN1pp2/8/2P2Q2/PPP2PPP/R3K2R b KQ - 1 14"]
+
+14...Qd2+
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sfougaris, Jim"]
+[Result "1-0"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "r7/pp1b2r1/2p1p1Bk/4P1pP/2P3R1/8/PP3P2/2K3R1 b - - 5 25"]
+
+25...Rag8
+
+[Event "BCC May Early Bird 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.05"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Esserman, Marc"]
+[Result "0-1"]
+[ECO "B80"]
+[SetUp "1"]
+[FEN "r5k1/1p3ppp/p4b2/q2pn3/3NrN2/2P1B1Pb/PP1Q1P2/1R2R1K1 w - - 7 21"]
+
+21.Qd1
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.17"]
+[Round "?"]
+[White "Hoy"]
+[Black "Hess"]
+[Result "1-0"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "r3k2r/1p1n1ppp/2bRp3/p1q1P1Q1/2PN4/8/PP4PP/2K2B1R w kq - 7 20"]
+
+20.Nxe6
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.05.22"]
+[Round "?"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "r1b2qkr/pp1p3p/2n5/2pNbpNQ/3P4/8/PPPB2PP/4R2K b - - 0 18"]
+
+18...cxd4
+
+[Event "SBCC Fall Classic 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.11.10"]
+[Round "5"]
+[White "McCauley, John"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A82"]
+[SetUp "1"]
+[FEN "8/R1k5/2p5/P2p4/1P1K4/r2P4/8/8 b - - 7 44"]
+
+44...Kb8
+
+[Event "BCF November TNS"]
+[Site "?"]
+[Date "2015.02.16"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Schwartz, Maxwell"]
+[Result "0-1"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1b1k1r1/1p1nbp1p/2n1p3/pB1pP3/P2q2p1/3N4/1P1NQPPP/R1B1R1K1 b q - 3 15"]
+
+15...Qb6
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.20"]
+[Round "3"]
+[White "Cross, Ted"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2k4r/2p3b1/2N2n1p/1pq5/4Q2p/5P2/PPP4P/1K1R4 w - - 4 29"]
+
+29.Ne7+
+
+[Event "?"]
+[Site "?"]
+[Date "2015.02.19"]
+[Round "3"]
+[White "Becker, Jared"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B10"]
+[SetUp "1"]
+[FEN "8/1r4k1/6p1/3Nb2p/4P1q1/1P2Q3/P3R3/1K6 w - - 3 43"]
+
+43.Rf2
+
+[Event "SBCC Year End Open 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.12.29"]
+[Round "5"]
+[White "Hall, Jeff"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B06"]
+[SetUp "1"]
+[FEN "rnb2rk1/pp2R2p/2p2np1/3p2N1/5R2/2NB4/PPP2PPP/2K5 b - - 7 18"]
+
+18...Nbd7
+
+[Event "BCF Winter Action Swiss"]
+[Site "?"]
+[Date "2016.01.23"]
+[Round "5"]
+[White "Bolat, Ahmet"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A10"]
+[SetUp "1"]
+[FEN "8/p7/1p1k3p/1PpP1P1P/P1B1pb2/8/6K1/8 w - - 0 50"]
+
+50.Kh3
+
+[Event "?"]
+[Site "?"]
+[Date "2014.12.03"]
+[Round "3"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "2rb2k1/1p3pp1/4p2p/1PPpP3/P1p5/4B3/R4PPP/5K2 b - - 0 32"]
+
+32...Be7
+
+[Event "BCC Quads 9-12"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1bqk1r1/ppp3Bp/3bp1pP/3p1p2/2PP4/2P1P3/P4PP1/R2QKB1R b KQq - 2 14"]
+
+14...c5
+
+[Event "SEMCC Opening Gambit"]
+[Site "?"]
+[Date "2016.01.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1rb2rk1/2qn1ppp/p2p4/5pP1/3RP3/1P3Q1B/1PP1N2P/2K4R w - - 0 18"]
+
+18.exf5
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.23"]
+[Round "1"]
+[White "Smirnov, William"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "4N3/p6r/1ppR2p1/4k3/4b2P/P5K1/1P6/8 w - - 7 45"]
+
+45.Rd2
+
+[Event "BCF October Quads"]
+[Site "?"]
+[Date "2015.10.03"]
+[Round "3"]
+[White "Kavi, Nithin"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "5rk1/2p2q1p/2P1b1p1/1Q6/2r1pp2/6P1/P4PBP/R2R2K1 w - - 0 23"]
+
+23.Rd2
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.27"]
+[Round "?"]
+[White "Dean"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "5rk1/p4pb1/1p2r2p/2p2Rp1/6P1/1P1P3P/P1P4B/5R1K w - - 0 30"]
+
+30.R1f2
+
+[Event "BCF June TNS"]
+[Site "?"]
+[Date "2016.06.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Birzu, Gabriel"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "8/5bp1/1pBk1p2/1P2r1p1/P2R4/6PP/5PK1/8 b - - 18 52"]
+
+52...Bd5+
+
+[Event "SBCC Club Championship 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.04.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r1r1k1/pbqp1pbp/2n1p1p1/1B2Pn2/4NB2/P4N1P/1P2QPP1/2RR2K1 b - - 4 20"]
+
+20...Nfe7
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.31"]
+[Round "8"]
+[White "Proleiko, Julian"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "7r/1p4p1/p3Rnk1/4n1q1/3Q4/7P/PP4P1/5RK1 b - - 2 32"]
+
+32...Nc6
+
+[Event "BCF Polar Vortex Premier"]
+[Site "?"]
+[Date "2016.01.30"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Sullivan, Robert"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "2rr2k1/pp4pp/8/4nb2/1b2N3/1PN1KP2/P5PP/R2RB3 b - - 8 27"]
+
+27...Ba5
+
+[Event "BCF February TNS"]
+[Site "?"]
+[Date "2016.02.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Williams, Jerry"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp1pbppp/4p3/q3n3/1PB1N3/P5B1/5PPP/R2Q1RK1 b - b3 0 14"]
+
+14...Bxb4
+
+[Event "BCF August $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1r4k1/6pp/p2Nbb2/1p6/n3P3/2P5/P1P3BP/1K1R2R1 w - - 1 23"]
+
+23.Rd3
+
+[Event "BCC Reubens Landey 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.08.02"]
+[Round "4"]
+[White "Paphitis, Alexander"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A35"]
+[SetUp "1"]
+[FEN "8/5rn1/7p/2pR1p2/1pP3Pk/1P1N3P/5K2/8 w - - 4 50"]
+
+50.Rxc5
+
+[Event "Philadelphia Open 2016"]
+[Site "?"]
+[Date "2016.03.26"]
+[Round "5"]
+[White "Dong, Alice"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D42"]
+[SetUp "1"]
+[FEN "2rr2k1/5ppp/p3p1n1/1p1q2Q1/1P1PR3/P6P/1B3PP1/3R2K1 w - - 1 26"]
+
+26.Qe3
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Kelleher, Bill"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "4R3/5pbk/8/3r1qpp/P2Pp3/4Q1PP/1B3PK1/8 b - - 3 33"]
+
+33...Bxd4
+
+[Event "Gus Gosselin Grade Championships 2002"]
+[Site "Sage School Foxboro"]
+[Date "2002.03.10"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Warner, George"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "r3kb1r/ppp2ppp/8/3BP3/2p5/8/PP3PPP/2R2R1K b kq - 0 14"]
+
+14...b5
+
+[Event "BCC Early Bird Quads 9-16"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "McGrady, Ryan"]
+[Result "1-0"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "4rrk1/p1qb2pp/3bpn2/3p4/2p5/2P1BN2/PP3PPP/R2QRBK1 w - - 2 19"]
+
+19.Bg5
+
+[Event "BCC Quads 2009-12"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.05"]
+[Round "2"]
+[White "Ingram, Sean"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "7k/1p1qNpbp/p5p1/B1Q5/3p1P1n/3P4/PPP3rP/4R2K w - - 4 28"]
+
+28.Nd5
+
+[Event "BCC Grand Prix 2011-1"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.29"]
+[Round "3"]
+[White "Griffin, Mike"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r2rk1/1b2qppp/pn2p3/1p1P4/8/P1N3R1/1PB1QPPP/3R2K1 b - - 0 22"]
+
+22...Nxd5
+
+[Event "SBCC Club Championship 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.04.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2rqr1k1/pb1p1pbp/2n1p1p1/1B2P3/5Bn1/P1N2N2/1P2QPPP/R2R2K1 b - - 1 17"]
+
+17...Qc7
+
+[Event "BCC April TNS 2015"]
+[Site "?"]
+[Date "2015.04.16"]
+[Round "3"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A81"]
+[SetUp "1"]
+[FEN "r1b2rk1/ppp1qNbp/2n1Pnp1/3p4/4p3/2N3P1/PPP2PBP/R1BQ1RK1 w - - 2 12"]
+
+12.Nxd5
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.20"]
+[Round "3"]
+[White "Cross, Ted"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2kr1b1r/ppp1p1pp/2Bq4/3p2Bn/3P4/2N2P2/PPPQ3P/2K1R2R b - - 0 12"]
+
+12...bxc6
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Harris, David"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "5rk1/p2r1p1p/2N1pbp1/2P5/3P2Pn/2B5/4RP1P/3R2K1 w - - 1 33"]
+
+33.Re3
+
+[Event "Philadelphia Open 2016"]
+[Site "?"]
+[Date "2016.03.27"]
+[Round "7"]
+[White "Vulis, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r3r1k1/pp1q1ppp/3b4/3pn3/3NnB2/2P5/PP3PPP/RN1QR1K1 w - - 2 15"]
+
+15.a4
+
+[Event "?"]
+[Site "?"]
+[Date "2017.07.08"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Baliga, Zubin"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "4rr2/1ppk1np1/3p1p1p/RP3P2/4PBP1/3P2K1/2P5/R7 b - - 0 30"]
+
+30...b6
+
+[Event "SBCC Winter Classic 2015"]
+[Site "?"]
+[Date "2015.03.04"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Robillard, Tom"]
+[Result "1-0"]
+[ECO "C41"]
+[SetUp "1"]
+[FEN "r2q3r/3k1pp1/p2b3p/1pp1n3/4Q1P1/P6P/1PP1BP2/3RK2R w K - 2 22"]
+
+22.O-O
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.15"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "4r3/1b2n2k/3p2pp/1q6/1p1pPP1Q/1P3B2/r1PB3P/2R1R2K b - - 0 30"]
+
+30...Ng8
+
+[Event "BCF May TNS"]
+[Site "?"]
+[Date "2017.05.18"]
+[Round "3"]
+[White "Chen, Hanrong"]
+[Black "Hoy, Andrew"]
+[Result "*"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "R4b1r/pp1k1pp1/2n1p1p1/1B1pP1B1/5P2/8/PPn2qPP/1NQ4K w - - 3 20"]
+
+20.Bxc6+
+
+[Event "?"]
+[Site "?"]
+[Date "2015.09.21"]
+[Round "2"]
+[White "Sage, Tim"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "D87"]
+[SetUp "1"]
+[FEN "8/1p5R/2n1k1p1/4b3/2p5/q1P1B3/P2RNPP1/4K3 b - - 4 27"]
+
+27...b5
+
+[Event "BCC March TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.03.26"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sadykov, Khikmet"]
+[Result "1-0"]
+[ECO "D53"]
+[SetUp "1"]
+[FEN "4r3/3b1Bpk/2p3r1/5p2/P2Pp1Pp/4q2P/1R4Q1/5R1K b - - 1 44"]
+
+44...f4
+
+[Event "BCF April $15 Open"]
+[Site "?"]
+[Date "2017.04.08"]
+[Round "2"]
+[White "Hori, Calvin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "8/6p1/7p/1R3PkP/8/1p1r2PK/8/8 w - - 2 54"]
+
+54.f6+
+
+[Event "SBCC Summer Swiss"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.07.25"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Caranci, Charlie"]
+[Result "1-0"]
+[ECO "B54"]
+[SetUp "1"]
+[FEN "3R4/7p/p1p1r1k1/2P3p1/1P3p2/P3R2P/5KP1/8 b - - 0 41"]
+
+41...fxe3+
+
+[Event "BCF April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.22"]
+[Round "3"]
+[White "Lu, Max"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A06"]
+[SetUp "1"]
+[FEN "3rk2r/pq2bppp/b3pn2/2p1N3/2NP1P2/4P3/PB4PP/1R1QR1K1 b k - 2 17"]
+
+17...Qd5
+
+[Event "Saturday Action 9/1/2012"]
+[Site "CMC Providence"]
+[Date "2012.09.01"]
+[Round "4"]
+[White "Chin"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r5k1/1R4pp/2N1p3/8/8/2bp4/5PPP/5K2 w - - 1 29"]
+
+29.Rb1
+
+[Event "BCC Quads 9-9"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Lu, Max"]
+[Result "1-0"]
+[ECO "A74"]
+[SetUp "1"]
+[FEN "r1b1Qbk1/1p3p1p/p2q2p1/2pPN3/P7/8/4BPPP/3R2K1 b - - 5 22"]
+
+22...f5
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Turner, Bill"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "r4rk1/pp1qb1p1/1np1p3/5p1Q/3P1B2/7R/P1P2PPP/4R1K1 w - - 4 22"]
+
+22.Be5
+
+[Event "BCC May Thursday Night Swiss"]
+[Site "?"]
+[Date "2014.06.12"]
+[Round "2"]
+[White "Medrek, Tom"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2rq1rk1/1b1pbppp/p3p3/np1nP3/5B2/2N2N2/PPB1QPPP/2RR2K1 w - - 1 15"]
+
+15.Qe4
+
+[Event "SEMCC Club Championship"]
+[Site "?"]
+[Date "2016.05.18"]
+[Round "6"]
+[White "Bird, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "3r4/kp3p2/p1p3q1/2Pr2pp/1P1pR3/P2R2PP/4Q1P1/6K1 w - - 6 38"]
+
+38.Re7
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Plante, Gerald"]
+[Result "0-1"]
+[ECO "D38"]
+[SetUp "1"]
+[FEN "7r/3b2k1/4pq2/1p1p2pp/2pQ1P2/r1P1P1P1/P3BKP1/R1R5 w - - 0 27"]
+
+27.Rc2
+
+[Event "BCC November TNS 2011"]
+[Site "Boylston Chess Club"]
+[Date "2011.11.03"]
+[Round "1"]
+[White "Disney, Loren"]
+[Black "Hoy, Andew"]
+[Result "0-1"]
+[ECO "A00"]
+[SetUp "1"]
+[FEN "2r5/p4k2/1pq1p1pp/n2pPp2/3P1N1P/bP1Q1NP1/P4P2/R2K4 w - - 2 36"]
+
+36.g4
+
+[Event "SEMCC Club Championship"]
+[Site "?"]
+[Date "2016.04.27"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Robillard, Tommy"]
+[Result "1-0"]
+[ECO "D44"]
+[SetUp "1"]
+[FEN "3r3r/pk3p2/4pP2/bpN5/8/PP2B1P1/R1p2P1P/4nRK1 b - - 0 26"]
+
+26...Kc6
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.09"]
+[Round "2"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "8/1r4pk/4p2p/2RpQ3/1q1Pp3/3b4/5PPP/2R3K1 b - - 3 34"]
+
+34...Qb6
+
+[Event "SBCC Summer Swiss"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.07.18"]
+[Round "2"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B50"]
+[SetUp "1"]
+[FEN "r1b2rk1/2q2pbp/p1nppnp1/1pp5/4P3/PP1PNN1P/1BP1BPP1/R2QK2R w KQ - 0 12"]
+
+12.Ng4
+
+[Event "BCF Winter Action Swiss"]
+[Site "?"]
+[Date "2016.01.23"]
+[Round "5"]
+[White "Bolat, Ahmet"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A10"]
+[SetUp "1"]
+[FEN "rn2r1k1/pp3qb1/2p1bnpp/1P3p2/2P1p3/BQN1P1P1/P2N1PBP/3RK2R w K - 1 16"]
+
+16.Ne2
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.20"]
+[Round "?"]
+[White "Hoy"]
+[Black "Arond"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/5pk1/4p2p/3pP3/P1qPn2P/2P2PP1/1KQn4/R7 b - - 0 61"]
+
+61...Nxg3
+
+[Event "SBCC Fall Classic 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.11.10"]
+[Round "5"]
+[White "McCauley, John"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A82"]
+[SetUp "1"]
+[FEN "8/3k4/1Rp5/P2p4/1P1K4/3P4/r7/8 b - - 3 42"]
+
+42...Kc7
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Bromberg, Daniel"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "1r3r1k/p1p1bppp/1p2pn2/3q2B1/3P1Q2/3B1P2/PPP2P1P/1K2R1R1 b - - 6 15"]
+
+15...Nh5
+
+[Event "?"]
+[Site "?"]
+[Date "2013.08.21"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "r2qk2r/pp1bbppp/2n1p3/3pP3/1P6/P1PB1N2/3B1PPP/2RQ1RK1 b kq - 0 13"]
+
+13...O-O
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.09"]
+[Round "2"]
+[White "Sifter, Thomas"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "8/8/2Pk4/1K6/4p3/6R1/r5PP/8 b - - 2 49"]
+
+49...Rb2+
+
+[Event "SBCC Team Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.06.09"]
+[Round "?"]
+[White "Gavlick, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E61"]
+[SetUp "1"]
+[FEN "4r1k1/ppp5/6pp/q4p2/2PbP3/1Q3PP1/PP1rB2P/1R3K1R w - f6 0 22"]
+
+22.c5+
+
+[Event "BCF Paramount"]
+[Site "?"]
+[Date "2017.04.17"]
+[Round "7"]
+[White "Becker, Jared"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B53"]
+[SetUp "1"]
+[FEN "2rr2k1/1pqbbppp/p1nppn2/8/2P1P3/1PN2N2/PB1Q1PPP/R3RBK1 w - - 6 14"]
+
+14.Nd5
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.16"]
+[Round "?"]
+[White "Howell, Mike"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "3r2k1/p1q2ppp/7b/5R2/4R1Q1/6P1/2P2P1K/3r4 w - - 1 35"]
+
+35.Qf3
+
+[Event "SBCC Club Championship 2015"]
+[Site "?"]
+[Date "2015.04.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Dawar, Ria"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pp3pbp/2n3p1/1N1p4/2B2B2/5N2/PP3PPP/R2Q1RK1 b kq - 1 10"]
+
+10...Kf8
+
+[Event "BCF February TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.02.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Frazier, Frank"]
+[Result "1-0"]
+[ECO "D06"]
+[SetUp "1"]
+[FEN "rn1k1b1r/ppp2ppp/4b3/4P3/4P3/2P5/P4PPP/R1B1KBNR b KQ - 0 8"]
+
+8...Nc6
+
+[Event "?"]
+[Site "?"]
+[Date "2013.10.09"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Burnett, Ed"]
+[Result "1-0"]
+[ECO "D42"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p3pp1/p7/4Q3/8/2N1P3/PP4PP/2R1R1K1 b - - 0 18"]
+
+18...Re8
+
+[Event "SBCC Lucky Shamrock Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.03.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Plante, Gerry"]
+[Result "1-0"]
+[ECO "A91"]
+[SetUp "1"]
+[FEN "r2qn1k1/pp1b1rpp/2pB2n1/2Pp1p2/7P/PQ2PPP1/1PN3B1/R4RK1 w - - 9 23"]
+
+23.e4
+
+[Event "BCF January TNS"]
+[Site "?"]
+[Date "2016.01.07"]
+[Round "?"]
+[White "Griffin, Mike"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r2rk1/3pbp1p/pq4p1/1p2P3/3R1B2/3Q2PP/PP3P2/1B4K1 w - - 2 24"]
+
+24.Bh6
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2017.04.22"]
+[Round "1"]
+[White "Wei, Eddie"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E01"]
+[SetUp "1"]
+[FEN "6k1/p4pp1/1p2p3/2p1Pn1p/2P2PP1/1P1Q3P/P4B2/5K1q w - - 1 30"]
+
+30.Bg1
+
+[Event "SBCC March Madness 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.03.14"]
+[Round "3"]
+[White "Hanson, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "2rqk1r1/5pb1/p1npb2p/1p1Np2Q/4Pp1P/N1PB1P2/PP4P1/R4K1R w q - 1 17"]
+
+17.Rg1
+
+[Event "SBCC March Madness 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.03.28"]
+[Round "5"]
+[White "Harris, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A04"]
+[SetUp "1"]
+[FEN "2kr1b1r/ppp2q2/2np1p2/3N2p1/5p1P/3QB3/PPP2PP1/2KR3R w - - 0 16"]
+
+16.hxg5
+
+[Event "BCF February TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.02.26"]
+[Round "4"]
+[White "Bohigian, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "8/1p4k1/p5p1/4pqP1/3p4/1P1P4/2P4Q/6K1 w - - 2 39"]
+
+39.Qh6+
+
+[Event "BCF December TNS"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "2"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1rb2k1r/4bppp/1q1Np3/2n1PP2/8/1PN3Q1/P1P3PP/2KR3R b - - 0 18"]
+
+18...Nb7
+
+[Event "World Open"]
+[Site "Arlington, VA"]
+[Date "2014.07.06"]
+[Round "9"]
+[White "Corbin, Philip"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "3r4/1R1N1pk1/4p1p1/4Kn1p/8/8/5PPP/8 w - - 4 41"]
+
+41.f3
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2015.10.19"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Brattain, Mika"]
+[Result "0-1"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "3rq1k1/p4bp1/1pp2p1p/4pN2/4P1PP/2P2P2/PnP1QB1K/3R4 w - - 0 29"]
+
+29.Rg1
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.25"]
+[Round "8"]
+[White "Rihel, Jason"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B31"]
+[SetUp "1"]
+[FEN "5rk1/1p3p2/4p1pb/2r1q3/P2N4/1Q2PRP1/7P/5RK1 w - - 0 28"]
+
+28.Qxb7
+
+[Event "BCC Swiss #24 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.08.29"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Arun, Siddharth"]
+[Result "1-0"]
+[ECO "D07"]
+[SetUp "1"]
+[FEN "r2qkb1r/ppp1pppp/5n2/3Pn3/Q3P1b1/2N2N2/PP3PPP/R1B1KB1R b KQkq - 2 8"]
+
+8...Ned7
+
+[Event "BCC Polar Vortex"]
+[Site "?"]
+[Date "2015.01.17"]
+[Round "1"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D01"]
+[SetUp "1"]
+[FEN "r4r2/p3Rpbk/1p5p/2pP1b2/4NB2/8/PPP5/2K4R b - - 3 25"]
+
+25...Rae8
+
+[Event "BCC G/80"]
+[Site "?"]
+[Date "2014.05.17"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Sowa, Aidan"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "6k1/3qbppp/p3pn2/1p2Bb2/1P3N2/PBR4P/3r1PP1/2Q3K1 b - - 4 32"]
+
+32...h6
+
+[Event "BCF Weaver Adams 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.06.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Gorczyca, Ted"]
+[Result "1-0"]
+[ECO "E91"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1np1bp/2p1p1p1/6Nn/2P5/2N5/PP2BPPP/R1BQ1RK1 b - - 1 11"]
+
+11...Nc5
+
+[Event "BCF Early Bird Quads 10-7"]
+[Site "Boylston Chess Club"]
+[Date "2009.10.07"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Theil, Carey"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[SetUp "1"]
+[FEN "8/5k1p/p2p1P2/1p1Kn1P1/2p5/1P5P/3B4/8 w - - 0 46"]
+
+46.Kxd6
+
+[Event "SBCC Fall Classic 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.11.10"]
+[Round "5"]
+[White "McCauley, John"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A82"]
+[SetUp "1"]
+[FEN "4r3/R6R/2p5/3pk3/8/3P2r1/PP1K4/8 b - - 0 32"]
+
+32...Kd4
+
+[Event "BCF April $15 Open"]
+[Site "?"]
+[Date "2017.04.08"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Kaprielian, Mark"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p4pp/p1nq4/3Np3/3P2n1/3B1NP1/PP3P1P/2RQ1RK1 b - - 0 17"]
+
+17...Qh6
+
+[Event "BCF April TNS"]
+[Site "?"]
+[Date "2017.04.13"]
+[Round "2"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D35"]
+[SetUp "1"]
+[FEN "2r1rbk1/p4pp1/5nnp/qp1p1N2/2pP4/P3PP2/1PQN1BPP/1R2R1K1 w - - 1 22"]
+
+22.Re2
+
+[Event "SBCC Brask Invitational"]
+[Site "Plainville, MA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "2r1rnk1/1p1q1ppp/p1n1bb2/3p3N/3P4/4BN1P/PP1Q1PP1/1BR1R1K1 b - - 12 21"]
+
+21...Be7
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.01"]
+[Round "?"]
+[White "Lee, Jonathan"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "r2qk2r/pp4bp/2n3p1/2pp1b2/5P2/2NP4/PPP3BP/R1BQK2R w KQkq - 0 13"]
+
+13.Nxd5
+
+[Event "SBCC Brask Invitational 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.01.19"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Hess, Carl"]
+[Result "1/2-1/2"]
+[ECO "B02"]
+[SetUp "1"]
+[FEN "rnbqkb1r/pppppppp/1n6/4P3/2PP4/8/PP3PPP/RNBQKBNR b KQkq d3 0 4"]
+
+4...c5
+
+[Event "BCC March TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.03.26"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sadykov, Khikmet"]
+[Result "1-0"]
+[ECO "D53"]
+[SetUp "1"]
+[FEN "4r3/3b2pk/2p3r1/5p2/P2PpRPp/q3P2P/1RB3Q1/6K1 w - - 2 41"]
+
+41.Bb3
+
+[Event "SBCC Team Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Hess, Carl"]
+[Result "*"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "r4r1k/p2B3p/3PPp2/1p5p/2p2Q2/1q3P2/4K2P/3R4 b - - 0 33"]
+
+33...c3
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Harris, David"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r4rk1/pp1bnppp/4pb2/q3N3/2PPRB2/1B2Q3/P4PPP/3R2K1 b - - 12 20"]
+
+20...Ba4
+
+[Event "SEMCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2016.06.08"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Bird, David"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "1nkr3r/1p2p1bp/p5p1/4PN2/1PP2P2/8/P3BK1P/3R2R1 b - - 0 27"]
+
+27...Bf8
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.09"]
+[Round "2"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "8/1r4pk/4p2p/2RpQ3/1q1Pp3/3b4/5PPP/2R3K1 b - - 3 34"]
+
+34...Qb6
+
+[Event "BCC Tornado #98"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.18"]
+[Round "1"]
+[White "Baez-Rosario, Luis"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "5q2/p1n1p1kp/1pp1Ppb1/2p5/2P2N2/5N1P/PP1Q2P1/2K5 b - - 2 28"]
+
+28...Bf5
+
+[Event "BCF Reubens Landey"]
+[Site "?"]
+[Date "2015.06.29"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Fricker, Terence"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pp1p1pQp/2n1pq1B/8/1b2P3/2N2N2/PP3PPP/R3KB1R b KQkq - 2 8"]
+
+8...Qxh6
+
+[Event "Eastern Team Championship 2013"]
+[Site "Stamford, CT"]
+[Date "2013.10.20"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Raman, Achutha"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "rnb1k1nr/ppq1ppbp/2p3p1/8/2BPN3/5N2/P1P1QPPP/1RB1K2R b Kkq - 5 10"]
+
+10...Bf5
+
+[Event "BCF Masters Sunday"]
+[Site "?"]
+[Date "2018.07.29"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Putnam, Liam"]
+[Result "1-0"]
+[ECO "B88"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p2bppp/p1nppn2/8/3NPP2/1BN5/PPP3PP/R1BQ1RK1 w - - 0 10"]
+
+10.f5
+
+[Event "?"]
+[Site "?"]
+[Date "2014.02.16"]
+[Round "?"]
+[White "Rajasekaran, Vignesh"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E62"]
+[SetUp "1"]
+[FEN "1n1r2k1/ppq2pb1/2p1n1pp/P1P1p3/1P1rP3/B1N2QPP/5P2/1R1R1BK1 w - - 1 25"]
+
+25.Rd3
+
+[Event "BCF October TNS"]
+[Site "?"]
+[Date "2016.10.06"]
+[Round "1"]
+[White "Hoy"]
+[Black "Glickman"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "r1b2r1k/1pq2p1p/p2bpp2/8/2BN3Q/8/PPP2PPP/R3R1K1 b - - 3 16"]
+
+16...Bxh2+
+
+[Event "USATE"]
+[Site "Plainville, MA"]
+[Date "2015.09.29"]
+[Round "6"]
+[White "Yanovsky, Vlad"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "7R/8/rNp5/P1P3p1/1K2bkp1/8/7P/8 b - - 2 54"]
+
+54...Ra7
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "4B3/6k1/8/3Kp1b1/1P2P3/8/8/8 b - - 1 70"]
+
+70...Kf6
+
+[Event "SBCC Name It Yourself Open"]
+[Site "Plainville, MA"]
+[Date "2013.06.26"]
+[Round "4"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r1r3k1/3p1ppp/p2Bp3/2p2q2/1nP1b3/5N1P/1P2QPP1/3R1K1R w - - 6 24"]
+
+24.Kg1
+
+[Event "BCF April $15 Open"]
+[Site "?"]
+[Date "2017.04.08"]
+[Round "2"]
+[White "Hori, Calvin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "2rq1knr/pp3pp1/2n1p2p/3pP2P/3P2Q1/2P1B1N1/P4PP1/R4RK1 b - - 0 16"]
+
+16...Na5
+
+[Event "BCC May Thursday Night Swiss"]
+[Site "?"]
+[Date "2014.05.31"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Williams, Jerry"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "1rb2rk1/1p2bpp1/pNnNp1np/8/7q/4B3/PPB1QPPP/R2R2K1 b - - 0 18"]
+
+18...Nce5
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.12"]
+[Round "7"]
+[White "Chase, Chris"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[SetUp "1"]
+[FEN "rnbqk2r/4bppp/pp1ppn2/8/P2NPP2/2N2B2/1PP3PP/R1BQK2R b KQkq - 1 9"]
+
+9...Bb7
+
+[Event "BCC September TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.24"]
+[Round "4"]
+[White "Bromberg, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B31"]
+[SetUp "1"]
+[FEN "r1b1k1nr/1p1pppbp/pqn3p1/2p5/B3P3/N1P2N2/PP1P1PPP/R1BQ1RK1 b kq - 1 7"]
+
+7...Nf6
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hanson, Dave"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp1n1bp/3p2p1/3PppN1/1PP1Pn2/2N5/P4PPP/R1BQRBK1 b - - 3 12"]
+
+12...Nexd5
+
+[Event "BCF Shamrock Open"]
+[Site "?"]
+[Date "2017.03.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hori, Calvin"]
+[Result "1-0"]
+[ECO "E11"]
+[SetUp "1"]
+[FEN "2r2q1k/p4p1p/1p1pb3/1B2pPQ1/1P6/P1r2R1P/6P1/5RK1 b - - 0 31"]
+
+31...Bd5
+
+[Event "SBCC Brask Invitational"]
+[Site "Plainville, MA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Tkach"]
+[Result "*"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/p7/5k2/P2p4/3Kb1p1/2R3P1/5r2/2R5 b - - 0 68"]
+
+68...Ra2
+
+[Event "BCF April TNS"]
+[Site "?"]
+[Date "2017.04.13"]
+[Round "2"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D35"]
+[SetUp "1"]
+[FEN "8/1rn2kp1/R7/3p1p1p/2pP1P1P/1pB2PP1/1P2K3/8 w - - 9 46"]
+
+46.Ra5
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.03.06"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r3qrk1/1pp3b1/p2p3p/1N1P2p1/4P3/1Q1R1bP1/PP3P1P/2B1R1K1 b - - 3 21"]
+
+21...g4
+
+[Event "BCF July TNS 2015"]
+[Site "?"]
+[Date "2015.07.23"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kroell, Frank"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "3qr1k1/pp3ppp/8/2r5/8/P1NQ4/1Pn2PPb/1RBR2K1 w - - 0 21"]
+
+21.Kxh2
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Correia"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "8/1q2Npk1/5np1/p1B3p1/3P1bP1/P4P1P/4Q1K1/8 w - - 12 49"]
+
+49.Kf2
+
+[Event "BCF $15 Open"]
+[Site "?"]
+[Date "2016.04.09"]
+[Round "4"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D45"]
+[SetUp "1"]
+[FEN "6k1/5p2/p3p1p1/1p1b4/5Q2/1P3P1P/Pq4PK/1B6 w - - 1 41"]
+
+41.Bxg6
+
+[Event "BCF Early Bird Quads 10-7"]
+[Site "Boylston Chess Club"]
+[Date "2009.10.07"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Theil, Carey"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[SetUp "1"]
+[FEN "r2q1rk1/1p1n1pbp/p2p2p1/2pP4/P3PPn1/2N2NPP/1P6/R1BQRK2 b - - 0 18"]
+
+18...Ngf6
+
+[Event "BCC February TNS 2015"]
+[Site "?"]
+[Date "2015.02.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Poliannikov, Danila"]
+[Result "1-0"]
+[ECO "C66"]
+[SetUp "1"]
+[FEN "r2qr1k1/pppn1pp1/2bp1b2/5NpQ/2B1PP2/4R2P/P1P4B/1R4K1 b - - 1 26"]
+
+26...Re6
+
+[Event "BCC March TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.03.26"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Sadykov, Khikmet"]
+[Result "1-0"]
+[ECO "D53"]
+[SetUp "1"]
+[FEN "8/6pk/2p3r1/3b4/P2q2Pp/5R1P/6Q1/5R1K w - - 0 50"]
+
+50.Qf2
+
+[Event "BCF Swiss #22"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.25"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Shiva, Vikas"]
+[Result "1-0"]
+[ECO "A70"]
+[SetUp "1"]
+[FEN "rnb1r1k1/2q2pbp/pp1p1np1/2pP4/P1N1P3/2NB3P/1P3PP1/R1BQ1RK1 b - - 2 13"]
+
+13...Nfd7
+
+[Event "?"]
+[Site "?"]
+[Date "2016.05.20"]
+[Round "1"]
+[White "Hori, Calvin"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "1r4k1/3r2p1/1pnNp2p/p1Pp2nP/P2P4/1N2RpP1/5P1K/4R3 w - - 2 34"]
+
+34.Nd2
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.26"]
+[Round "2"]
+[White "Terrie, Hal"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r3n1k1/1p3r1p/pP6/3Ppb2/PQ2Np1q/4pP2/4B1PP/2R2RK1 w - - 0 28"]
+
+28.Nd6
+
+[Event "BCC September TNS 2011"]
+[Site "Boylston Chess Club"]
+[Date "2011.09.29"]
+[Round "4"]
+[White "Pittman, Adam"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r1br2k1/p2p1pp1/2p2q1p/4p3/1bB1P3/2N5/PPPQ1PPP/R4RK1 w - - 1 12"]
+
+12.f4
+
+[Event "BCC Reubens Landey 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.08.02"]
+[Round "4"]
+[White "Paphitis, Alexander"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A35"]
+[SetUp "1"]
+[FEN "8/5rn1/3R2kp/2p2p2/1pP2pP1/1P2P2P/5K2/2N5 b - - 0 46"]
+
+46...Kg5
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Harris, David"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "6k1/p2r1p1p/2r5/2Ppn3/3B2P1/2R5/5P1P/3R2K1 b - - 3 39"]
+
+39...Nxg4
+
+[Event "SBCC Team Championships 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.06.09"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, Jim"]
+[Result "0-1"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "4r1k1/5ppp/3p1n2/1PpPq3/4PQPP/2N5/1PK5/r2R1R2 b - - 3 26"]
+
+26...Rxd1
+
+[Event "?"]
+[Site "?"]
+[Date "2016.08.06"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Li, Dennis"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "8/5kPb/7R/p1P1r3/3K4/8/7P/8 b - - 0 49"]
+
+49...Re6
+
+[Event "Eastern Class Championships 2015"]
+[Site "?"]
+[Date "2015.04.25"]
+[Round "3"]
+[White "Isakov, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "5r1k/1p5p/p1b5/4P3/3p1pp1/2N5/PPP3PP/5R1K w - - 0 30"]
+
+30.Nb1
+
+[Event "BCF October TNS"]
+[Site "?"]
+[Date "2015.10.08"]
+[Round "2"]
+[White "Astrachan, Ed"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "r1b1k2B/pp2np1p/2pQp3/8/2q5/8/PP2NPPP/n3KB1R w kq - 0 15"]
+
+15.Nd4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.13"]
+[Round "3"]
+[White "George, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "4r1k1/ppp2r2/3pN3/b7/5Ppp/1P2R1P1/7P/5R1K w - - 3 30"]
+
+30.Re4
+
+[Event "BCF December TNS"]
+[Site "?"]
+[Date "2015.12.17"]
+[Round "3"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D43"]
+[SetUp "1"]
+[FEN "3r3k/5pp1/5n1p/2Q5/1PP1p3/q2p2P1/5P1P/1R1B2K1 w - - 0 38"]
+
+38.Qc7
+
+[Event "BCC February Grand Prix 2015"]
+[Site "?"]
+[Date "2015.02.28"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Griffin, Mike"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/6k1/1r4pR/5PKp/7P/8/8/8 b - - 0 89"]
+
+89...Rb5
+
+[Event "BCC Grand Prix 2011-1"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.29"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Schmidt, Daniel"]
+[Result "1/2-1/2"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "6k1/p6p/1bp1r1pP/3qpr2/6Q1/1P1P1P2/P1PB2K1/R4R2 w - - 1 36"]
+
+36.Rh1
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.03.06"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r4rk1/1pN3b1/p2p3p/3P3q/4P3/1Q1R2Pp/PP2bP1K/2B1R3 w - - 2 25"]
+
+25.Be3
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.11"]
+[Round "2"]
+[White "Hall, Jeff"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A26"]
+[SetUp "1"]
+[FEN "8/R7/2Np2pk/4b3/3pP3/6pP/1r3rB1/2R4K w - - 1 44"]
+
+44.Rg1
+
+[Event "?"]
+[Site "?"]
+[Date "2013.10.02"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "2n5/r5kp/3P2p1/3BP1P1/8/p1N3P1/5P2/5K2 b - - 3 36"]
+
+36...Nb6
+
+[Event "?"]
+[Site "?"]
+[Date "2015.08.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Cortizas, Tony"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bnkb1r/pp2pppp/5n2/1N2p3/2B5/5N2/PP3PPP/R1B1K2R b KQkq - 1 9"]
+
+9...Ne6
+
+[Event "BCF Chess Day Open"]
+[Site "?"]
+[Date "2016.10.08"]
+[Round "3"]
+[White "Hoy"]
+[Black "Zhou, David"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "r2qk2r/2p1bp1p/p1b1pp2/1p2P3/5B2/3B3P/PPP1QPP1/2KR3R b kq - 0 13"]
+
+13...Qc8
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.11.02"]
+[Round "1"]
+[White "Hoy"]
+[Black "Li, Jason"]
+[Result "0-1"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "6k1/6pp/1R3b2/p7/8/P2r2BP/5PP1/7K w - - 1 31"]
+
+31.Bd6
+
+[Event "CMC Friday Action Chess - Feb 11"]
+[Site "Chess Master Connections"]
+[Date "2011.02.11"]
+[Round "2"]
+[White "Fachon, Neil"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A86"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1ppn2b1/p2p2pp/1N1Ppp2/2P5/4P1P1/PP2NPBP/2RQK2R w K - 0 13"]
+
+13.Qa4
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.06.06"]
+[Round "?"]
+[White "Robillard, Tom"]
+[Black "Hoy, Andrew"]
+[Result "*"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "3r1k2/2Q4p/3p1q2/1N3br1/2B5/2P2p2/PP3P1P/K2R4 b - - 7 28"]
+
+28...Rg7
+
+[Event "BCC December TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.03"]
+[Round "1"]
+[White "Sahakian, Mateos"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r2q1rk1/p3bppp/2p5/2np4/6b1/2N1BN2/PPP2PPP/R2QR1K1 w - - 0 13"]
+
+13.Qd4
+
+[Event "?"]
+[Site "?"]
+[Date "2015.11.11"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kelly, Joe"]
+[Result "1/2-1/2"]
+[ECO "B80"]
+[SetUp "1"]
+[FEN "r1b2rk1/p3qpp1/2p1p2p/3nP3/8/2N2Q2/PPP3PP/R3KB1R w KQ - 0 14"]
+
+14.Ne4
+
+[Event "BCF Championship"]
+[Site "?"]
+[Date "2017.10.28"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Birzu, Gabriel"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "3B4/5k2/3p1n2/2pP3p/2P1PKp1/6P1/8/8 b - - 0 71"]
+
+71...Kg6
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.10.10"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "6k1/Q5pp/2ppq3/7n/2P2r2/1P4N1/PB5P/R5K1 b - - 0 28"]
+
+28...Qg6
+
+[Event "?"]
+[Site "?"]
+[Date "2013.09.18"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, James"]
+[Result "1-0"]
+[ECO "B09"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3pb1/5nN1/2p5/1nB5/2N5/PPP3PP/R1B2RK1 b - - 0 16"]
+
+16...Ng4
+
+[Event "BCC May Thursday Night Swiss"]
+[Site "?"]
+[Date "2014.05.29"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Wald, Joel"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r3k1/1R3pp1/p5p1/4n1P1/4P2P/1B3p2/PP3P2/6K1 b - - 0 29"]
+
+29...Rc1+
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.14"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Arnold, Bruce"]
+[Result "0-1"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "r5k1/pn2qrpp/2p1b1n1/4p3/4Np2/2BP2P1/PPP1QPBP/R4RK1 b - - 7 22"]
+
+22...Bd5
+
+[Event "BCC Polar Vortex"]
+[Site "?"]
+[Date "2015.01.17"]
+[Round "1"]
+[White "Mishkin, Paul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D01"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp2ppb1/5n1p/2pP2p1/5P2/2N3BP/PPPQB3/2KR3R b - - 0 16"]
+
+16...g4
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.09"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C46"]
+[SetUp "1"]
+[FEN "1R6/3P1pk1/p3n3/4p1P1/P3P1r1/1P2K3/8/8 b - - 0 47"]
+
+47...Rxg5
+
+[Event "BCF Paramount"]
+[Site "?"]
+[Date "2017.05.15"]
+[Round "10"]
+[White "Kannan, Atul"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "8/4r3/6k1/3R4/5pB1/8/1r4P1/5K2 w - - 2 76"]
+
+76.Rf5
+
+[Event "Philadelphia Open 2016"]
+[Site "?"]
+[Date "2016.03.25"]
+[Round "2"]
+[White "Herman, Geoffrey"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "8/1p6/1n1k1pp1/p2p3p/3K1P2/1PP1N1P1/P7/8 w - - 0 44"]
+
+44.c4
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.01.19"]
+[Round "2"]
+[White "Hess, Carl"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C56"]
+[SetUp "1"]
+[FEN "r3r1k1/p4ppp/2pbb3/3p3n/N1pN4/5P2/PPP2BPP/R3R1K1 w - - 0 23"]
+
+23.Re2
+
+[Event "BCC Early Bird Rapid Quads 1-2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.01.20"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Ivanov, Alexander"]
+[Result "0-1"]
+[ECO "A43"]
+[SetUp "1"]
+[FEN "5rk1/7p/3p2p1/qppP4/2nbB3/6BP/1P3PP1/3Q1RK1 w - - 0 23"]
+
+23.b3
+
+[Event "BCC @ Google"]
+[Site "?"]
+[Date "2014.11.19"]
+[Round "?"]
+[White "Curtis, Taylor"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "r4rk1/pp3p2/5qpb/3Pp3/2P3RP/1Q6/PP3N2/R3K3 w Q - 3 24"]
+
+24.h5
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.23"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "5r1k/3qb2p/1R2b1p1/p2pP2n/2pP4/2P1Q2P/P2BB1NK/8 b - - 1 30"]
+
+30...Kg8
+
+[Event "BCF Year End TNS"]
+[Site "?"]
+[Date "2016.12.08"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Hodgden, Paul"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "6r1/pr5p/4k3/2bppN1P/6P1/2PP2K1/4R3/4R3 b - - 1 46"]
+
+46...e4
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.06.21"]
+[Round "4"]
+[White "Peng, Tianlu"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "7r/6b1/1pk3p1/2n1p2p/8/4Bp2/P1K2P2/R5R1 b - - 1 34"]
+
+34...Rh7
+
+[Event "BCF May TNS"]
+[Site "?"]
+[Date "2016.05.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Mishkin, Paul"]
+[Result "1-0"]
+[ECO "B62"]
+[SetUp "1"]
+[FEN "r4rk1/1bq1bppp/pp1p1n2/4pPB1/P3P3/1BNQ4/1PP3PP/R4R1K b - - 1 15"]
+
+15...Rad8
+
+[Event "BCF March TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.03.19"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Sifter, Thomas"]
+[Result "1-0"]
+[ECO "D17"]
+[SetUp "1"]
+[FEN "r4rk1/4bppb/pP2p2p/8/3P4/2P2N2/4BPPP/R1R3K1 b - - 0 24"]
+
+24...Be4
+
+[Event "BCF June Masters Sunday"]
+[Site "?"]
+[Date "2017.06.04"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Li, Jerry"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "8/1p1r4/p1p1k2p/4P1p1/2P1RpP1/1P5P/2P2P2/4K3 w - - 7 37"]
+
+37.c3
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.28"]
+[Round "3"]
+[White "Chevannes, Sabrina"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "E62"]
+[SetUp "1"]
+[FEN "r1b1rbk1/pp3p1p/1q4p1/6n1/1P2P3/B3Q1PP/P1N3B1/1R3RK1 w - - 1 22"]
+
+22.Kh2
+
+[Event "?"]
+[Site "?"]
+[Date "2015.09.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "8/8/1k6/7R/P7/6rp/KP6/8 b - - 0 43"]
+
+43...Ka6
+
+[Event "SEMCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2016.06.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Giambo, Jerry"]
+[Result "1-0"]
+[ECO "B35"]
+[SetUp "1"]
+[FEN "r2r2k1/pp3pbp/3pbnp1/q3pP2/4P3/1BNQB3/PPP3PP/R4RK1 b - - 0 14"]
+
+14...Bxb3
+
+[Event "SBCC Summer Swiss 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.07.21"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Dean, Lawrence"]
+[Result "0-1"]
+[ECO "C51"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp1bppp/2np1n2/8/2BpP3/B1P2N2/P4PPP/RN1Q1RK1 w kq - 0 9"]
+
+9.e5
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "2"]
+[White "Post, Evan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B11"]
+[SetUp "1"]
+[FEN "r2qkb1r/p4ppp/2n1p3/3nP3/1ppP4/2P2NQ1/P3NPPP/R1B1K2R w KQkq - 0 17"]
+
+17.Bg5
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Brattain, Mika"]
+[Result "0-1"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "1nn1qrk1/r5pp/p1p1pp2/2PpP3/Np1PbPPN/1P5P/P3BB2/2Q2RK1 w - - 2 24"]
+
+24.Qe3
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.09.07"]
+[Round "?"]
+[White "Hoy"]
+[Black "Aspinall"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "2b1qnk1/4r1rp/4p1pB/p2pPp1P/1ppP1N2/2P1K3/PP2Q3/1B4R1 w - - 1 30"]
+
+30.Bg5
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.01.19"]
+[Round "2"]
+[White "Hess, Carl"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C56"]
+[SetUp "1"]
+[FEN "r3r1k1/p3bppp/2pqb3/Q2p3n/N1pN3B/5P2/PPP3PP/R3R1K1 w - - 4 20"]
+
+20.Bf2
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2017.04.22"]
+[Round "1"]
+[White "Wei, Eddie"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E01"]
+[SetUp "1"]
+[FEN "8/p4pk1/4p3/2p1P1p1/2Pn1PP1/P2Q4/5K2/6Bq w - - 0 38"]
+
+38.f5
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, Jim"]
+[Result "1/2-1/2"]
+[ECO "E29"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3p2/3p3p/2pP2p1/2P1b3/P1P5/6PP/R1BQ1RK1 w - - 0 19"]
+
+19.Qb3
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "2"]
+[White "Post, Evan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B11"]
+[SetUp "1"]
+[FEN "2r1kb1r/p4pp1/2n1p2p/4P3/2pP4/3qBQ2/P1pN1PPP/2R2RK1 w k - 4 25"]
+
+25.Ne4
+
+[Event "SBCC 9/11 Memorial 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.09.15"]
+[Round "3"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r3k3/ppp1qb1Q/2n1pbN1/3p1pp1/3P4/2N1P3/PPP2PP1/R3KB2 b Qq - 1 15"]
+
+15...Bxg6
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2016.11.09"]
+[Round "9"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "D43"]
+[SetUp "1"]
+[FEN "r2qkbr1/pb3p2/2p1pn1p/1p2B3/2pPPp2/2N5/PP2B1PP/R2Q1RK1 w q - 0 14"]
+
+14.Rxf4
+
+[Event "SBCC 9/11 Memorial 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.09.15"]
+[Round "3"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "8/1p6/8/p1p5/2P2k2/PP1K4/8/8 w - - 1 51"]
+
+51.Kc3
+
+[Event "BCC $5 Open"]
+[Site "?"]
+[Date "2015.03.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "3rr2k/pp2Np2/5P1p/1B6/3PR2P/8/bP4P1/6K1 b - - 5 37"]
+
+37...Rg8
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Plante, Gerald"]
+[Result "0-1"]
+[ECO "D38"]
+[SetUp "1"]
+[FEN "r6r/3b2k1/4pq1p/1pQp2p1/2p2P2/2P1P1P1/P3BKP1/R6R w - - 0 25"]
+
+25.Qd4
+
+[Event "?"]
+[Site "?"]
+[Date "2014.08.08"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Karlsson, Fridrik"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "5n1k/p1r1b1p1/1pnN1p1p/4p3/P1B5/1P2B2P/2P2PP1/3R2K1 b - - 1 35"]
+
+35...Kh7
+
+[Event "Eastern Chess Congress"]
+[Site "?"]
+[Date "2014.11.08"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Sowa, Ryan"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r3k2r/p2n1pp1/1pnPpq1p/8/3p4/3B1PB1/PP3P1P/2RQ1RK1 b kq - 0 16"]
+
+16...Rc8
+
+[Event "SBCC Club Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.05.24"]
+[Round "7"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D03"]
+[SetUp "1"]
+[FEN "3r4/1R1b2k1/4p2p/p2n1pp1/2pP1qP1/P1P4Q/2BN1P1P/6K1 w - - 3 28"]
+
+28.Ba4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.13"]
+[Round "3"]
+[White "George, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r1b2rk1/pppqn1b1/3p1n2/5p2/3PPPpp/1N1B2N1/PPQB2PP/R4RK1 w - - 0 16"]
+
+16.Ne2
+
+[Event "BCC Ruben 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.10.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Lung, Luke"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "7k/p4pb1/1p4p1/7p/P5PP/1b3P2/2r1B3/1RB1K3 w - - 0 31"]
+
+31.Bd1
+
+[Event "BCC September TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.09.09"]
+[Round "1"]
+[White "Shapiro, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp6/3p4/n1pPp2p/4Pppq/P1NB1Pb1/1PP1Q1PP/RR3N1K w - - 5 21"]
+
+21.b4
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.09.07"]
+[Round "?"]
+[White "Hoy"]
+[Black "Aspinall"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "4k3/6R1/4P3/3pK3/8/2pr4/8/8 b - - 4 65"]
+
+65...c2
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.06.21"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Maxwell, Jonathan"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r1k2r/1p1bbppp/pq2pn2/1P2B3/2B5/P1N5/4QPPP/2RR2K1 b k - 0 17"]
+
+17...axb5
+
+[Event "BCC January TNS 2015"]
+[Site "?"]
+[Date "2015.01.22"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "3r3k/1p4bp/pQ2P3/2pq2p1/P5P1/5R2/5pKP/5R2 b - - 0 34"]
+
+34...Bd4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.06.29"]
+[Round "?"]
+[White "Caranci, Charlie"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A86"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp3n1p/2pp2pb/3N1p1n/2P2N2/1P4P1/P2QPPBP/1RB2RK1 w - - 5 14"]
+
+14.Qc3
+
+[Event "SEMCC Club Championship"]
+[Site "?"]
+[Date "2016.04.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Hess, Carl"]
+[Result "1-0"]
+[ECO "A04"]
+[SetUp "1"]
+[FEN "r1bqkb1r/ppp1p1pp/2np1n2/4P3/2B5/5N2/PPP2PPP/RNBQK2R b KQkq - 0 6"]
+
+6...Nxe5
+
+[Event "SBCC Team Tournament 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "????.??.??"]
+[Round "?"]
+[White "McCasland"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r3qr1k/1pp3b1/p2p1nnp/P2Pp1p1/1PP1Ppb1/3Q1NP1/4NPBP/1RB1R1K1 w - - 3 20"]
+
+20.b5
+
+[Event "BCF November TNS"]
+[Site "?"]
+[Date "2015.02.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Landel, Derek"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp4pp/2nqpn2/3p4/3P4/3B1NN1/PP3PPP/R2QR1K1 b - - 1 15"]
+
+15...Ng4
+
+[Event "?"]
+[Site "?"]
+[Date "2013.10.19"]
+[Round "?"]
+[White "Klein, Ethan"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D91"]
+[SetUp "1"]
+[FEN "r4rk1/pR2ppbp/2n1b1p1/1Q1q4/2pP3B/4PN2/P3BPPP/2R3K1 b - - 6 16"]
+
+16...a6
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2017.04.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "*"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "2r1q3/pb3Nk1/1p1b4/5p2/3PpPp1/1Q2B1P1/PP4K1/7R b - - 2 30"]
+
+30...Be7
+
+[Event "?"]
+[Site "?"]
+[Date "2014.02.15"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Bolat, Ahmet"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "4r2k/3rn1pp/R4p2/1p1pp3/1P6/Pn1R1P2/5BPP/4NK2 b - - 1 36"]
+
+36...Nc1
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Turner, Bill"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "4rkr1/pp4p1/1np1p1R1/3q1P1Q/3P4/4R3/P1P2P1P/6K1 b - - 0 33"]
+
+33...exf5
+
+[Event "BCC Legends of Chess: Tigran Petrosian"]
+[Site "?"]
+[Date "2015.03.21"]
+[Round "?"]
+[White "Birzu, Gabriel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r2q1rk1/ppp3b1/2n1bnpp/4pp2/2P5/2N1BNP1/PP2PPBP/R2Q1RK1 w - - 2 12"]
+
+12.c5
+
+[Event "BCF April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.22"]
+[Round "3"]
+[White "Lu, Max"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A06"]
+[SetUp "1"]
+[FEN "3rk2r/p1q1bppp/b3pn2/2p1N3/2NP1P2/4P3/PB4PP/2RQR1K1 b k - 0 16"]
+
+16...Qb7
+
+[Event "SEMCC Opening Gambit"]
+[Site "?"]
+[Date "2016.01.13"]
+[Round "2"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B10"]
+[SetUp "1"]
+[FEN "3r4/p1qk1p1p/2p1pn2/r5p1/3P1b2/1P1Q3P/PBRN1PP1/4R1K1 b - - 5 20"]
+
+20...g4
+
+[Event "SEMCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2016.06.22"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "5r1k/1b4pp/p3Rnn1/Bpb1N3/8/1BN3P1/PP3P1P/2K5 w - - 4 24"]
+
+24.Bb6
+
+[Event "March Game 45"]
+[Site "North Shore Chess Club"]
+[Date "2013.03.03"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Smythe, Bill"]
+[Result "1-0"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "r1b1kb1r/pp3ppp/2n1p3/3pP3/2pP4/2P1BN2/PqB2PPP/R2QK2R w KQkq - 0 11"]
+
+11.a4
+
+[Event "BCF February TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.02.19"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Cortizas, Anthony"]
+[Result "1-0"]
+[ECO "D88"]
+[SetUp "1"]
+[FEN "5rk1/1p1b3p/p3q1p1/4P1Q1/2r1P3/5P2/P3N1P1/R4R1K b - - 4 23"]
+
+23...Qf7
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Fischer, Bob"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "8/p7/1p3k2/4r3/K2R2P1/P7/1P6/8 b - - 24 58"]
+
+58...Re2
+
+[Event "BCF April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.22"]
+[Round "3"]
+[White "Lu, Max"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A06"]
+[SetUp "1"]
+[FEN "4r1k1/p4ppp/7r/N2Q4/4P3/B7/P4KPq/1R2R3 b - - 1 34"]
+
+34...Rf6+
+
+[Event "BCF August TNS"]
+[Site "?"]
+[Date "2017.08.31"]
+[Round "5"]
+[White "Oresick"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "A40"]
+[SetUp "1"]
+[FEN "8/1r2kp2/4p1p1/pN1pP1Pp/Pn3P1P/KPR5/8/8 b - - 11 43"]
+
+43...d4
+
+[Event "Philadelphia Open 2016"]
+[Site "?"]
+[Date "2016.03.26"]
+[Round "4"]
+[White "Tartaglione, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "r4rk1/pppb2pp/2nq4/3p4/3P4/1Q1B1N2/PP3PPP/R4RK1 w - - 2 14"]
+
+14.Bb5
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.06.26"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Williams, Chris"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "3r1r1k/pp4pn/4Qbp1/2p5/2B1N1P1/7P/PP3P2/6K1 w - - 3 26"]
+
+26.f4
+
+[Event "BCF Early Bird Quads 10-7"]
+[Site "Boylston Chess Club"]
+[Date "2009.10.07"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Theil, Carey"]
+[Result "1/2-1/2"]
+[ECO "A67"]
+[SetUp "1"]
+[FEN "rn1q1rk1/1p3pbp/p2p1np1/2pP4/P1B1PP2/2N2NPb/1P5P/R1BQR1K1 b - - 4 15"]
+
+15...Ng4
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Harris, David"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "2r3k1/p2r1p1p/2N1pbp1/2PP4/6Pn/2B1R3/5P1P/3R2K1 b - - 0 34"]
+
+34...Rxc6
+
+[Event "Philadelphia Open 2016"]
+[Site "?"]
+[Date "2016.03.27"]
+[Round "7"]
+[White "Vulis, Daniel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r3r1k1/1p1q1ppp/p2b4/3pn3/P2NnB2/2P5/1P3PPP/RN1QR1K1 w - - 0 16"]
+
+16.Nd2
+
+[Event "Philadelphia Open 2016"]
+[Site "?"]
+[Date "2016.03.25"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Figueroa, Alex"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "3r1rbk/p5b1/1pnppq1p/5p2/2PNnP1Q/1P2BN1P/P5P1/1B1RR1K1 b - - 7 26"]
+
+26...Nb4
+
+[Event "New England Junior Chess Congress"]
+[Site "RI College"]
+[Date "2006.04.29"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Chen, Michelle"]
+[Result "1-0"]
+[ECO "E12"]
+[SetUp "1"]
+[FEN "1k5r/pb3ppp/1p1Pp3/1B4q1/3p1n2/5P2/PP4PP/2RQ1RK1 w - - 1 20"]
+
+20.Rf2
+
+[Event "BCC May Quads"]
+[Site "?"]
+[Date "2015.05.02"]
+[Round "3"]
+[White "Garbarino, Jake"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B90"]
+[SetUp "1"]
+[FEN "5rk1/1p1q2b1/pB1p4/2PNprnp/7Q/5pP1/PP3P1P/3RR1K1 b - - 0 30"]
+
+30...R5f7
+
+[Event "USATE"]
+[Site "Plainville, MA"]
+[Date "2014.02.16"]
+[Round "?"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B06"]
+[SetUp "1"]
+[FEN "r3k1nr/1ppbq1b1/p2pp1pp/8/2BNPP2/2N1Q3/PPP3PP/1K1R3R b kq - 0 14"]
+
+14...e5
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.09.07"]
+[Round "?"]
+[White "Hoy"]
+[Black "Aspinall"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "r4rk1/pbqn1p1p/1p2p1p1/2ppP1b1/3P4/2PBPQ2/PP1N1R1P/R1B3K1 w - - 0 15"]
+
+15.Qg4
+
+[Event "39th Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2009.08.16"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Qu, Chen"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bqnrk1/pp2bppp/2nPp3/8/2B5/2N2N2/PP2QPPP/R1BR2K1 b - - 0 11"]
+
+11...Nxd6
+
+[Event "New England Junior Chess Congress"]
+[Site "RI College"]
+[Date "2006.04.29"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Chen, Michelle"]
+[Result "1-0"]
+[ECO "E12"]
+[SetUp "1"]
+[FEN "r3k2r/pb3ppp/1pn1p2q/1Bp1P3/3P1n2/2N2N2/PP3PPP/R2Q1RK1 w kq - 3 14"]
+
+14.Ne4
+
+[Event "SBCC Name It Yourself Open 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.06.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "N4rk1/pp1b1ppp/2nb1n2/6N1/2B5/8/PPpP1PPP/R1B2RK1 b - - 1 15"]
+
+15...Ne5
+
+[Event "SBCC Team Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.06.08"]
+[Round "1"]
+[White "Dean, Lawrence"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "3r1qk1/p4p1p/4rRp1/1p4P1/3P1Q1P/P7/6K1/3R4 w - - 3 33"]
+
+33.d5
+
+[Event "SBCC Club Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.04.27"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Hall, Jeffrey"]
+[Result "1-0"]
+[ECO "C51"]
+[SetUp "1"]
+[FEN "4k3/1r4p1/5p1p/1p3P2/1R1PP3/4R2P/6PK/2r5 b - - 2 43"]
+
+43...Kd7
+
+[Event "BCC Early Bird Rapid Quads 1-2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.01.20"]
+[Round "1"]
+[White "Lieberman, Seth"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r1bqkb1r/5p1p/p1np4/1p1Np3/4p3/N4P2/PPP3PP/R2QKB1R w KQkq - 0 12"]
+
+12.fxe4
+
+[Event "SBCC 9/11 Memorial 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.09.01"]
+[Round "1"]
+[White "Sfougaris, Jim"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pp3pbp/2npp1p1/8/2BNPP2/2N1B3/PPP3PP/R2QK2R b KQkq - 2 8"]
+
+8...Qb6
+
+[Event "BCC September TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.09.16"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Godin, Eric"]
+[Result "0-1"]
+[ECO "D87"]
+[SetUp "1"]
+[FEN "r7/ppq2Bkp/6p1/2P1p3/3rPPb1/2Q3N1/P5PP/5RK1 w - e6 0 22"]
+
+22.fxe5
+
+[Event "BCC Weaver Adams 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.06.08"]
+[Round "2"]
+[White "Cortizas, Anthony"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "r1bqk1nr/pp1p1pbp/2n3p1/2p5/2B1P3/2N2N2/PPP3PP/R1BQK2R b KQkq - 0 8"]
+
+8...Nf6
+
+[Event "SBCC Brask Invitational"]
+[Site "?"]
+[Date "2015.01.21"]
+[Round "3"]
+[White "Burnett, Ed"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A81"]
+[SetUp "1"]
+[FEN "r3qrk1/ppp3bp/2n1b3/3p1pp1/3Pn3/2P1PNP1/PP4BP/R1BQRNK1 w - - 0 16"]
+
+16.N3d2
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.30"]
+[Round "5"]
+[White "Dusza, Richard"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A48"]
+[SetUp "1"]
+[FEN "4r1k1/1p1q1pbn/p5p1/P4b1n/3pp2p/4P2P/1PQN1PPB/1RR2BK1 w - - 0 22"]
+
+22.Qc7
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.03.15"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Rihel, Jason"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "r4r1k/1pR5/3p3b/3Bp2b/1P2P2q/2R2P1P/P1K3p1/3Q2B1 w - - 6 34"]
+
+34.Be6
+
+[Event "BCC $5 Open"]
+[Site "?"]
+[Date "2015.03.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "6r1/pp1brp1k/1q3p1p/2pp1P1N/3P2Q1/2PB3P/PP4P1/5RK1 w - - 2 25"]
+
+25.Qh4
+
+[Event "SEMCC Opening Gambit"]
+[Site "?"]
+[Date "2016.01.13"]
+[Round "2"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B10"]
+[SetUp "1"]
+[FEN "3r4/p1qk1p1p/2p1pn2/7r/3P1b1P/1P1Q1Pp1/PBRN2P1/4R1K1 w - - 1 23"]
+
+23.Rec1
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "6k1/6pp/1p6/p1p1p3/P3brP1/2P1R1BK/7P/8 b - - 1 48"]
+
+48...Rf6
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "0-1"]
+[ECO "C52"]
+[SetUp "1"]
+[FEN "r3k2r/ppq2ppp/1b3n2/1B2p3/6b1/BQP5/P4PPP/RN1R2K1 b kq - 5 15"]
+
+15...Nd7
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "3r2k1/p5pp/1p6/2pPp3/2P5/P1P1PrPb/3B3P/R3R1K1 w - - 5 31"]
+
+31.a4
+
+[Event "BCF Championship"]
+[Site "?"]
+[Date "2017.10.28"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Birzu, Gabriel"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "3B4/5k2/3p1n2/2pPp1pp/4P3/4KPP1/2P5/8 b - - 9 65"]
+
+65...Kg6
+
+[Event "BCF Shamrock Open"]
+[Site "?"]
+[Date "2017.03.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hori, Calvin"]
+[Result "1-0"]
+[ECO "E11"]
+[SetUp "1"]
+[FEN "2r1r1nk/pb1nqp1p/1p1p2p1/3PpP2/1P2P3/P2B2NP/3Q2PN/R4RK1 b - - 0 21"]
+
+21...g5
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "4"]
+[White "Layevskiy, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "3rr3/p2n1k1p/1pp2ppb/1q6/3P3P/2QN1PN1/PP4P1/1K1R3R b - - 2 20"]
+
+20...Re6
+
+[Event "SBCC Winter Warmer 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.02.08"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Hannah, Steve"]
+[Result "1-0"]
+[ECO "D44"]
+[SetUp "1"]
+[FEN "2kr3r/1b3p2/p1pqpP2/1p6/2pP4/P1N3Q1/1P3PPP/R4RK1 b - - 1 20"]
+
+20...Qxd4
+
+[Event "BCC Tornado"]
+[Site "?"]
+[Date "2015.04.11"]
+[Round "4"]
+[White "Neale, Mark"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "r3kbnr/pp3ppp/1qn1p3/3pP3/3p1P2/1PPQ1N2/P5PP/RNB1K2R w KQkq - 0 10"]
+
+10.cxd4
+
+[Event "BCF January TNS"]
+[Site "?"]
+[Date "2017.01.12"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Tu, Lewis"]
+[Result "1-0"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "r4rk1/pp4p1/1q2N1bp/3p4/2n5/P1P2P2/4QBPP/R4RK1 b - - 2 22"]
+
+22...Qc6
+
+[Event "SBCC Fall Classic 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.10.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Caranci, Charlie"]
+[Result "1-0"]
+[ECO "A42"]
+[SetUp "1"]
+[FEN "2rqk2r/pp1bn1bp/n2p2p1/1NpPp3/1PP1Pp2/PQ3P2/4BBPP/R3K1NR b KQk - 4 13"]
+
+13...Bxb5
+
+[Event "?"]
+[Site "?"]
+[Date "2014.02.15"]
+[Round "?"]
+[White "Meinders, Brian"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[SetUp "1"]
+[FEN "1r3rk1/p1pq2b1/1p1p3p/1P1P1p2/3B1Pn1/5BP1/P6P/2RQ1RK1 b - - 3 22"]
+
+22...Rfe8
+
+[Event "SBCC Name It Yourself Open 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.06.27"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "8/3k1p2/p5p1/7p/P2K2PP/5P2/8/8 b - - 0 48"]
+
+48...Kd6
+
+[Event "BCC Quads"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.12"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Liu, Andrew"]
+[Result "0-1"]
+[ECO "C51"]
+[SetUp "1"]
+[FEN "r1b1k2r/pppp1ppp/2n5/4Pq2/2BP2n1/5N2/P2QKP1P/RN5R w kq - 1 13"]
+
+13.Bd3
+
+[Event "SBCC Brask Invitational 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.02.16"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Dean, Lawrence"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[SetUp "1"]
+[FEN "7r/pr2b3/2p1k1p1/1p2P1Pp/3PKP2/2N5/PP1B3P/R7 b - - 3 25"]
+
+25...Rd7
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy"]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "2r3k1/p2r1p1p/2N1pbp1/2PP4/6Pn/2B1R3/5P1P/3R2K1 b - - 0 34"]
+
+34...Rxc6
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "4"]
+[White "Layevskiy, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "3r4/p2n2k1/1pp1rppb/1q6/3P4/2Q2PN1/PP3NP1/1K1R3R b - - 1 23"]
+
+23...Bf4
+
+[Event "SEMCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2016.06.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Giambo, Jerry"]
+[Result "1-0"]
+[ECO "B35"]
+[SetUp "1"]
+[FEN "8/8/8/1P1k4/4r1p1/8/4pKP1/1R6 b - - 1 51"]
+
+51...g3+
+
+[Event "CMC Friday Action Chess - Feb 11"]
+[Site "Chess Master Connection"]
+[Date "2011.02.11"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Perrotta, John"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r3kb1r/pp2pppp/1nnq4/5b2/3P4/1BN2N2/PP3PPP/R1BQK2R b KQkq - 3 10"]
+
+10...a6
+
+[Event "Eastern Class Championships 2015"]
+[Site "?"]
+[Date "2015.04.26"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Lu, Max"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "3rbk2/pp1r1pq1/2n1p1p1/8/4N2Q/2P1R3/P3BPPP/R5K1 b - - 5 25"]
+
+25...Nb4
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.30"]
+[Round "7"]
+[White "Hoy, Andrew"]
+[Black "Meruga"]
+[Result "0-1"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r2qr1k1/ppp2pn1/3p2n1/2bN1N2/4P1Q1/8/PPP2PPP/R4RK1 w - - 2 17"]
+
+17.h4
+
+[Event "March Game 45"]
+[Site "North Shore Chess Club"]
+[Date "2013.03.15"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Smolensky, Nathan"]
+[Result "1/2-1/2"]
+[ECO "E12"]
+[SetUp "1"]
+[FEN "8/3p4/1K2p1k1/2Pr4/8/8/8/5R2 w - - 4 50"]
+
+50.Rf8
+
+[Event "BCF Fundraising"]
+[Site "?"]
+[Date "2017.02.12"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Baliga, Zubin"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppb1ppp/2np1n2/1Bb2NB1/4P3/2N5/PPP2PPP/R2Q1RK1 b - - 1 9"]
+
+9...Ne5
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.26"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Tang, Arthur"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1p2pp/p1n1ppn1/1p6/1b2P3/1BN1B3/PP1N1PPP/R2Q1RK1 w - - 2 14"]
+
+14.h4
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.23"]
+[Round "4"]
+[White "Jaleel, Zaroug"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "2r2br1/1p1bqk1p/p2p1np1/3P1p1P/2PBpP2/2N1Q1P1/PP2B3/1K2R2R b - - 0 22"]
+
+22...Qe8
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.09"]
+[Round "2"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "2r1k2r/p3b1pp/1q2p3/3pNp1b/3Pn3/3BB3/PP3PPP/RQ3RK1 b k - 0 17"]
+
+17...O-O
+
+[Event "USATE 2016"]
+[Site "?"]
+[Date "2016.02.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1br1nk1/pp3qp1/4p2p/2bpP2N/8/4B3/PPB2PPP/R2QR1K1 b - - 2 18"]
+
+18...Bb4
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2016.11.09"]
+[Round "9"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "D43"]
+[SetUp "1"]
+[FEN "8/p7/7p/1kN1Pb2/3K4/6P1/7P/8 b - - 2 42"]
+
+42...a5
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "0-1"]
+[ECO "C52"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp2qppp/1b3n2/4p3/2B5/BQP5/P4PPP/RN3RK1 b kq - 1 13"]
+
+13...Qc7
+
+[Event "BCF Weaver Adams 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.06.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Gorczyca, Ted"]
+[Result "1-0"]
+[ECO "E91"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1nppbp/2p2np1/4P3/2P5/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 9"]
+
+9...Nh5
+
+[Event "BCF Team Tournament"]
+[Site "?"]
+[Date "2017.04.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "*"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "2r1q3/pb2bNk1/1p6/5p2/3PpPp1/1Q2B1P1/PP4K1/7R w - - 3 31"]
+
+31.Qe6
+
+[Event "BCF August $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "3"]
+[White "Wu, Brandon"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r4rk1/pppn2bp/2n3B1/2Pqp1B1/1P3p2/5N1P/P4PP1/R2QR1K1 b - - 0 17"]
+
+17...Qe6
+
+[Event "SBCC Club Championship"]
+[Site "?"]
+[Date "2015.05.20"]
+[Round "7"]
+[White "Winsor"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "3r2k1/r4pp1/p6p/1pNq1Q2/1Pnp4/P5P1/2R2P1P/3R2K1 w - - 0 40"]
+
+40.Qd3
+
+[Event "BCC Grand Prix 2011-1"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.29"]
+[Round "3"]
+[White "Griffin, Mike"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2r2rk1/1b2qppp/p3p3/1p1n4/8/P1N3R1/1PB1QPPP/3R2K1 w - - 0 23"]
+
+23.Bxh7+
+
+[Event "?"]
+[Site "?"]
+[Date "2013.11.16"]
+[Round "?"]
+[White "Howell, Mike"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "r2q1rk1/p2n1ppp/4p3/2bp4/Q4Bb1/P1N1P3/2P1NPPP/1R3RK1 w - - 0 15"]
+
+15.Rb2
+
+[Event "Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2014.08.10"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Baez, Luis"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "8/pp3Kp1/1knR3p/8/1Pn1r3/6P1/1P5P/4R3 w - - 6 41"]
+
+41.Rdd1
+
+[Event "BCF November Friday Night Action"]
+[Site "?"]
+[Date "2016.11.18"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kannan, Atul"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "r3k2r/1ppn1pp1/2b1pq1p/p7/1bPP4/4BN2/PPQ1BPPP/2KR3R b kq - 2 13"]
+
+13...Nb6
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.19"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, Jim"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "r2q1rk1/pb1nbppp/1p2p3/3PN3/3P4/2P2B2/P4PPP/R1BQR1K1 b - - 0 13"]
+
+13...Bxd5
+
+[Event "BCF $15 Open"]
+[Site "?"]
+[Date "2016.08.27"]
+[Round "1"]
+[White "Karlsson"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "5rk1/ppp3b1/3p3p/3Ppq2/2PnN1p1/3QBrP1/PP3PKP/4RR2 w - - 0 24"]
+
+24.Qb1
+
+[Event "BCC G/80"]
+[Site "?"]
+[Date "2014.05.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "2b2r1k/p1q5/1p2p2p/5p2/3P4/2PBRQ2/P4PPb/R6K b - - 1 21"]
+
+21...Bb7
+
+[Event "BCF February TNS"]
+[Site "?"]
+[Date "2016.02.25"]
+[Round "4"]
+[White "Botta, Alejandro"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "D02"]
+[SetUp "1"]
+[FEN "r6r/ppqn1kp1/3bpnpp/2pp4/3P1PPP/2PBPQ2/PP1N4/R1B2RK1 b - - 0 14"]
+
+14...h5
+
+[Event "BCF November Friday Night Action"]
+[Site "?"]
+[Date "2016.11.18"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kannan, Atul"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "3r1rk1/1p3pp1/3n3p/p2B4/5B2/bP1R4/P4PPP/1K1R4 b - - 4 28"]
+
+28...Kh8
+
+[Event "BCF Fall FIDE Festival"]
+[Site "?"]
+[Date "2016.11.12"]
+[Round "4.7"]
+[White "Chen, Maxwell"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp3bp/2n5/2Pp1pp1/3Pp3/1QP1B1P1/P2NPPBP/R4RK1 w - - 0 14"]
+
+14.Bxg5
+
+[Event "BCF November TNS"]
+[Site "?"]
+[Date "2017.11.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "O'Malley, Tim"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "8/k1r4p/2p1R1p1/P2n1p2/5P1P/1K1B2P1/8/8 b - - 8 46"]
+
+46...Ne7
+
+[Event "BCC Highland Ave. Octads"]
+[Site "Boylston Chess Club"]
+[Date "2010.02.20"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Wang, Jimmy"]
+[Result "1-0"]
+[ECO "D70"]
+[SetUp "1"]
+[FEN "8/5p1p/4k1p1/8/rp2P3/p7/R1N2PPP/5K2 w - - 0 34"]
+
+34.f3
+
+[Event "BCC May TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Griffin, Mike"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r6r/pp1k4/1q4pp/3P1n2/5QP1/8/P6P/2R1R2K b - - 1 28"]
+
+28...Qd6
+
+[Event "CMC Friday Action Chess - Feb 11"]
+[Site "Chess Master Connection"]
+[Date "2011.02.11"]
+[Round "3"]
+[White "Krasik, Ilya"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "2rr4/1Qp2k2/5b1p/2Ppp2q/4Pp2/5N2/PP3BP1/K2R1B2 b - - 0 33"]
+
+33...Qg4
+
+[Event "SBCC Club Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.05.18"]
+[Round "6"]
+[White "Harris, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A10"]
+[SetUp "1"]
+[FEN "3b1k2/3n4/1p1N2p1/p3P2p/1pKB3P/6P1/P7/8 w - - 10 45"]
+
+45.Kb5
+
+[Event "BCF March TNS"]
+[Site "?"]
+[Date "2017.03.09"]
+[Round "2"]
+[White "Sullivan, Bob"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "1r2r1k1/p4q1p/2p1b1p1/1p2bp2/2P1p3/1Q2P1P1/PP3P1P/2RRNBK1 w - - 2 21"]
+
+21.Rd2
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "5"]
+[White "Smail, Benedict"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[SetUp "1"]
+[FEN "4n2q/p2bpkbr/1p1p3r/2pP1p1p/1PP1B1nR/P1NQ2P1/2NB2K1/7R w - - 0 28"]
+
+28.Bxh6
+
+[Event "BCF July TNS 2015"]
+[Site "?"]
+[Date "2015.07.23"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kroell, Frank"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "4r1k1/pp3ppp/8/7r/7q/P1NQ1K2/1Pn2PP1/1RBR4 b - - 4 23"]
+
+23...g6
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.06.13"]
+[Round "?"]
+[White "Hoy"]
+[Black "Correia"]
+[Result "*"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "rnb1kb1r/2p1pppp/p4n2/qp6/2BN4/5N2/P1PP1PPP/R1BQK2R w KQkq b6 0 9"]
+
+9.Bxf7+
+
+[Event "BCF Fall Foliage Premier"]
+[Site "?"]
+[Date "2015.10.17"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Pedersen, Soren"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "1rb1rnk1/ppq3b1/4p1p1/3pP1B1/5Q2/2PB1R2/PP3PPP/R5K1 b - - 10 22"]
+
+22...b5
+
+[Event "BCF Paramount 2017"]
+[Site "?"]
+[Date "2017.03.13"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Becker, Jared"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "r1b2rk1/2q1bp1p/p2pp3/4nPpQ/1p1NP3/7B/PPP1N2P/2KR3R b - - 1 16"]
+
+16...d5
+
+[Event "SBCC Championship 2006"]
+[Site "?"]
+[Date "2006.04.12"]
+[Round "2"]
+[White "Pagliarani, Vail"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r2qkb1r/5ppp/p1n1b3/1p1np3/8/N2BN3/PPPB1PPP/R2QK2R w KQkq - 0 16"]
+
+16.Nb1
+
+[Event "BCF October Quads"]
+[Site "?"]
+[Date "2015.10.03"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "8/1b6/8/p2PKp2/P6k/4B3/8/8 b - a3 0 54"]
+
+54...Kg3
+
+[Event "SBCC Fall Classic 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.10.20"]
+[Round "3"]
+[White "Aspinall, James"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "r2q1r1k/1b5p/p1np2p1/3Nppb1/R3P3/2P2P2/1PN1B1PP/3Q1RK1 w - - 1 20"]
+
+20.Nce3
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.19"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Duncan, Troy"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "r4rk1/ppp3qp/3p2nQ/4pb2/8/2PB1N2/P1P2PPP/R3R1K1 w - - 2 18"]
+
+18.Qe3
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.10.10"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pppnbppp/2npp3/8/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 b - - 2 8"]
+
+8...f5
+
+[Event "SBCC Summer Swiss 2009"]
+[Site "Sven Brask Chess Club"]
+[Date "2009.07.15"]
+[Round "3"]
+[White "Caranci, Charles"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r2qk2r/p2bppbp/2np2p1/2p1N3/1pP1P3/1P1P4/PB1NBPPP/1R1QR1K1 b kq - 0 12"]
+
+12...Nxe5
+
+[Event "Eastern Chess Congress"]
+[Site "?"]
+[Date "2014.11.07"]
+[Round "1"]
+[White "Hoy"]
+[Black "Koganov"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r4nk1/pp2r1p1/2Bbpq1p/3p4/3P4/P3Bb2/1P1QNPPP/2R1R1K1 w - - 0 21"]
+
+21.gxf3
+
+[Event "BCC Grand Prix 2011-1"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.29"]
+[Round "1"]
+[White "Nicholas, Jesse"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r1bqkb1r/pp1pnppp/2n5/2p1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 0 5"]
+
+5...g6
+
+[Event "BCC Underwater $10 Open"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.10"]
+[Round "2"]
+[White "Foye, Edward"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E81"]
+[SetUp "1"]
+[FEN "3r2k1/p1R2p2/1p2n2B/8/1P2P3/3p1P2/3Q1KP1/q7 w - - 1 32"]
+
+32.Bg5
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.30"]
+[Round "5"]
+[White "Dusza, Richard"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A48"]
+[SetUp "1"]
+[FEN "r1b1r1k1/ppp1qpbn/3p1np1/P7/2PPp2p/2N1P2P/1PQNBPPB/R1R3K1 b - - 0 15"]
+
+15...a6
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.05"]
+[Round "2"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D41"]
+[SetUp "1"]
+[FEN "2r2rk1/p3Rb2/1p4pq/4B3/3P2Q1/P1b5/5P1P/2R3K1 w - - 1 38"]
+
+38.Bf4
+
+[Event "SEMCC Club Championship"]
+[Site "?"]
+[Date "2017.05.17"]
+[Round "6"]
+[White "Fortier, Gerry"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "1r3r2/pp6/2n1p1k1/1RPpPpp1/3P2p1/P3N1P1/5PKP/3R4 w - - 6 30"]
+
+30.f4
+
+[Event "SBCC Lucky Shamrock Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.03.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Dean, Lawrence"]
+[Result "1-0"]
+[ECO "C57"]
+[SetUp "1"]
+[FEN "1rbk1b1r/p1p2ppp/2B5/3n1q2/3p4/3P4/PP3PPP/RNBQR1K1 b - - 2 13"]
+
+13...Bb4
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Kelleher, Bill"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "6k1/R4pb1/7p/3r1qp1/P2Pp3/4Q1PP/1B3PK1/8 b - - 0 31"]
+
+31...h5
+
+[Event "USATE"]
+[Site "Plainville, MA"]
+[Date "2015.09.29"]
+[Round "6"]
+[White "Yanovsky, Vlad"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "R7/r7/1Np5/P1P3p1/1K2bkp1/8/7P/8 b - - 4 55"]
+
+55...Rh7
+
+[Event "BCC April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Cross, Ted"]
+[Result "0-1"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "2kr3r/ppp1b3/1n2p3/4np1p/2PP1q2/P1NQ1P2/1P2BB1P/3R1K1R w - - 2 20"]
+
+20.Qc2
+
+[Event "BCC Quads 9-12"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.05"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Shapiro, Daniel"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1b5/pp3k1p/2q1p2P/5p2/2BQ2r1/2P1P3/P3KP2/3R3R w - - 6 28"]
+
+28.f4
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Harmatz, Elia"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "rnbq1rk1/ppp2ppp/8/3p4/1bPPn3/2NB1N2/PPQ2PPP/R1B1K2R b KQ - 1 8"]
+
+8...Be6
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "r1b2rk1/p5pp/1p4q1/2pPpp2/2P1P3/P1P1P1P1/2QB1R1P/R5K1 w - - 0 24"]
+
+24.exf5
+
+[Event "BCF Winter Action Swiss"]
+[Site "?"]
+[Date "2016.01.23"]
+[Round "5"]
+[White "Bolat, Ahmet"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A10"]
+[SetUp "1"]
+[FEN "8/p2k2r1/1p1b3p/1PpP1p1P/P1B1pP2/6P1/5K2/7R w - - 1 43"]
+
+43.Kg2
+
+[Event "SBCC Lucky Shamrock Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.03.23"]
+[Round "4"]
+[White "Hess, Carl"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r6r/p1qknpb1/2p1p2p/2PpPbp1/Q2N1P2/N1P5/PP4PP/R1B2RK1 b - - 2 13"]
+
+13...Rag8
+
+[Event "BCC $5 Open"]
+[Site "?"]
+[Date "2015.03.14"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Wu, Brandon"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r5k1/pp1brpp1/1q3n1p/2pp1P1N/3P3B/2PB1Q1P/PP4P1/5RK1 b - - 1 22"]
+
+22...Kh7
+
+[Event "BCC Early Bird Quads 9-16"]
+[Site "Boylston Chess Club"]
+[Date "2009.09.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "McGrady, Ryan"]
+[Result "1-0"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "4r1k1/p1q3pp/2b1pr2/3pNn2/2pQ4/2P1P1P1/PP4BP/R3R1K1 w - - 7 26"]
+
+26.Qc5
+
+[Event "BCF Year End TNS"]
+[Site "?"]
+[Date "2016.11.17"]
+[Round "2"]
+[White "Zargari, Amir"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "1kr5/pb3ppB/1p2p2p/4P3/q4P2/6P1/PP2Q2P/1K1R4 w - - 7 28"]
+
+28.Bd3
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2015.09.14"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Yip, Carissa"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "r3kb1r/1bqn1p1p/p1Np1P2/3P4/1p6/5Q1B/PPP4P/2KR2R1 b kq - 4 20"]
+
+20...Bxc6
+
+[Event "BCF Polar Vortex"]
+[Site "?"]
+[Date "2017.01.14"]
+[Round "2"]
+[White "Jin, Derek"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "4r1k1/pp2b1pp/2p3q1/3p4/3Pp3/1PP1BrP1/P4P1P/2R1RQK1 w - - 3 26"]
+
+26.Rcd1
+
+[Event "SBCC Team Tournament 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.02.15"]
+[Round "2"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A81"]
+[SetUp "1"]
+[FEN "4r1k1/p6p/6pb/1P6/1qN5/1P1RpPP1/4Q1K1/8 b - - 0 36"]
+
+36...Qxb5
+
+[Event "World Open"]
+[Site "Arlington, VA"]
+[Date "2014.07.06"]
+[Round "9"]
+[White "Corbin, Philip"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "2rqkb1r/1b1p1ppp/p3pn2/1p6/3NPB2/1QN5/PP3PPP/2R2RK1 w k - 3 13"]
+
+13.Bg5
+
+[Event "SBCC Year End Open 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.12.22"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Lemieux, Jim"]
+[Result "1-0"]
+[ECO "C57"]
+[SetUp "1"]
+[FEN "2kr3r/Bbpqb1pp/2n5/1B2pp2/4N3/2P2Q2/PPP2PPP/R3K2R w KQ - 0 14"]
+
+14.Nc5
+
+[Event "?"]
+[Site "?"]
+[Date "2016.02.14"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Sprechman, Daniel"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r4rk1/6pp/pq1NN1n1/2pp4/Pn3p2/6B1/4BPPP/1R1Q1RK1 b - - 0 22"]
+
+22...fxg3
+
+[Event "Eastern Class Championships"]
+[Site "Sturbridge, MA"]
+[Date "2013.03.16"]
+[Round "2"]
+[White "Christiansen, Natasha"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r2qkb1r/1b1p1ppp/p3pn2/1p6/4P3/1QN1BN2/PP3PPP/2R2RK1 w kq - 1 12"]
+
+12.Na4
+
+[Event "BCC February Grand Prix 2015"]
+[Site "?"]
+[Date "2015.02.28"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Griffin, Mike"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/5k2/R7/1r3PKp/7P/8/8/8 b - - 2 91"]
+
+91...Rc5
+
+[Event "BCC September TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.09.23"]
+[Round "3"]
+[White "Seehaus, Bernhard"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A00"]
+[SetUp "1"]
+[FEN "r1b1kb1r/2q1pppp/p2p4/np1P2B1/7Q/5N2/PPP1BPPP/2KR3R b kq - 2 11"]
+
+11...Bf5
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Brattain, Mika"]
+[Result "0-1"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "1nn1qrk1/5rpp/p1p1pp2/2PpP3/Np1PbPPN/1P2Q2P/P3BB2/5RK1 w - - 4 25"]
+
+25.Bg3
+
+[Event "BCC Early Bird Rapid Quads 1-2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.01.20"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Iglesias, Bernardo"]
+[Result "1-0"]
+[ECO "E90"]
+[SetUp "1"]
+[FEN "r2q1rk1/2pbp1b1/3n2p1/P1BPpp1p/4P2P/2N2P2/4B1P1/R2Q1RK1 b - - 0 18"]
+
+18...f4
+
+[Event "Continental Open 2015"]
+[Site "?"]
+[Date "2015.08.16"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Markzon, Gregory"]
+[Result "0-1"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "k1r5/8/p1n1p3/5p1p/1q4p1/4B1P1/1P3PQP/2R3K1 w - - 0 34"]
+
+34.Rxc6
+
+[Event "BCF June TNS"]
+[Site "?"]
+[Date "2017.06.01"]
+[Round "?"]
+[White "Gillaspie, Craig"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "5rk1/pp5p/2p3p1/3pbq2/8/2PQP3/PP1B2PP/R5K1 w - - 4 20"]
+
+20.Qe2
+
+[Event "BCF April TNS 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.22"]
+[Round "3"]
+[White "Lu, Max"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A06"]
+[SetUp "1"]
+[FEN "3r2k1/Q4pp1/7p/N7/4P3/1R1K4/q7/8 w - - 1 46"]
+
+46.Ke3
+
+[Event "BCC Grand Prix 2011-1"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.29"]
+[Round "1"]
+[White "Nicholas, Jesse"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B30"]
+[SetUp "1"]
+[FEN "r1bqkbnr/pp1p1ppp/2n5/2p1p3/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 1 4"]
+
+4...Nge7
+
+[Event "BCC Herb Healy"]
+[Site "?"]
+[Date "2015.01.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Mishkin, Paul"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r1bq1rk1/1p2bppp/pnn1p3/3pP3/3P3P/P1NB1N2/1P3PP1/R1BQR1K1 b - h3 0 12"]
+
+12...h6
+
+[Event "SEMCC March Madness"]
+[Site "?"]
+[Date "2016.03.02"]
+[Round "1"]
+[White "Kelly, Joseph"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "6k1/3n3p/4p2r/R4p2/QpPPb1p1/4P3/3B1PPq/4NK2 b - - 1 25"]
+
+25...Nf6
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.15"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C50"]
+[SetUp "1"]
+[FEN "5rk1/p1p1bppp/1r6/3Bp2b/4P3/2P1B3/PP3PPP/R3R1K1 b - - 2 17"]
+
+17...Rg6
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "4"]
+[White "Times, Lawyer"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2kr1b1r/1pp1pb1p/p1nq1npP/3p2B1/3PpN2/P1N5/1PPQBPP1/2KR3R w - - 0 14"]
+
+14.Na4
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2015.10.05"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Vernon, Bryant"]
+[Result "1-0"]
+[ECO "B78"]
+[SetUp "1"]
+[FEN "7R/8/4kpbP/4p3/p1P1P3/3KB2r/P1P5/8 b - - 2 42"]
+
+42...Bxe4+
+
+[Event "BCC April TNS 2013"]
+[Site "Somerville, MA"]
+[Date "2013.05.22"]
+[Round "?"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "r1bq3r/pp1pnkbp/6p1/n1p2p2/4P3/2NP1N2/PPP3PP/R1BQ1RK1 w - - 0 10"]
+
+10.Ng5+
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy"]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "6k1/p2r1p1p/2r5/2Ppn3/3B2P1/2R5/5P1P/3R2K1 b - - 3 39"]
+
+39...Nxg4
+
+[Event "?"]
+[Site "?"]
+[Date "2015.07.11"]
+[Round "6"]
+[White "Hoy, Andrew"]
+[Black "Lieberman, Seth"]
+[Result "1-0"]
+[ECO "B98"]
+[SetUp "1"]
+[FEN "1k1r3r/1p1b1ppp/pq1Np3/8/1n3PPb/1N3Q2/PPP4P/1K1R1B1R w - - 1 16"]
+
+16.Na5
+
+[Event "US Masters"]
+[Site "?"]
+[Date "2015.08.30"]
+[Round "7"]
+[White "Hoy, Andrew"]
+[Black "Meruga"]
+[Result "0-1"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r2q1rk1/pppb1ppp/2np1n2/1Bb2NB1/4P3/2N5/PPP2PPP/R2Q1RK1 b - - 1 9"]
+
+9...Ne5
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.24"]
+[Round "3"]
+[White "Hoy"]
+[Black "Kavi"]
+[Result "0-1"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp5p/4p1pQ/5pB1/3n2q1/1R1B4/P4PPP/4R1K1 w - - 4 22"]
+
+22.Bc1
+
+[Event "Manhattan Open"]
+[Site "?"]
+[Date "2015.08.23"]
+[Round "4"]
+[White "Forney, Robert"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B12"]
+[SetUp "1"]
+[FEN "r2qkb1r/1p1n1ppb/p1n1p2p/3pP2P/3B1PP1/P1N5/1PPQN3/R3KB1R w KQkq - 1 14"]
+
+14.g5
+
+[Event "BCF Harry Lyman Memorial"]
+[Site "?"]
+[Date "2015.09.19"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kavi, Nithin"]
+[Result "0-1"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "1r3rk1/p1q1n1b1/3NP1pp/2P2p1n/3pp3/BQ4P1/P4PBP/R3R1K1 w - - 1 24"]
+
+24.Qc4
+
+[Event "New England Masters 2016"]
+[Site "?"]
+[Date "2016.03.20"]
+[Round "7"]
+[White "Sage, Tim"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "rn4R1/4k1RB/8/p2qp3/1p6/4Pp2/1B5P/1K6 b - - 3 27"]
+
+27...Ke6
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2016.08.05"]
+[Round "1"]
+[White "Gologorsky"]
+[Black "Hoy"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp2b1pp/2n1p3/q1Pp1p2/3PnB2/P1NB1N2/1P3PPP/2RQ1RK1 b - - 0 12"]
+
+12...g5
+
+[Event "BCC November TNS 2011"]
+[Site "Boylston Chess Club"]
+[Date "2011.11.03"]
+[Round "1"]
+[White "Disney, Loren"]
+[Black "Hoy, Andew"]
+[Result "0-1"]
+[ECO "A00"]
+[SetUp "1"]
+[FEN "2r2b2/p2q3k/1pr1p1pp/n2pPp2/1Q1P1N1P/1P3NP1/P2K1P2/R1R5 w - - 7 31"]
+
+31.Qb5
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.12"]
+[Round "7"]
+[White "Chase, Chris"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B84"]
+[SetUp "1"]
+[FEN "7r/8/R3p3/4k1p1/P3p3/2P3KP/1P6/8 b - - 0 40"]
+
+40...Rf8
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.01.16"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hanson, Dave"]
+[Result "1-0"]
+[ECO "E97"]
+[SetUp "1"]
+[FEN "r4rk1/ppN3bp/3p2p1/4p1q1/1PP1pnb1/6P1/P4P1P/R1BQRBK1 w - - 1 16"]
+
+16.Qxd6
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.11"]
+[Round "2"]
+[White "Hall, Jeff"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A26"]
+[SetUp "1"]
+[FEN "8/8/3pN1pk/8/2r1P3/6pP/1r4B1/3R2bK w - - 0 49"]
+
+49.Rxg1
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.10.10"]
+[Round "2"]
+[White "Hoy"]
+[Black "Winsor"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "6k1/p2q2pp/2pp4/7n/2PQ4/1P3r2/PB2N2P/R5K1 b - - 1 26"]
+
+26...Qe6
+
+[Event "?"]
+[Site "?"]
+[Date "2014.05.21"]
+[Round "7"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C62"]
+[SetUp "1"]
+[FEN "k1r4r/pp1qbppp/8/1N1p4/4nB2/1Q5P/P1P2PP1/R4RK1 w - - 2 18"]
+
+18.Rab1
+
+[Event "BCF Club Championship"]
+[Site "?"]
+[Date "2016.11.05"]
+[Round "?"]
+[White "Bing, Charles"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "4r3/ppk1PRp1/2p4p/3rq3/3p2Q1/2P5/PP4PP/R5K1 w - - 3 22"]
+
+22.Raf1
+
+[Event "BCC September TNS 2011"]
+[Site "Boylston Chess Club"]
+[Date "2011.09.29"]
+[Round "4"]
+[White "Pittman, Adam"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B33"]
+[SetUp "1"]
+[FEN "8/1k4p1/7p/R2K4/p1P5/8/r6P/8 w - - 4 47"]
+
+47.c5
+
+[Event "SEMCC Dog Days of Chess"]
+[Site "?"]
+[Date "2016.09.07"]
+[Round "?"]
+[White "Hoy"]
+[Black "Aspinall"]
+[Result "1-0"]
+[ECO "D05"]
+[SetUp "1"]
+[FEN "8/4k3/4P3/3p1K2/8/2pr4/6R1/8 w - - 1 64"]
+
+64.Rg7+
+
+[Event "?"]
+[Site "?"]
+[Date "2016.01.20"]
+[Round "3"]
+[White "Hoy"]
+[Black "Robillard"]
+[Result "0-1"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "r4rk1/pp4pp/8/2bp2B1/4pPb1/1PP5/1P1N2PP/R4R1K w - - 0 18"]
+
+18.Rae1
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hoy"]
+[Black "Hall"]
+[Result "*"]
+[ECO "D17"]
+[SetUp "1"]
+[FEN "r3kb1r/1p3ppp/1np1b3/p3P3/P2qP3/2NB1PP1/1P5P/R1BQK2R w KQkq - 3 16"]
+
+16.Nb5
+
+[Event "New England Masters 2016"]
+[Site "?"]
+[Date "2016.03.20"]
+[Round "7"]
+[White "Sage, Tim"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "rn1q2k1/1b4pp/4p3/p2P4/1pP3p1/3BPr2/1B3Q1P/R3K1R1 w Q - 0 19"]
+
+19.Qxf3
+
+[Event "BCF April TNS 2009"]
+[Site "Boylston Chess Club"]
+[Date "2009.04.17"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Phelps, Matt"]
+[Result "1-0"]
+[ECO "D32"]
+[SetUp "1"]
+[FEN "8/p1r2pkp/2pqr1p1/2Rp4/QP6/4P2P/P4PP1/2R3K1 b - - 0 30"]
+
+30...Qe7
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.04"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Baker, Bob"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "8/4nk2/3b4/1B1p3p/3P1p2/2N2P2/1P3PKP/8 b - - 1 32"]
+
+32...Ke6
+
+[Event "New England Masters 2016"]
+[Site "?"]
+[Date "2016.03.20"]
+[Round "7"]
+[White "Sage, Tim"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "D31"]
+[SetUp "1"]
+[FEN "rn1q1rk1/1b3ppp/4p3/p7/1pPPn3/3BPN2/1BQ2PPP/R3K1R1 b Q - 3 15"]
+
+15...f5
+
+[Event "BCC Underwater $10 Open"]
+[Site "Boylston Chess Club"]
+[Date "2010.04.10"]
+[Round "2"]
+[White "Foye, Edward"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "E81"]
+[SetUp "1"]
+[FEN "2r1r1k1/p1p2pb1/1p5p/1Bnq2p1/3pP3/5PB1/PP4PP/2RQ1RK1 b - - 0 21"]
+
+21...Qxa2
+
+[Event "SBCC Club Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.05.18"]
+[Round "6"]
+[White "Harris, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A10"]
+[SetUp "1"]
+[FEN "3r1b2/p2r3k/1pp1n1pp/2p1Pp2/3P1B1P/4PNP1/PP1R4/3R3K w - - 0 28"]
+
+28.b4
+
+[Event "BCF January TNS"]
+[Site "?"]
+[Date "2017.01.05"]
+[Round "1"]
+[White "Bonnell, Leo"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r3kb1r/pppq2pp/2np1n2/4p1N1/3P4/2PQ4/PP2PP2/RNB1K2R w KQkq e6 0 10"]
+
+10.Rxh7
+
+[Event "BCC Legends of Chess - Miguel Najdorf"]
+[Site "Boylston Chess Club"]
+[Date "2014.06.14"]
+[Round "2"]
+[White "Sun, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r1bq2k1/1p4b1/p2p1r1p/3Pp3/QP2Pppn/2NB4/P2N1PPP/R4RK1 w - - 2 19"]
+
+19.g3
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "5rk1/p5pp/1p6/2pPp3/P1P1P3/2Pr2Pb/3B3P/R3R1K1 w - - 1 33"]
+
+33.Rad1
+
+[Event "SBCC Name It Yourself Open 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.06.06"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3bbp/2p2np1/4p1B1/4Pp2/2P2B2/PP1N1PPP/R2QR1K1 w - - 0 19"]
+
+19.Bxf4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.13"]
+[Round "3"]
+[White "George, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "4r3/ppp4k/3pNr2/b4P2/6R1/1P4p1/7P/5R1K w - - 1 33"]
+
+33.Rg7+
+
+[Event "SBCC Brask Invitational 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.02.16"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Dean, Lawrence"]
+[Result "1/2-1/2"]
+[ECO "C57"]
+[SetUp "1"]
+[FEN "r1bq1b1r/p1p2kpp/8/1p1np3/3P4/8/PP1P1PPP/RNBQKB1R b KQ - 0 9"]
+
+9...Bb7
+
+[Event "BCC Highland Ave. Octads"]
+[Site "Boylston Chess Club"]
+[Date "2010.02.20"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Fregeau, Harrison"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r1bqk2r/pp2nppp/2npp3/2b3B1/2B1P3/P1N2N2/1P3PPP/R2Q1RK1 b kq - 0 9"]
+
+9...Qb6
+
+[Event "SBCC Brask Invitational 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2013.03.06"]
+[Round "1"]
+[White "McCasland, Kris"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r3qrk1/1pp3b1/p2p3p/1N1P2p1/4P3/1Q1R1bP1/PP3P1P/2B1R1K1 b - - 3 21"]
+
+21...g4
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.13"]
+[Round "3"]
+[White "George, Michael"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp3bp/2np1n2/4ppp1/3P1P2/1NP1P1N1/PP2B1PP/R1BQ1RK1 b - f3 0 10"]
+
+10...exd4
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2015.06.06"]
+[Round "1"]
+[White "Henner, Peter"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "rn1qkb1r/ppp4p/5ppP/1Q1p4/3Pp3/2N5/PPP2PP1/R3K1NR b KQkq - 1 11"]
+
+11...Kf7
+
+[Event "BCF June TNS"]
+[Site "?"]
+[Date "2017.06.01"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Bierig, Trevor"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "1r4k1/p3B1p1/2p2P2/3b4/3p1P1p/3P2rP/P1RR2PK/8 b - - 0 30"]
+
+30...Rb1
+
+[Event "?"]
+[Site "CMC Providence"]
+[Date "2012.11.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Li, Jason"]
+[Result "0-1"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "rn1qr1k1/pb2bppp/1p2p3/3nN3/2BP4/1QN3B1/PP3PPP/R4RK1 b - - 2 13"]
+
+13...Nc6
+
+[Event "BCC Highland Ave. Octads"]
+[Site "Boylston Chess Club"]
+[Date "2010.02.20"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Wang, Jimmy"]
+[Result "1-0"]
+[ECO "D70"]
+[SetUp "1"]
+[FEN "r1bqr1k1/pppnppbp/1n4p1/8/3PP3/2N1BN2/PP1QBPPP/R4RK1 b - - 4 10"]
+
+10...c6
+
+[Event "?"]
+[Site "?"]
+[Date "2016.01.23"]
+[Round "1"]
+[White "Cutler, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "2b1r1kb/5p1p/pq1p1npB/4p3/2PpP3/1r1P2PP/RPQ1NPBK/4R3 b - - 4 20"]
+
+20...a5
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy"]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "r1b2rk1/pp3ppp/2nbp3/7q/2PPR3/1B3N2/P4PPP/R1BQ2K1 b - - 2 15"]
+
+15...Be7
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.07.20"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Hess, Carl"]
+[Result "1-0"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "rnb2rk1/pp5p/2qPp1p1/2Q5/8/5NP1/P3B2P/R3K2R w KQ - 2 20"]
+
+20.Qd4
+
+[Event "SBCC Lucky Shamrock Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.03.23"]
+[Round "4"]
+[White "Hess, Carl"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "6rr/p1qk1p2/2p1p2p/2bpPn2/Q2N1B2/2P5/PP4PP/R4R1K b - - 1 18"]
+
+18...Nh4
+
+[Event "SBCC 9/11 Memorial 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.09.01"]
+[Round "1"]
+[White "Sfougaris, Jim"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "r1b1k1nr/pp3pbp/1qnpp1p1/8/2BNPP2/2N1B3/PPP3PP/R2QK2R w KQkq - 3 9"]
+
+9.Nce2
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.19"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Duncan, Troy"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "5rk1/p1p3qp/1p1p4/4p3/1n2Q3/3P1NP1/P4P1P/4R2K w - - 0 26"]
+
+26.Nh4
+
+[Event "SBCC Summer Swiss 2012"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.01"]
+[Round "4"]
+[White "Correia, Jack"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "1rbq1rk1/p4pbp/3p1np1/2p1p3/1p1nPP2/3PB1PP/PPP1N1B1/R1QN1RK1 w - - 1 13"]
+
+13.Rf2
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.26"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Tang, Arthur"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r4r1k/1b1pq1p1/3Np2p/p6P/1p1Q4/8/PPR1N1P1/R5K1 b - - 1 27"]
+
+27...Bc6
+
+[Event "BCF Summer Action Swiss"]
+[Site "?"]
+[Date "2015.07.11"]
+[Round "2"]
+[White "Milliern"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "1k1r3r/pp3p2/4p1bp/2n3p1/Q1P2qP1/5N1P/PP2BP2/R3R1K1 w - - 0 23"]
+
+23.Qb4
+
+[Event "SBCC Team Championship"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.06.08"]
+[Round "1"]
+[White "Dean, Lawrence"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "1r3rk1/p3qp1p/3pbRp1/1pp5/4P1P1/3P3P/P1P3B1/2Q2RK1 w - - 8 22"]
+
+22.a3
+
+[Event "BCC Legends of Chess: Tigran Petrosian"]
+[Site "?"]
+[Date "2015.03.21"]
+[Round "?"]
+[White "Birzu, Gabriel"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "r4r2/ppp2q1k/2n5/2P2pp1/4pN1b/P3P2B/1P2P2P/1RQ3RK w - - 2 26"]
+
+26.Qf1
+
+[Event "?"]
+[Site "?"]
+[Date "2017.05.13"]
+[Round "2"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D84"]
+[SetUp "1"]
+[FEN "r4rk1/pp2ppbp/n5p1/3q1b2/3P4/4P1B1/PP3PPP/R2QKBNR w KQ - 3 10"]
+
+10.Nf3
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy"]
+[Black "Harris"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "6k1/p1r2p2/2P3r1/3p3p/3B2n1/6RP/5P2/2R3K1 b - - 0 43"]
+
+43...f5
+
+[Event "SEMCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2016.06.15"]
+[Round "?"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "4r3/5pbk/6pp/8/3p2P1/1Q3R1P/PPP5/1KB3q1 w - - 4 30"]
+
+30.Qd3
+
+[Event "BCF Summer Action Swiss"]
+[Site "?"]
+[Date "2015.07.11"]
+[Round "5"]
+[White "Al-Mamud, Syed"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A84"]
+[SetUp "1"]
+[FEN "r4r2/ppq3bk/2pN2pp/2Pnn3/1P1Np1b1/1Q2P3/PB3PBP/R2R2K1 w - - 1 21"]
+
+21.Rf1
+
+[Event "BCC May Early Bird 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.05"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Esserman, Marc"]
+[Result "0-1"]
+[ECO "B80"]
+[SetUp "1"]
+[FEN "r1b2rk1/1p2bppp/pqn5/3p4/3N1B2/6PP/PPP1NP2/R2Q1RK1 w - - 2 15"]
+
+15.Rb1
+
+[Event "BCF Wednesday Night Action"]
+[Site "?"]
+[Date "2016.03.16"]
+[Round "1"]
+[White "Perelshteyn, Eugene"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "2kr3r/pp4bp/2ppP1p1/2q1p3/2P5/3QN3/PP3PPP/1R3RK1 b - - 1 19"]
+
+19...Rde8
+
+[Event "BCC May Quads"]
+[Site "?"]
+[Date "2015.05.07"]
+[Round "1"]
+[White "Hoy"]
+[Black "Hu"]
+[Result "1-0"]
+[ECO "D87"]
+[SetUp "1"]
+[FEN "5k2/1N6/4b1p1/2p1p3/P1P1P2P/6p1/4B1K1/4b3 b - - 6 40"]
+
+40...Bb4
+
+[Event "?"]
+[Site "?"]
+[Date "2017.07.08"]
+[Round "2"]
+[White "Milliern, David"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "5rk1/6pp/2p3p1/8/pnP3P1/4q2P/1P1R2B1/1K1Q4 w - - 0 30"]
+
+30.Re2
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "5"]
+[White "Smail, Benedict"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[SetUp "1"]
+[FEN "2rq4/pp1bpkb1/3p1npr/2pP1p1p/2P2Pn1/2NQ1BP1/PPNBP1K1/R6R w - - 2 19"]
+
+19.Rh3
+
+[Event "BCC Spring Thaw Premier"]
+[Site "?"]
+[Date "2015.04.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Fins, Mark"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "2r1r3/2Bn3p/p1BPn3/1pR1kpp1/1P2p3/P7/5PPP/3R2K1 b - - 9 42"]
+
+42...Nexc5
+
+[Event "CMC Friday Action Chess - Feb 11"]
+[Site "Chess Master Connection"]
+[Date "2011.02.11"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Perrotta, John"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "1kr5/5ppp/3b4/3p4/2n5/P1B3P1/1P1N1P1P/2KR3b w - - 0 30"]
+
+30.Nxc4
+
+[Event "?"]
+[Site "?"]
+[Date "2015.02.19"]
+[Round "3"]
+[White "Becker, Jared"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B10"]
+[SetUp "1"]
+[FEN "4r2k/1p5p/p2p2p1/8/3bPP2/1QNK2Pq/PP5P/7R b - - 2 26"]
+
+26...Qg2
+
+[Event "Manhattan Open"]
+[Site "U2200"]
+[Date "2015.08.22"]
+[Round "3"]
+[White "Hoy"]
+[Black "Rautela, Vedant"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r4rk1/3bppbp/p1np1np1/qp6/4PP1N/2NBB2P/PP1Q2P1/2R2RK1 w - b6 0 14"]
+
+14.e5
+
+[Event "BCC Grand Prix 2011-1"]
+[Site "Boylston Chess Club"]
+[Date "2011.01.29"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Lung, Timothy"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "r1b2rk1/p1q3p1/2p4p/2Q2p2/4Pb2/2N2B2/PPP2PPP/R3K2R b KQ - 2 18"]
+
+18...Bxh2
+
+[Event "?"]
+[Site "?"]
+[Date "2014.08.28"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Graf, John"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r7/1N2kpp1/4p2p/3np3/P7/8/1Pn2PPP/2RR2K1 b - - 2 27"]
+
+27...Ndb4
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hoy, Adam"]
+[Result "1-0"]
+[ECO "E51"]
+[SetUp "1"]
+[FEN "r4rk1/pbp3pp/1p3pq1/4pR2/2PPP3/PQP1P1P1/3B3P/R5K1 w - - 2 21"]
+
+21.d5
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2015.06.07"]
+[Round "4"]
+[White "Niemann, Hans"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "A83"]
+[SetUp "1"]
+[FEN "2k4b/2n5/1p4p1/2p2b2/8/PKPNBP2/8/4N3 w - - 2 42"]
+
+42.a4
+
+[Event "BCF November Friday Night Action"]
+[Site "?"]
+[Date "2016.11.18"]
+[Round "4"]
+[White "Hoy, Andrew"]
+[Black "Kannan, Atul"]
+[Result "1-0"]
+[ECO "C10"]
+[SetUp "1"]
+[FEN "rn1qkb1r/ppp2ppp/2b1pN2/8/3P4/3B1N2/PPP2PPP/R1BQK2R b KQkq - 0 7"]
+
+7...Qxf6
+
+[Event "SBCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2015.06.10"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pppp1ppp/5n2/1Bb1n3/3PP3/2N5/PPP2PPP/R1BQ1RK1 b - d3 0 7"]
+
+7...Bb6
+
+[Event "SBCC Team Championships 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.06.09"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Aspinall, Jim"]
+[Result "0-1"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "2r3k1/5ppp/3p4/1P1P2P1/4PR1P/2NK4/8/2n5 w - - 7 37"]
+
+37.Kc2
+
+[Event "CMC Friday Action Chess - Feb 11"]
+[Site "Chess Master Connection"]
+[Date "2011.02.11"]
+[Round "3"]
+[White "Krasik, Ilya"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "A85"]
+[SetUp "1"]
+[FEN "r6r/pppbkq2/2npp2p/2P2pb1/3P4/2N1PQBN/PP3PP1/1K1R1B2 b - - 0 20"]
+
+20...a6
+
+[Event "BCF Club Championship 2016"]
+[Site "?"]
+[Date "2016.09.12"]
+[Round "1"]
+[White "Birzu"]
+[Black "Hoy"]
+[Result "0-1"]
+[ECO "E01"]
+[SetUp "1"]
+[FEN "8/p1r4p/b4k2/2p1p2B/3nPr2/BP2K3/P2R3P/4R3 w - - 3 33"]
+
+33.Rc1
+
+[Event "Gus Gosselin Grade Championships 2002"]
+[Site "Sage School Foxboro"]
+[Date "2002.03.10"]
+[Round "3"]
+[White "Limperis, Mark"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "6r1/1p2kp1p/p4p2/2P5/1PB1b3/6P1/P6P/3R2K1 b - - 0 25"]
+
+25...Rd8
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Manon-Og, Ramon"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "4rk1r/pppq1pn1/3p4/P5pp/1P1bB3/2P2QB1/5PPP/R3R1K1 b - - 0 21"]
+
+21...Bxc3
+
+[Event "BCF Shamrock Open"]
+[Site "?"]
+[Date "2017.03.18"]
+[Round "4"]
+[White "Li, Jerry"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "5b1r/N3kppp/4p3/8/8/4PP2/Pr5P/R3K2R w KQ - 0 18"]
+
+18.Nc6+
+
+[Event "BCC Spring Thaw Premier"]
+[Site "?"]
+[Date "2015.04.11"]
+[Round "2"]
+[White "Ramanathan, Suraj"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "3r2k1/p2r3p/1p2q1p1/1Q1ppb2/8/6P1/PP1RPPBP/3R2K1 b - - 3 28"]
+
+28...d4
+
+[Event "?"]
+[Site "?"]
+[Date "2015.01.07"]
+[Round "1"]
+[White "Silva, Cory"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B17"]
+[SetUp "1"]
+[FEN "8/pp3p1B/2p1p3/3n2kp/3P1p2/2P2P1P/PP3P1K/8 w - - 1 29"]
+
+29.a3
+
+[Event "Manhattan Open"]
+[Site "?"]
+[Date "2015.08.23"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Arnold, Justin"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r4rk1/pp2ppbp/2npb1p1/q1nN4/2P1P3/1P2BN1P/P4PP1/1BRQ1RK1 b - - 4 14"]
+
+14...f5
+
+[Event "SEMCC Opening Gambit"]
+[Site "?"]
+[Date "2016.01.06"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "McCasland, Kris"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1rb2rk1/2qn1ppp/p2pp3/5PP1/1p1RP3/5Q1B/PPP1N2P/2K4R b - - 1 16"]
+
+16...b3
+
+[Event "?"]
+[Site "?"]
+[Date "2017.02.07"]
+[Round "1"]
+[White "Chen, Maxwell"]
+[Black "Hoy, Andrew"]
+[Result "1/2-1/2"]
+[ECO "B87"]
+[SetUp "1"]
+[FEN "rnb1r1k1/4bppp/p2q4/3p4/P2N1P2/2N1BQ2/1P4PP/R4RK1 b - - 2 19"]
+
+19...Bf6
+
+[Event "SEMCC Jim Sfougaris Memorial"]
+[Site "?"]
+[Date "2016.06.15"]
+[Round "?"]
+[White "Winsor, George"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C40"]
+[SetUp "1"]
+[FEN "rnb1k2r/p3qpb1/5npp/1Q2p3/4P3/2N1BN1P/PPP2PP1/2KR3R b kq - 0 12"]
+
+12...Bd7
+
+[Event "SBCC Paul Gavlick Memorial"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.12.12"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Harris, David"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "6k1/p1r2p2/2P3r1/3p3p/3B2n1/6RP/5P2/2R3K1 b - - 0 43"]
+
+43...f5
+
+[Event "?"]
+[Site "?"]
+[Date "2015.11.02"]
+[Round "8"]
+[White "Hoy, Andrew"]
+[Black "Times, Lawyer"]
+[Result "1/2-1/2"]
+[ECO "A07"]
+[SetUp "1"]
+[FEN "2b2r1k/4n1b1/pr1qP2p/1pp3p1/5p2/1PP5/PBN1QPBP/R3R1K1 w - - 2 25"]
+
+25.Bh3
+
+[Event "?"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.08.17"]
+[Round "?"]
+[White "Hoy"]
+[Black "Hess"]
+[Result "1-0"]
+[ECO "B03"]
+[SetUp "1"]
+[FEN "r5kr/1p1n2p1/4R2p/p3P3/2PqbQ2/8/PP4PP/2K2B1R w - - 4 26"]
+
+26.Rd6
+
+[Event "?"]
+[Site "?"]
+[Date "2015.12.30"]
+[Round "5"]
+[White "Aspinall, Jim"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "C05"]
+[SetUp "1"]
+[FEN "4rrk1/1p1bb1pp/pqn1p3/3p3n/1P1P1B2/P1NB1N1P/3Q2P1/4RR1K w - - 1 22"]
+
+22.Be5
+
+[Event "?"]
+[Site "?"]
+[Date "2013.09.04"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Correia, Jack"]
+[Result "1-0"]
+[ECO "C04"]
+[SetUp "1"]
+[FEN "k1r2n1r/pb1n1q1p/1pp1p3/3pNp1P/3P1P1N/2PB2P1/PP2Q3/1K2R2R b - - 1 25"]
+
+25...Qf6
+
+[Event "SBCC Winter Warmer 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.02.08"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Hannah, Steve"]
+[Result "1-0"]
+[ECO "D44"]
+[SetUp "1"]
+[FEN "2kr1b1r/pb1n1p2/1qp1pP2/1p4B1/2pP4/P1N5/1P2BPPP/R2QK2R w KQ - 0 14"]
+
+14.O-O
+
+[Event "BCC Paramount 2010"]
+[Site "Boylston Chess Club"]
+[Date "2010.05.03"]
+[Round "10"]
+[White "Hoy, Andrew"]
+[Black "Haunstrup, Joshua"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r4rk1/pp5p/2n3p1/3p4/6b1/3BqP2/PPQ1N1PP/3R1R1K b - - 2 20"]
+
+20...Be6
+
+[Event "Philadelphia Open 2015"]
+[Site "?"]
+[Date "2015.04.04"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Manon-Og, Ramon"]
+[Result "1/2-1/2"]
+[ECO "C48"]
+[SetUp "1"]
+[FEN "4rk1r/pBpq1pn1/3p4/P5p1/1P6/2Q3P1/5PP1/R3R1K1 b - - 0 24"]
+
+24...Rb8
+
+[Event "BCF March TNS"]
+[Site "?"]
+[Date "2017.03.09"]
+[Round "2"]
+[White "Sullivan, Bob"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A89"]
+[SetUp "1"]
+[FEN "4r1k1/p4q1p/1rp1b1p1/1p2bp2/2P1p3/1Q2P1P1/PP1R1P1P/2R1NBK1 w - - 4 22"]
+
+22.f4
+
+[Event "?"]
+[Site "?"]
+[Date "2014.04.26"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Tang, Arthur"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "r4r1k/1b1pq1p1/p1n1p2p/1p5P/1b2N1Q1/2N1P3/PPB3P1/R4RK1 w - - 0 21"]
+
+21.Nd6
+
+[Event "SBCC Dog Days of Chess 2010"]
+[Site "Sven Brask Chess Club"]
+[Date "2010.08.18"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Wheeler, Ken"]
+[Result "1-0"]
+[ECO "C58"]
+[SetUp "1"]
+[FEN "r2q1rk1/pQ2bppp/5n2/4p3/8/2N2N2/PPnP1PPP/R1B2RK1 w - - 0 14"]
+
+14.Nxe5
+
+[Event "BCF December TNS"]
+[Site "?"]
+[Date "2015.11.14"]
+[Round "2"]
+[White "Pedersen, Soren"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B99"]
+[SetUp "1"]
+[FEN "1rb1k2r/1pqnbppp/p2ppn2/6B1/3NPP2/2N3Q1/PPP1B1PP/2KR3R b k - 4 11"]
+
+11...b5
+
+[Event "Continental Open"]
+[Site "?"]
+[Date "2014.08.09"]
+[Round "4"]
+[White "Lu, Maximillian"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "r4rk1/p4pbp/1p2pp2/qbPp4/3P4/2N3Q1/PP3PPP/R3K1NR w KQ - 0 15"]
+
+15.h4
+
+[Event "BCF November TNS"]
+[Site "?"]
+[Date "2015.02.14"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Abe, Mahiro"]
+[Result "1-0"]
+[ECO "C49"]
+[SetUp "1"]
+[FEN "1rr3k1/1bq2ppp/3pnn2/1p3N2/2p1P3/B1Q3P1/2P2PBP/R3R1K1 b - - 0 23"]
+
+23...Nc5
+
+[Event "BCC Highland Ave. Octads"]
+[Site "Boylston Chess Club"]
+[Date "2010.02.20"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Wang, Jimmy"]
+[Result "1-0"]
+[ECO "D70"]
+[SetUp "1"]
+[FEN "rnbqr1k1/ppp1ppbp/1n4p1/8/3PP3/2N1BN2/PP2BPPP/R2Q1RK1 b - - 2 9"]
+
+9...N8d7
+
+[Event "Eastern Team Championship 2013"]
+[Site "Stamford, CT"]
+[Date "2013.10.24"]
+[Round "?"]
+[White "Hoy, Andrew"]
+[Black "Baker, Bob"]
+[Result "1-0"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "r7/1p3rpk/P1n1p2p/1pBpPp1P/1P6/R1P3P1/5P2/R5K1 b - - 0 32"]
+
+32...bxa6
+
+[Event "BCC Quads 2009-12"]
+[Site "Boylston Chess Club"]
+[Date "2009.12.05"]
+[Round "2"]
+[White "Ingram, Sean"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "2r1r1k1/pp1b1pbp/3q2p1/2ppNn2/5P2/2NP4/PPPB1QPP/1R2R1K1 w - - 10 17"]
+
+17.Nxd7
+
+[Event "SBCC August Attack"]
+[Site "Sven Brask Chess Club"]
+[Date "2012.08.22"]
+[Round "3"]
+[White "Plante, Gerry"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "8/1p3kp1/1b2pp2/1B1r3P/1B6/1P3b1P/P4P2/2R3K1 w - - 1 31"]
+
+31.Bf1
+
+[Event "Continental Open"]
+[Site "Sturbridge, MA"]
+[Date "2014.08.10"]
+[Round "5"]
+[White "Hoy, Andrew"]
+[Black "Baez, Luis"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "6K1/pp4p1/2n1R2p/1k4r1/1P2R1nP/6P1/1P6/8 b - h3 0 52"]
+
+52...Nf6+
+
+[Event "SBCC Opening Gambit 2006"]
+[Site "Sven Brask Chess Club"]
+[Date "2006.01.11"]
+[Round "2"]
+[White "Berkey, Eric"]
+[Black "Hoy, Andrew"]
+[Result "1-0"]
+[ECO "B22"]
+[SetUp "1"]
+[FEN "1r3Nk1/pp3pp1/3b1n1p/2p1n3/8/1QP2PPq/PP1BB2P/R4RK1 b - - 0 23"]
+
+23...c4
+
+[Event "BCF June TNS"]
+[Site "?"]
+[Date "2017.06.01"]
+[Round "?"]
+[White "Gillaspie, Craig"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "D00"]
+[SetUp "1"]
+[FEN "5rk1/pp1q3p/2p3p1/3pb3/8/2P1P3/PP1B2PP/R4QK1 w - - 2 19"]
+
+19.Qd3
+
+[Event "BCF Summer Action Swiss"]
+[Site "?"]
+[Date "2015.07.11"]
+[Round "5"]
+[White "Al-Mamud, Syed"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A84"]
+[SetUp "1"]
+[FEN "rnb2rk1/ppq1p1b1/2pp1npp/5p2/2PP4/1P2PN2/PBQNBPPP/R4RK1 b - - 1 10"]
+
+10...Nbd7
+
+[Event "SBCC Lucky Shamrock Open"]
+[Site "Sven Brask Chess Club"]
+[Date "2011.03.02"]
+[Round "1"]
+[White "Hoy, Andrew"]
+[Black "Plante, Gerry"]
+[Result "1-0"]
+[ECO "A91"]
+[SetUp "1"]
+[FEN "r5k1/1p1b1rpp/1ppP4/3pPp1P/2n2P2/P5P1/1PN3B1/R4RK1 b - - 0 28"]
+
+28...h6
+
+[Event "Mass Open 2015"]
+[Site "?"]
+[Date "2015.05.25"]
+[Round "5"]
+[White "Smail, Benedict"]
+[Black "Hoy, Andrew"]
+[Result "0-1"]
+[ECO "A87"]
+[SetUp "1"]
+[FEN "4n2q/p2bpkbr/1p1p2pr/2pP3p/1PP1BPnR/P1NQ2P1/2NB2K1/7R w - - 1 27"]
+
+27.f5
+
+[Event "?"]
+[Site "?"]
+[Date "2015.10.21"]
+[Round "2"]
+[White "Hoy, Andrew"]
+[Black "Winsor, George"]
+[Result "1-0"]
+[ECO "D06"]
+[SetUp "1"]
+[FEN "3r2k1/p1qr2pp/1pp1pb2/5p2/2PPpP2/2B1P3/PP2Q1PP/3R1RK1 w - - 4 20"]
+
+20.c5
+
