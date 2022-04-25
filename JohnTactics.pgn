@@ -1,0 +1,1131 @@
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.05"]
+[Round "9"]
+[White "Wasserman, Eddie"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C03"]
+[SetUp "1"]
+[FEN "r4r1k/2nq1ppp/4p3/ppbpP1B1/3N3Q/2P5/PP3PPP/R3R1K1 b - -"]
+
+18...Bxd4
+
+[Event "Boylston Milestones Sunday"]
+[Site "Chess.com"]
+[Date "2020.11.22"]
+[Round "2"]
+[White "Pillai, Natesh"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C03"]
+[SetUp "1"]
+[FEN "1R6/8/3r3p/6p1/1Pk2rP1/3p1P2/6K1/3R4 w - -"]
+
+52.b5
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/wE8iARqM"]
+[Date "2020.04.30"]
+[Round "6"]
+[White "Mirabile (SicilianTM), Tim"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1-0"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "8/5k2/4pN2/4PnKP/8/8/8/8 b - -"]
+
+80...Kg7
+
+[Event "Vegas National Open"]
+[Site "https://lichess.org/o1wWAcc5"]
+[Date "2021.06.20"]
+[Round "7"]
+[White "Hardin, John"]
+[Black "Gan, Nathan"]
+[Result "0-1"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "2r2rk1/p3b1p1/1p2p1np/3pP3/3P4/Pq2BNP1/1P4QP/3R1RK1 w - -"]
+
+29.Bc1
+
+[Event "Northeast Open"]
+[Site "?"]
+[Date "2016.08.07"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Weisz, Bryan"]
+[Result "0-1"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "4b1k1/p7/2p1p3/3pP1p1/3P4/P2r4/1PR1N1KP/8 w - -"]
+
+36.Ng3
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/DHzmgWta"]
+[Date "2020.04.09"]
+[Round "3"]
+[White "Hardin (Hardinaka), John"]
+[Black "Hua (YM2b), Charles"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "2r2rk1/2q1b1p1/pn1p1pPp/1pnRpP2/4P1QP/8/1PP1N1B1/2B2R1K w - -"]
+
+26.Qh5
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.02"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "Papanek, Ella"]
+[Result "0-1"]
+[ECO "B24"]
+[SetUp "1"]
+[FEN "2r1k2r/2q1b1p1/p3ppn1/1p2P2p/1P1B4/P1NP2PP/2P2Qb1/R4RK1 w k -"]
+
+22.Kxg2
+
+[Event "MCC U2300 April"]
+[Site "?"]
+[Date "2017.04.23"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Yen, William"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "1q3rk1/1p1r2pp/p1n1RB2/3p3Q/3P4/2N5/PP3PP1/1Bb4K b - -"]
+
+22...Rxf6
+
+[Event "MCC U2300 April"]
+[Site "?"]
+[Date "2017.04.23"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Yen, William"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "1q3rk1/1p1br1pp/p1nbpn2/3pN3/3P1B2/2N5/PP3PPP/1BRQR1K1 b - -"]
+
+18...Nxe5
+
+[Event "MACA -- Westford"]
+[Site "Boston"]
+[Date "2021.09.04"]
+[Round "2"]
+[White "Carlson, Joaquin"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "2r2bk1/6pp/5p2/8/3Pn3/2PN3P/1r3PP1/R1R1N1K1 b - -"]
+
+34...Rd2
+
+[Event "MCC U2000 Premier"]
+[Site "?"]
+[Date "2018.08.10"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Rosenkranz"]
+[Result "1-0"]
+[ECO "B21"]
+[SetUp "1"]
+[FEN "rnnq2k1/1b3p2/p2p2pB/3Pr3/1p2N1Qb/6P1/PPB2P1P/3RR1K1 b - -"]
+
+21...Bf6
+
+[Event "MACA -- Westford"]
+[Site "Boston"]
+[Date "2021.09.04"]
+[Round "2"]
+[White "Carlson, Joaquin"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "1b2rrk1/4nppp/2p5/3pN3/3P1q2/2PQ1N1P/5PP1/RR4K1 b - -"]
+
+24...Nf5
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/wE8iARqM"]
+[Date "2020.04.30"]
+[Round "6"]
+[White "Mirabile (SicilianTM), Tim"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1-0"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "r2k3r/3nqp2/2n1p1p1/pp1pP2p/2pP1P1N/P1P1N1Q1/1P4PP/R4R1K b - -"]
+
+24...Nb6
+
+[Event "USATE 2020"]
+[Site "Parsippany"]
+[Date "2020.02.17"]
+[Round "5"]
+[White "Nakada, Johji"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "8/5R2/8/1k1pP3/4r3/6K1/8/8 w - -"]
+
+57.Rf5
+
+[Event "Black Diamond Premier"]
+[Site "Boston"]
+[Date "2021.03.29"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "5k2/1pN5/1p3p2/3p3B/3P1r1n/P1K4R/1P4r1/8 b - -"]
+
+45...Nf5
+
+[Event "2nd Covid-19 Championship"]
+[Site "https://lichess.org/q9vibBxZ"]
+[Date "2020.06.02"]
+[Round "3"]
+[White "Hua (YM2b), Charles"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "2rq1rk1/1p2b1pp/4pn2/p2pN1Bb/Pn1P4/1N4RP/1P1Q1PP1/RB4K1 b - -"]
+
+20...b6
+
+[Event "$15 Open August"]
+[Site "Boston"]
+[Date "2021.08.21"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Ji Yuze, Luke"]
+[Result "0-1"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "5nk1/pp3ppp/4p3/4P2P/1b2NP2/6P1/2R2RQK/q2r4 b - -"]
+
+33...a5
+
+[Event "Larry Schmitt Memorial"]
+[Site "Boston"]
+[Date "2021.08.07"]
+[Round "2"]
+[White "Ryan Sun"]
+[Black "John Hardin"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[SetUp "1"]
+[FEN "6k1/1pq2pp1/p1n2n1p/2B1p3/1P2P3/P2Q1KPB/7P/8 w - -"]
+
+31.a4
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.03"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Moreno, Daniel"]
+[Result "0-1"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "2bqrb2/3r1ppk/p4n1p/1pp1pP2/3pP3/1BPP1N1P/PP1BQP2/R5RK w - -"]
+
+22.Rg3
+
+[Event "Brooklyn Classical Chmps"]
+[Site "?"]
+[Date "2018.09.28"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Nkululeko, Nkosi"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "r2qrbk1/1p3p2/p1n1b2p/6p1/3PB3/5NBP/PP3PP1/2RQ1RK1 b - -"]
+
+18...Bxa2
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.04"]
+[Round "6"]
+[White "Hardin, John"]
+[Black "Tay, Brian"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "5r2/8/6p1/p3P1kp/4Rnp1/P1P1N3/4r2P/5R1K w - -"]
+
+43.c4
+
+[Event "Thursday Night Swiss Sept"]
+[Site "?"]
+[Date "2021.09.16"]
+[Round "3"]
+[White "Jain, Vihaan"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C03"]
+[SetUp "1"]
+[FEN "8/4n3/4p3/1p1pP1k1/1P1P1p2/2B2P1K/8/8 w - -"]
+
+64.Bd2
+
+[Event "MCC U2300 April"]
+[Site "?"]
+[Date "2017.04.23"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Yen, William"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "1q3rk1/3br1pp/p1nbpn2/1p1pN3/3P1B2/2N3P1/PP3P1P/1BRQR1K1 b - -"]
+
+19...Bxe5
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/nWkH98Ja"]
+[Date "2020.03.31"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Tay, Brian"]
+[Result "1-0"]
+[ECO "B24"]
+[SetUp "1"]
+[FEN "2b2rk1/p2p1p1p/1p2p1p1/4Qn2/4B3/6P1/P1q2P1P/R3R1K1 b - -"]
+
+20...f6
+
+[Event "Brooklyn Classical Chmps"]
+[Site "?"]
+[Date "2018.09.30"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Solal, Leo Cohen"]
+[Result "0-1"]
+[ECO "B07"]
+[SetUp "1"]
+[FEN "3k1b1r/1b1npQpp/p2p1n2/q7/4P3/1BN1B3/PrP3PP/R3K1NR w KQ -"]
+
+14.Bd2
+
+[Event "USATE 2020"]
+[Site "Parsippany"]
+[Date "2020.02.16"]
+[Round "3"]
+[White "Saquisili, Anthony"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "A84"]
+[SetUp "1"]
+[FEN "3r1rk1/3p2pp/p1bNp1n1/2P3q1/1P1Qp3/P5PP/4BP1K/R4R2 b - -"]
+
+23...Nf4
+
+[Event "Boylston Online Tournament G/60 +10"]
+[Site "https://lichess.org/FFwJWMIK"]
+[Date "2020.05.22"]
+[Round "2"]
+[White "Sage (Tim_Sage), Timothy"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "5k2/5P2/1n5p/1P2N3/2pK4/3b3P/2r5/6R1 b - -"]
+
+57...Nd7
+
+[Event "Black Diamond Premier"]
+[Site "Bcc"]
+[Date "2021.05.24"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Bihlmeyer, Joe"]
+[Result "0-1"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "2r5/4qpk1/p2p1n1r/Pp2p2p/3PP2Q/1BP1PR2/6P1/2R3K1 b - -"]
+
+33...exd4
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/DHzmgWta"]
+[Date "2020.04.09"]
+[Round "3"]
+[White "Hardin (Hardinaka), John"]
+[Black "Hua (YM2b), Charles"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "2r5/3n4/2r3kp/R1p1pNb1/1P2P3/p7/2R5/B6K w - -"]
+
+52.Rg2
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/wE8iARqM"]
+[Date "2020.04.30"]
+[Round "6"]
+[White "Mirabile (SicilianTM), Tim"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1-0"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "8/5k2/4p3/4P2P/5K2/5n1N/8/8 b - -"]
+
+76...Nh4
+
+[Event "MACA -- Westford"]
+[Site "Boston"]
+[Date "2021.09.04"]
+[Round "2"]
+[White "Carlson, Joaquin"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "8/2rk4/3P1R2/2P5/2K2p2/6b1/8/8 b - -"]
+
+59...Rb7
+
+[Event "Eastern Chess Congress"]
+[Site "Princeton"]
+[Date "2021.10.02"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "Kozower, Ethank"]
+[Result "0-1"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "5Q2/p6p/1p3pp1/7n/4Pk1q/1P6/P5K1/6R1 w - -"]
+
+55.Qd6+
+
+[Event "Brooklyn Classical Chmps"]
+[Site "?"]
+[Date "2018.09.29"]
+[Round "4"]
+[White "Zhu, Jenny"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "2r3k1/pp1bn3/1q1bp1pp/3p4/3P4/3Q1NN1/PP3PPP/1B3RK1 w - -"]
+
+22.Nh4
+
+[Event "Boylston Milestones Sunday"]
+[Site "Chess.com"]
+[Date "2020.11.22"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Welch, Charlie"]
+[Result "1-0"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "2qrr1k1/4bp1p/b4npB/p1pNp3/1pPnP3/3Q2NP/PP3PP1/1B1R1RK1 w - -"]
+
+25.b3
+
+[Event "Reubens Landey"]
+[Site "?"]
+[Date "2019.07.29"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Iglesias, Bernardo"]
+[Result "0-1"]
+[ECO "B00"]
+[SetUp "1"]
+[FEN "r4rk1/1pp1bppp/p1np1n2/4p3/P1BPP3/2N1BN1q/1PPQ1P2/R4RK1 w - -"]
+
+13.Qd1
+
+[Event "Brooklyn Classical Chmps"]
+[Site "?"]
+[Date "2018.09.29"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "Miyasaka, Julia Kaitlyn"]
+[Result "1-0"]
+[ECO "C45"]
+[SetUp "1"]
+[FEN "4r1k1/prpnqpbp/2p3p1/2PpP3/3B4/1P2Q1P1/P4PBP/1R2R1K1 b - -"]
+
+22...Bxe5
+
+[Event "Vegas National Open"]
+[Site "https://lichess.org/o1wWAcc5"]
+[Date "2021.06.19"]
+[Round "4"]
+[White "Stefanello, Mike"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[SetUp "1"]
+[FEN "5r1k/2pq1R1p/1pnpb1p1/p2Nb3/2P1P3/1P2B1PP/P2Q2BK/3R4 b - -"]
+
+21...Qxf7
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.03"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Moreno, Daniel"]
+[Result "0-1"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "3qrb2/1b1r1ppk/p4n1p/1pp1pP2/3pP3/1BPP1NRP/PP1BQP2/R6K w - -"]
+
+23.Rag1
+
+[Event "Boylston Online Tournament"]
+[Site "Chess.com"]
+[Date "2020.06.11"]
+[Round "5"]
+[White "Hardin (Hardinaka), John"]
+[Black "Oresick (RobertOresick), Robert"]
+[Result "1-0"]
+[ECO "B24"]
+[SetUp "1"]
+[FEN "2rqnrk1/pp1bbppp/2npp3/2p2PP1/4P3/2NP3N/PPP3BP/R1BQ1RK1 b - -"]
+
+11...f6
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/DHzmgWta"]
+[Date "2020.04.09"]
+[Round "3"]
+[White "Hardin (Hardinaka), John"]
+[Black "Hua (YM2b), Charles"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "2r2rk1/1bq1bppp/p2p4/1pn1pPP1/2n1P1QP/1NN5/1PP3B1/2BR1R1K b - -"]
+
+22...Nxb3
+
+[Event "Boylston Milestones Sunday"]
+[Site "MCC"]
+[Date "2019.06.02"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "6k1/6pp/4Bp2/2rn4/6P1/2r1PN1P/2b2K2/2R1R3 b - -"]
+
+34...Kf8
+
+[Event "Continental Open"]
+[Site "Sturbridge"]
+[Date "2021.08.14"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Zoffer, Oskar"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "8/P1k2ppp/8/2Nb4/2p5/6PP/5P2/6K1 w - -"]
+
+38.Kf1
+
+[Event "MACA -- Westford"]
+[Site "Boston"]
+[Date "2021.09.05"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "He, Henry"]
+[Result "1-0"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "3nr1k1/q4pp1/2bp3p/4p3/4P2N/1QPP2P1/1P3R1P/2B3K1 b - -"]
+
+21...Ne6
+
+[Event "MCC U2000 Premier"]
+[Site "?"]
+[Date "2018.08.12"]
+[Round "4"]
+[White "Tarun"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "A84"]
+[SetUp "1"]
+[FEN "5k2/2pq3r/1p1p4/p2P1p1p/P1PBnP2/2P3PP/4Q1R1/6K1 w - -"]
+
+38.g4
+
+[Event "Vegas National Open"]
+[Site "https://lichess.org/o1wWAcc5"]
+[Date "2021.06.18"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Powers, Leon"]
+[Result "1-0"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "3r1r2/1bq2pk1/3p1Np1/p1p1p1Pn/1p2P3/3P1R1P/PPPQ2B1/5RK1 b - -"]
+
+23...Nxf6
+
+[Event "Eastern Chess Congress"]
+[Site "Princeton"]
+[Date "2021.10.02"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "Kozower, Ethank"]
+[Result "0-1"]
+[ECO "B26"]
+[SetUp "1"]
+[FEN "3rr1k1/p6p/1pq1ppp1/5n2/3P1N2/1P3PPP/P2Q2K1/3R1R2 w - -"]
+
+33.d5
+
+[Event "Boylston Fall Foliage Swiss"]
+[Site "Chess.com"]
+[Date "2020.10.17"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "Bernal, Andrew"]
+[Result "0-1"]
+[ECO "C45"]
+[SetUp "1"]
+[FEN "1k2r2r/p1p1np1p/Q1p3p1/4p3/2Nq4/3b1B2/PP3PPP/2R1R1K1 b - -"]
+
+28...Nd5
+
+[Event "Larry Schmitt Memorial"]
+[Site "Boston"]
+[Date "2021.08.07"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "He, Henry"]
+[Result "1-0"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "4rr1k/b7/p1q5/nppb1pQ1/5R2/2PP3P/PPB3PN/R6K b - -"]
+
+25...Rf7
+
+[Event "USATE 2019"]
+[Site "?"]
+[Date "2019.02.18"]
+[Round "6"]
+[White "Baalla, Nura"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "rn2kb1r/pp2nppp/1q2p3/3pP3/3P4/2NQ1N2/PP3PPP/R1B2RK1 b kq -"]
+
+10...Nf5
+
+[Event "MCC U2000 Premier"]
+[Site "?"]
+[Date "2018.08.11"]
+[Round "2"]
+[White "Walton, John"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "A91"]
+[SetUp "1"]
+[FEN "3r4/pp1r1k1p/2p1bbp1/1nP1p3/1P2p3/P3N1P1/5P1P/RRB2BK1 w - -"]
+
+25.Bb2
+
+[Event "2nd Covid-19 Championship"]
+[Site "https://lichess.org/study/5j9"]
+[Date "2020.05.15"]
+[Round "1"]
+[White "Caston (Chess_Poet7), Henry"]
+[Black "Hardin (Hardinaka), John"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "3rk2r/1bp3pp/pp1p1q2/3Ppp2/P1P5/4PNP1/1P1KQPP1/R6R w k -"]
+
+20.Nh4
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/gO71Jqr5"]
+[Date "2020.05.07"]
+[Round "7"]
+[White "Hardin (Hardinaka), John"]
+[Black "Ying (MarshWarriorLegend), Victor"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "1r3rnk/p2q2bp/1pBPn1p1/4P1N1/5Pb1/4B3/PP1Q3P/2R2RK1 b - -"]
+
+23...Qd8
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/DHzmgWta"]
+[Date "2020.04.09"]
+[Round "3"]
+[White "Hardin (Hardinaka), John"]
+[Black "Hua (YM2b), Charles"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "r3r1k1/1bqnPppp/p2p4/1p4P1/2npP3/2N4P/1PP1Q1B1/2BR1R1K w - -"]
+
+22.Nd5
+
+[Event "Black Diamond Premier"]
+[Site "?"]
+[Date "2021.03.29"]
+[Round "2"]
+[White "Price, Allen"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[SetUp "1"]
+[FEN "2rr2k1/1p1qbpp1/p3pn1p/8/3PB2P/PP2N1P1/1B2QP2/2R1R1K1 b - -"]
+
+24...Nxe4
+
+[Event "Black Diamond Premier"]
+[Site "?"]
+[Date "2021.03.28"]
+[Round "3"]
+[White "Hoy, Andrew"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "B13"]
+[SetUp "1"]
+[FEN "5k2/1pN5/1p3p2/3p3B/3P1r1n/P1K4R/1P4r1/8 b - -"]
+
+45...Nf5
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/DHzmgWta"]
+[Date "2020.04.09"]
+[Round "3"]
+[White "Hardin (Hardinaka), John"]
+[Black "Hua (YM2b), Charles"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "2r2rk1/2q1b1pp/pn1p1p2/1pnRpPP1/4P1QP/8/1PP1N1B1/2B2R1K w - -"]
+
+25.Nc3
+
+[Event "USATE 2020"]
+[Site "Parsippany"]
+[Date "2020.02.16"]
+[Round "3"]
+[White "Saquisili, Anthony"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "A84"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b1p2pp/p3p1n1/2P5/1P2pp2/P3P2P/3NBPP1/R2Q1RK1 w - -"]
+
+18.exf4
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.03"]
+[Round "4"]
+[White "Ramaswamy, Nakul"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[SetUp "1"]
+[FEN "r1b2rk1/2qnb1pp/4pp2/pp1pP3/1P1B1P2/P1P3P1/1N4BP/R2QK2R w KQ -"]
+
+17.Bh3
+
+[Event "Boylston Milestones Sunday"]
+[Site "Metrowest"]
+[Date "2019.06.02"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Dayal, Pitambar"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "r1b1k2r/pp1nbppp/1qn1p3/3pP3/3P4/3B1N2/PP2NPPP/R1BQ1RK1 b kq -"]
+
+10...f6
+
+[Event "Reubens Landey"]
+[Site "BCC"]
+[Date "2019.07.15"]
+[Round "3"]
+[White "Graf, Jon"]
+[Black "Hardin"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "3r2k1/1p3ppp/p1q5/4Rr1b/3B1PnQ/1BP5/PP5P/R5K1 b - -"]
+
+27...Rxe5
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/gO71Jqr5"]
+[Date "2020.05.07"]
+[Round "7"]
+[White "Hardin (Hardinaka), John"]
+[Black "Ying (MarshWarriorLegend), Victor"]
+[Result "0-1"]
+[ECO "B25"]
+[SetUp "1"]
+[FEN "5r1k/p6p/1p1bn3/3N1q1b/8/5pBP/PP1Q4/6RK w - -"]
+
+43.Qc3+
+
+[Event "Thursday Night Swiss Sept"]
+[Site "?"]
+[Date "2021.09.30"]
+[Round "5"]
+[White "Xu, Raymond"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C03"]
+[SetUp "1"]
+[FEN "r2r2k1/pb3pp1/1p2p3/1Q2N1qp/3P4/2R2PP1/PP5P/3R2K1 w - -"]
+
+22.Kf2
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/CZXZd595"]
+[Date "2020.04.16"]
+[Round "4"]
+[White "Kantor, Alan"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "r1bq1rk1/ppp2ppp/8/n2n4/1b6/2NB1N2/PP3PPP/R1BQK2R w KQ -"]
+
+11.Bxh7+
+
+[Event "Continental Open"]
+[Site "Sturbridge"]
+[Date "2021.08.12"]
+[Round "1.1"]
+[White "Kaur, Aradh"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "C03"]
+[SetUp "1"]
+[FEN "4qrk1/2r1b1pp/1n2p3/1p1pPpP1/pn1P1P1N/1P5R/P2B2NP/R2Q3K b - -"]
+
+23...Qf7
+
+[Event "Continental Open"]
+[Site "Sturbridge"]
+[Date "2021.08.13"]
+[Round "1.2"]
+[White "Hardin, John"]
+[Black "Gerson, Elijah"]
+[Result "1-0"]
+[ECO "B01"]
+[SetUp "1"]
+[FEN "2kr1bnr/ppp1pppp/2n5/3q4/3P2b1/4BN2/PPP1BPPP/RN1QK2R b KQ -"]
+
+6...Nxd4
+
+[Event "Vegas National Open"]
+[Site "https://lichess.org/o1wWAcc5"]
+[Date "2021.06.19"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Allen, Spencer"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "2r3k1/6p1/1pP5/pP2P1pP/P1pPK3/6P1/5r2/2R5 b - -"]
+
+37...Re2+
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/wE8iARqM"]
+[Date "2020.04.30"]
+[Round "6"]
+[White "Mirabile (SicilianTM), Tim"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1-0"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "r7/2k1qp2/1n2p1p1/3pP1Np/1ppP1P2/1nP1NQ2/1P4PP/5R1K w - -"]
+
+33.Qe2
+
+[Event "Black Diamond Premier"]
+[Site "BCC"]
+[Date "2021.05.23"]
+[Round "4"]
+[White "Gradijan, Stephen"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C01"]
+[SetUp "1"]
+[FEN "4rrk1/1pq3pp/p1bb4/4p3/2PQ4/4BN2/PP4PP/4RRK1 w - -"]
+
+21.Qc3
+
+[Event "Boylston Online Tournament G/60 +10"]
+[Site "https://lichess.org/FFwJWMIK"]
+[Date "2020.05.22"]
+[Round "2"]
+[White "Sage (Tim_Sage), Timothy"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "5k2/5P2/1n5p/1P2N3/2p5/1r1b3P/4K3/6R1 w - -"]
+
+55.Kd2
+
+[Event "Larry Schmitt Memorial"]
+[Site "Boston"]
+[Date "2021.08.07"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "He, Henry"]
+[Result "1-0"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "1b6/3b1q2/p2P4/1pk5/2n1B3/2PQ3P/P5P1/4R2K b - -"]
+
+45...Kb6
+
+[Event "Thursday Night Swiss Sept"]
+[Site "Boston"]
+[Date "2021.09.02"]
+[Round "1"]
+[White "Colen, Chris"]
+[Black "Hardin, John"]
+[Result "0-1"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "r1b2rk1/pppnqppp/4pn2/8/1b1PN3/1P6/PBP1QPPP/2KR1BNR w - -"]
+
+9.d5
+
+[Event "USATE 2020"]
+[Site "Parsippany"]
+[Date "2020.02.17"]
+[Round "5"]
+[White "Nakada, Johji"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "2r1kbr1/p4p2/2q5/3pPR2/2nP4/6N1/P7/1RBQ2K1 w - -"]
+
+26.Qb3
+
+[Event "Boylston Milestones Sunday"]
+[Site "Chess.com"]
+[Date "2020.11.22"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Welch, Charlie"]
+[Result "1-0"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "1q1rr1k1/4bp1p/b5pB/p1pPp3/1pPn4/1P2Q1NP/P4PP1/1B1R1RK1 b - -"]
+
+27...f5
+
+[Event "MCC U2000 Premier"]
+[Site "?"]
+[Date "2018.08.11"]
+[Round "3"]
+[White "Hardin, John"]
+[Black "Medina"]
+[Result "0-1"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "2rqr1k1/5p2/p3p1pB/1b2N1b1/3P4/P7/5PP1/1B1QR1K1 w - -"]
+
+27.Qf3
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.04"]
+[Round "7"]
+[White "Guo, Ethan"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C02"]
+[SetUp "1"]
+[FEN "2rq1rk1/pp1b2bp/4ppnp/3pP3/1P1P4/P2Q1N2/2B2PPP/RN2R1K1 w - -"]
+
+15.h4
+
+[Event "Boylston Milestones Sunday"]
+[Site "Chess.com"]
+[Date "2020.11.22"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Welch, Charlie"]
+[Result "1-0"]
+[ECO "C77"]
+[SetUp "1"]
+[FEN "2br4/4rk1p/6p1/p1pPqp2/1pP1p3/1P2Q2P/P4PP1/1B1RR1K1 b - -"]
+
+34...Kg7
+
+[Event "USATE 2020"]
+[Site "Parsippany"]
+[Date "2020.02.15"]
+[Round "2"]
+[White "Hardin, John"]
+[Black "Huang, Edison"]
+[Result "1-0"]
+[ECO "C07"]
+[SetUp "1"]
+[FEN "r3k2r/1pqb1ppp/p2bpn2/5N2/2B5/2P3P1/PP2QP1P/R1B2RK1 b kq -"]
+
+14...O-O-O
+
+[Event "Vegas National Open"]
+[Site "https://lichess.org/o1wWAcc5"]
+[Date "2021.06.19"]
+[Round "5"]
+[White "Hardin, John"]
+[Black "Allen, Spencer"]
+[Result "1-0"]
+[ECO "B14"]
+[SetUp "1"]
+[FEN "r1rq2k1/1p2bpp1/4p2p/pbPp4/1P1P1B1P/P4NP1/3Q1P2/R3R1K1 b - -"]
+
+19...Bf6
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.03"]
+[Round "4"]
+[White "Ramaswamy, Nakul"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[SetUp "1"]
+[FEN "2r2rk1/4bnpp/8/Pp1qp3/3p4/P2N2P1/3BQ2P/2R2RK1 b - -"]
+
+26...Bf6
+
+[Event "Metrowest May Open"]
+[Site "Metrowest"]
+[Date "2019.05.14"]
+[Round "2"]
+[White "Gradijan, Stephen"]
+[Black "Hardin, John"]
+[Result "1-0"]
+[ECO "A03"]
+[SetUp "1"]
+[FEN "8/8/2k5/P3Pp1p/3KnPP1/7P/8/8 b - -"]
+
+48...Ng3
+
+[Event "Coronavirus Championship"]
+[Site "https://lichess.org/DHzmgWta"]
+[Date "2020.04.09"]
+[Round "3"]
+[White "Hardin (Hardinaka), John"]
+[Black "Hua (YM2b), Charles"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "7R/8/8/7n/7k/8/6RK/4r3 b - -"]
+
+73...Re3
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/RFcphGpV"]
+[Date "2021.01.14"]
+[Round "?"]
+[White "Wang (xiaoqixia), Tony"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1-0"]
+[ECO "A06"]
+[SetUp "1"]
+[FEN "r7/8/P5k1/2Nrpppp/2Rn4/8/5PPP/1R3K2 b - -"]
+
+51...Nc6
+
+[Event "Vegas National Open"]
+[Site "https://lichess.org/o1wWAcc5"]
+[Date "2021.06.19"]
+[Round "4"]
+[White "Stefanello, Mike"]
+[Black "Hardin, John"]
+[Result "1/2-1/2"]
+[ECO "A26"]
+[SetUp "1"]
+[FEN "2q3b1/6kp/3p2p1/1N2b3/2P1P3/1P2Q1PP/6BK/8 b - -"]
+
+34...Qf8
+
+[Event "Boylston Online Tournament G/60 +10"]
+[Site "https://lichess.org/FFwJWMIK"]
+[Date "2020.05.22"]
+[Round "2"]
+[White "Sage (Tim_Sage), Timothy"]
+[Black "Hardin (Hardinaka), John"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[SetUp "1"]
+[FEN "2r5/3nkBp1/2b4p/2p1p3/N3P3/5PPP/1P6/3R2K1 w - -"]
+
+37.Nc3
+
+[Event "2nd Covid-19 Championship"]
+[Site "https://lichess.org/study/5j9"]
+[Date "2020.05.15"]
+[Round "1"]
+[White "Caston (Chess_Poet7), Henry"]
+[Black "Hardin (Hardinaka), John"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "4r1k1/1b2r2p/pppp2p1/3P1pN1/P1P2P2/3KP3/6P1/4R2R w - -"]
+
+29.Nxh7
+
+[Event "World Open"]
+[Site "Philadelphia"]
+[Date "2021.07.01"]
+[Round "1"]
+[White "Hardin, John"]
+[Black "Goce Tia Jr., Rudy"]
+[Result "1-0"]
+[ECO "C06"]
+[SetUp "1"]
+[FEN "5q2/1b1kbp1Q/p3p3/3pP1p1/3N2P1/2P5/3B1P2/6K1 b - -"]
+
+40...Ke8
+
+[Event "2nd Covid-19 Championship"]
+[Site "https://lichess.org/JE7h9l3h"]
+[Date "2020.05.25"]
+[Round "2"]
+[White "Hardin (Hardinaka), John"]
+[Black "Sage (SicilianTM), Timothy J"]
+[Result "1-0"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "4rrk1/7p/pp1P2p1/4qpB1/P6Q/1nN3P1/1P3PbP/5RK1 w - -"]
+
+24.d7
+

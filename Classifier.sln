@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29324.140
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifier", "Classifier\Classifier.csproj", "{C7398F14-D6DB-437E-B6E3-CE28F7A00409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classifier", "Classifier\Classifier.csproj", "{C7398F14-D6DB-437E-B6E3-CE28F7A00409}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dragon.Chess", "J:\Code\Dragon\Dragon.Chess\Dragon.Chess.csproj", "{D0419DD8-A720-4035-B35B-2696FA65D832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning", "J:\Code\MachineLearning\MachineLearning.csproj", "{EE7C9293-44CD-4C0E-8BE7-457900B9DA90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C7398F14-D6DB-437E-B6E3-CE28F7A00409}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7398F14-D6DB-437E-B6E3-CE28F7A00409}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7398F14-D6DB-437E-B6E3-CE28F7A00409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0419DD8-A720-4035-B35B-2696FA65D832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0419DD8-A720-4035-B35B-2696FA65D832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0419DD8-A720-4035-B35B-2696FA65D832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0419DD8-A720-4035-B35B-2696FA65D832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7C9293-44CD-4C0E-8BE7-457900B9DA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7C9293-44CD-4C0E-8BE7-457900B9DA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7C9293-44CD-4C0E-8BE7-457900B9DA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7C9293-44CD-4C0E-8BE7-457900B9DA90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

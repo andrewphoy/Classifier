@@ -32,23 +32,27 @@ namespace Classifier.Helpers {
                 var tactics = await ProcessSingleGame(g);
                 if (tactics != null && tactics.Count > 0) {
                     string json = Jil.JSON.Serialize(tactics, opts);
-                    await System.IO.File.AppendAllTextAsync(@"D:\OtherCode\Classifier\tactics.json", json + "\n");
+                    await System.IO.File.AppendAllTextAsync(@"D:\OtherCode\Classifier\lindatactics.json", json + "\n");
                 }
             }
 
             return Tactics.ToList();
         }
 
+
+        
         private async Task<List<Tactic>> ProcessSingleGame(PgnGame pgn) {
             if (pgn.PgnBody.Length < 10) {
                 return null;
             }
 
             var result = new List<Tactic>();
+
+
             var engine = _pool.Allocate();
 
             try {
-                var game = new ParsingGame(pgn.PgnBody);
+                ParsingGame game = new ParsingGame(pgn.PgnBody);
                 game.Parse();
 
                 if (game.Moves == null || game.Moves.Count < 2) {
@@ -59,21 +63,24 @@ namespace Classifier.Helpers {
                 await engine.SetOption("Threads", "8");
                 await engine.SetOption("MultiPV", "1");
 
-                var root = game.Moves[0];
-                ParsingMove curr = root.Children[0];
+                ParsingMove curr;
                 ParsingMove next;
                 EngineEval lastEval = null;
                 string lastFen = "";
 
-                while (curr.Children.Count > 0) {
-                    next = curr.Children[0];
+                foreach (var kvp in game.Moves) {
+                    if (kvp.Key == 0) {
+                        // we don't insert the root move
+                        continue;
+                    }
 
-                    string fen = GetFen(curr.Position, game);
-
+                    curr = kvp.Value;
+                    string fen = kvp.Value.Position.Fen;
+                    
                     await engine.SetFenPosition(fen);
                     var currEval = await engine.Analyze(nodes: 3500000);
-                    currEval.ColorToMove = game.ColorToMove;
 
+                    currEval.ColorToMove = kvp.Value.Position.ColorToMove;
 
                     Console.WriteLine(currEval.EvalString + "\t" + fen + "\t" + curr.MoveBody);
 
@@ -95,60 +102,60 @@ namespace Classifier.Helpers {
                         }
                     }
 
-                    game.ExecuteMoveForward(curr);
-                    curr = next;
                     lastEval = currEval;
                     lastFen = fen;
                 }
+
             } catch (Exception ex) {
                 Console.WriteLine("Error: " + ex.Message);
             } finally {
                 _pool.Free(engine);
             }
+
             return result;
         }
 
-        private string GetFen(Dragon.Models.Position position, ParsingGame game) {
-            string fen = position.GetFen();
-            fen += " " + (game.ColorToMove > 0 ? "w" : "b");
+        //private string GetFen(Dragon.Chess.Position position, ParsingGame game) {
+        //    string fen = position.GetFen();
+        //    fen += " " + (game.ColorToMove > 0 ? "w" : "b");
 
-            string castling = "";
-            if (game.WhiteCastling == (int)Castling.Both) {
-                castling = "KQ";
-            } else if (game.WhiteCastling == (int)Castling.Kingside) {
-                castling = "K";
-            } else if (game.WhiteCastling == (int)Castling.Queenside) {
-                castling = "Q";
-            }
-            if (game.BlackCastling == (int)Castling.Both) {
-                castling += "kq";
-            } else if (game.BlackCastling == (int)Castling.Kingside) {
-                castling += "k";
-            } else if (game.BlackCastling == (int)Castling.Queenside) {
-                castling += "q";
-            }
+        //    string castling = "";
+        //    if (game.WhiteCastling == (int)Castling.Both) {
+        //        castling = "KQ";
+        //    } else if (game.WhiteCastling == (int)Castling.Kingside) {
+        //        castling = "K";
+        //    } else if (game.WhiteCastling == (int)Castling.Queenside) {
+        //        castling = "Q";
+        //    }
+        //    if (game.BlackCastling == (int)Castling.Both) {
+        //        castling += "kq";
+        //    } else if (game.BlackCastling == (int)Castling.Kingside) {
+        //        castling += "k";
+        //    } else if (game.BlackCastling == (int)Castling.Queenside) {
+        //        castling += "q";
+        //    }
 
-            if (string.IsNullOrEmpty(castling)) {
-                castling = "-";
-            }
+        //    if (string.IsNullOrEmpty(castling)) {
+        //        castling = "-";
+        //    }
 
-            fen += " " + castling;
+        //    fen += " " + castling;
 
-            //    // 4) halfmove clock
-            //    // 5) fullmove number
+        //    //    // 4) halfmove clock
+        //    //    // 5) fullmove number
 
-            if (game.EnPassant.HasValue) {
-                fen += " " + "abcdefgh"[game.EnPassant.Value] + (game.ColorToMove > 0 ? "6" : "3");
-            } else {
-                fen += " -";
-            }
+        //    if (game.EnPassant.HasValue) {
+        //        fen += " " + "abcdefgh"[game.EnPassant.Value] + (game.ColorToMove > 0 ? "6" : "3");
+        //    } else {
+        //        fen += " -";
+        //    }
 
-            fen += " " + game.HalfMoveCount.ToString();
-            int moveNumber = (int)Math.Ceiling(game.CurrentPly / 2m);
-            fen += " " + moveNumber.ToString();
+        //    fen += " " + game.HalfMoveCount.ToString();
+        //    int moveNumber = (int)Math.Ceiling(game.CurrentPly / 2m);
+        //    fen += " " + moveNumber.ToString();
 
-            return fen;
-        }
-
+        //    return fen;
+        //}
+        
     }
 }

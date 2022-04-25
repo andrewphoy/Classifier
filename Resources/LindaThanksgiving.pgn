@@ -1,0 +1,135 @@
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R1 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/o7C75VX4"]
+[Black "Joshua Flores"]
+[Result "1/2-1/2"]
+[BlackElo "1649"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:35"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Qb6 8. Na4 Qa5+ 9. c3 b5 { I was surprised to see b5. Didn't realize how bad it was. } 10. Nxc5 Bxc5 11. dxc5 b4 12. Nd4 Nxd4 (12... bxc3 13. Nxc6 c2+ 14. Nxa5 cxd1=Q+ 15. Rxd1) 13. Bxd4 (13. Qxd4 bxc3 14. b4 { Missed this move. } (14. Qxc3 Qxc3+ 15. bxc3 { This is what I calculated. }) 14... Qa3 15. Rc1 Qxa2 16. Qxc3) 13... bxc3 14. Bxc3 Qxc5 15. Qd4 Qxd4 16. Bxd4 Nb6 17. Bb5+ Bd7 18. Ba6 Bc8 19. Bb5+ Bd7 20. Ba6 { Just decided to chicken out here and repeat moves because I wasn't confident in my endgame skills. I thought White was a bit better but didn't realize how much. } 20... Bc8 21. Bb5+ 1/2-1/2
+
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R2 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/gL2zPW32"]
+[White "Scott Kolb"]
+[Result "0-1"]
+[WhiteElo "1694"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:35"]
+[Variant "Standard"]
+[ECO "A80"]
+[Opening "Dutch Defense"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. d4 f5 2. Bf4 Nf6 3. e3 g6 4. Be2 d6 5. h4 h6 6. c3 Bg7 7. Bf3 Nc6 8. Nd2 Bd7 9. Qc2 e5 10. dxe5 dxe5 11. Bxc6 Bxc6 12. Bxe5 Bxg2 13. Rh2 Bc6 14. O-O-O Qe7 15. Bd4 O-O-O (15... Ng4 { Missed this move. } { [%cal Gg4f2] }) 16. Ngf3 Bd5 17. Ne5 Qd6 { Going for complications that don't work is my favorite thing to do. } 18. Nxg6 Qxh2 19. Nxh8 (19. Qxf5+ { Missed this move. } 19... Kb8 20. Nxh8 Qxh4 21. Ng6 Qh5) 19... Qxf2 (19... Qxh4 20. Qxf5+ Kb8 21. Ng6 Qh5 22. Qxh5 Nxh5 23. Bxg7 Nxg7 { I thought this position was quite bad for me. }) 20. Rf1 Be4 (20... Qe2 { Missed this move. } 21. Qxf5+ Rd7 22. Bxf6 Bxf6 23. Qxf6 Be4 24. Nxe4 Qxe3+ 25. Kb1 Qd3+ 26. Kc1 Qe3+) 21. Nxe4 { I was praying my opponent would forget that Nxe4 stopped defending the rook, and my prayers worked! } (21. Rxf2 Bxc2 22. Kxc2 Rxh8 23. Rxf5 Ne8 24. Bxg7 Nxg7 { Calculated up to here and realized I was in trouble. }) 21... Qxf1+ 22. Qd1 Qxd1+ 23. Kxd1 0-1
+
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R3 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/lGAWkeYp"]
+[Black "George Trbojevic"]
+[Result "0-1"]
+[BlackElo "1660"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:35"]
+[Variant "Standard"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. e4 c5 2. Nc3 b6 3. f4 Bb7 4. Nf3 e6 5. g3 a6 6. a4 Nf6 7. d3 d6 8. Bg2 Qc7 9. O-O Nbd7 10. Qe1 e5 11. fxe5 (11. f5 Be7 { I wasn't sure how effective the kingside pawn storm would end up being. }) 11... dxe5 12. b3 { Preventing c4. } 12... Be7 13. Bb2 O-O 14. h3 Bc6 15. g4 b5 16. Qg3 { I thought about trying to pressure e5 but it just has too many potential defenders. } 16... b4 { I was happy to see the queenside closed. } 17. Nd1 Bd6 18. Ne3 g6 { No more Nf5 but I have Nc4. } 19. Kh1 { Just wanted to get out of the diagonal in case c4 was pushed but maybe this was unnecessary. } 19... a5 20. Nc4 (20. Qh4 Be7 21. Ng5 h5 22. gxh5 Nxh5 { I didn't like this pin. Missed the idea of Rf5. } 23. Rf5 gxf5 24. Qxh5) 20... Rfe8 21. h4 (21. Nfxe5 Nxe5 22. Nxe5 Bxe5 (22... Re6 { Now I'm just stuck in an unpleasant pin. }) 23. Bxe5 Rxe5 24. Rxf6 { I calculated this line and thought it was great but eventually realized that Black doesn't have to take on e5. }) 21... Kg7 22. Rf2 h6 23. Raf1 Re7 24. Bh3 { Improving the bishop for when g5 is pushed. } 24... Rae8 25. Bc1 { New plan is to target h6. } 25... Kh7 26. Nh2 Kg7 27. Qe3 Ng8 { I missed this move and was surprised to see something so passive. } 28. Rf3 (28. g5 h5 { I didn't like this position. Missed the idea of Rf6, putting my rook on a heavily guarded square. } 29. Rf6 Ndxf6 30. gxf6+ Nxf6 31. Qh6+ Kg8 32. Rxf6) 28... f6 29. g5 fxg5 30. hxg5 h5 31. Qf2 (31. Rf6 { Still did not see this idea. } 31... Ndxf6 (31... Re6)  (31... Rf8) 32. gxf6+ Nxf6) 31... Nb6 32. Nxb6 { I just decided to deflect the queen and infiltrate. Also was in time pressure starting from around here. } 32... Qxb6 33. Rf7+ (33. Rf6 { It still works! }) 33... Kh8 34. Rxe7 Rxe7 35. Qf8 Qc7 { I had a vague plan to try to get my rook onto the 8th rank too but here I realized I had no free squares to move my queen. } 36. Qf3 Bd7 37. Be3 Bxh3 38. Qxh3 Qd7 { I decided the endgame is better for me because of how bad Black's bishop is. } 39. Qxd7 Rxd7 40. Nf3 Rf7 41. Kg2 Kg7 42. Nd2 Rxf1 43. Kxf1 Kf7 44. Nc4 Bc7 45. Bxc5 Ne7 { I had about 1 minute left here. And there's no increment, only 5 seconds delay. :( } 46. Bf2 { Made a snap decision to keep my good bishop but in retrospect I should've just taken the knight. } 46... Nc6 47. Bg3 Ke6 48. Ke2 Bd8 49. Bh4 Nd4+ 50. Kd1 Nf3 51. Bg3 h4 { Missed this move. } 52. Ke2 Nd4+ 53. Kf2 hxg3+ 54. Kxg3 Nxc2 55. Kg4 Ne1 56. Ne3 Nxd3 57. Nd5 Nc1 58. Ne3 Nxb3 59. Nc4 Nc5 60. Nb2 Nxe4 61. Kf3 Nxg5+ 62. Ke3 Bb6+ 63. Kd3 Kd5 64. Nc4 e4+ { I actually flagged this game. Made the last 15 moves in about 30 seconds or something. Now that's how you lose a positionally winning game! } 0-1
+
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R4 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/mYoZCu6p"]
+[White "Jeremiah Davis"]
+[Result "1-0"]
+[WhiteElo "1604"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:36"]
+[Variant "Standard"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 { I didn't really have experience with this move and struggled to remember what I was supposed to do here. I thought h5 looked interesting but I didn't go for it. :/ } 5... Bg4 6. N1e2 Nbd7 7. h3 Be6 { Somehow thought I could keep my bishop but of course I'm just going to get chased around. } 8. Nf4 Bd5 9. Qd3 { I think the idea is to prevent Be4 after c4. } 9... c5 10. c4 { After c4 Bc6 d5, I thought I had e5 but it just doesn't work. } 10... Bc6 11. d5 Ne5 (11... e5 12. dxc6 exf4 13. cxd7+ { Missed that this move comes with check! }) 12. Qc3 Nxc4 13. Bxc4 Nxd5 14. Nxd5 Bxd5 15. Bb5+ Bc6 16. Bxc6+ bxc6 17. Qxc5 Qc7 18. Bf4 e6 19. Qxf8+ Rxf8 20. Bxc7 Rc8 21. Bd6 Rg8 22. Rc1 Kd7 23. Bc5 a6 24. Ke2 Rcd8 25. Rhd1+ Kc7 26. Rxd8 Rxd8 27. Rd1 Rxd1 28. Kxd1 a5 29. Kd2 Kb7 30. Kd3 Ka6 31. Kc4 f6 32. Bf8 g6 33. Kc5 e5 34. Bg7 f5 35. Bxe5 { I'm not sure there's much to say about this except to try to avoid losing a piece in the opening. } 1-0
+
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R1 - 11/26/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/el7XlB3f"]
+[Black "Madison Loftis"]
+[Result "1-0"]
+[BlackElo "1609"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:36"]
+[Variant "Standard"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qc8 { I was surprised to see this move. I didn't know about it. } 5. Nc3 h6 6. Be2 { I figured I wanted g4. } 6... e6 7. g4 Bg6 8. f4 Bb4 9. Bd2 Ne7 10. h5 Bh7 11. Nf3 Bxc3 12. Bxc3 Be4 { The downside of pushing f4. } 13. Qd2 Nd7 14. O-O-O Qc7 15. g5 { I thought g5 was maybe premature but I didn't know what else to do. } 15... Nf5 16. Rh3 O-O-O 17. Nh4 Rhg8 18. g6 Nxh4 (18... f6 19. Nxf5 Bxf5 20. Rg3 { I thought this was fine for me. }) 19. gxf7 Rgf8 20. Rxh4 Rxf7 21. Bg4 Re8 22. Rf1 { I couldn't decide between Rf1 and Rg1 to target g7 but ended up just deciding to support my backwards pawn. } 22... Bf5 23. Qg2 Nf8 24. Bb4 { Now that c5 is not possible, let's activate this bishop. } 24... Qb6 25. Bc5 Qa6 26. Kb1 b6 27. Bd6 Qc4 28. Bxf5 exf5 29. Bxf8 { I figured Ne6 was coming, so I should just get rid of the knight now. } 29... Rfxf8 30. c3 Rf7 31. Rg1 Qd3+ 32. Ka1 (32. Qc2 Qxc2+ 33. Kxc2 { I wasn't sure if this position was winning for me or not. }) 32... Re6 33. Rh3 Qe4 { I was surprised to see this move because the queen is trapped. } 34. Qf2 g5 35. hxg6 Rg7 36. Re3 Rexg6 37. Rxe4 (37. Rxg6 Qh1+ 38. Re1 { This looks even nicer for me. Not sure why I didn't go for this because I considered it. }) 37... Rxg1+ 38. Re1 R1g2 39. Qf1 h5 40. Qa6+ Kb8 41. a4 h4 42. Rh1 R2g4 43. Qf1 Kb7 44. Ka2 Rh7 45. Rh3 a6 46. Qf2 b5 47. axb5 axb5 48. e6 Kc7 49. Qe3 Re7 50. Qe5+ Kc8 51. Qxf5 Rgg7 52. Rxh4 b4 53. Rh8+ Kb7 54. cxb4 Kb6 55. Qe5 Ra7+ 56. Kb3 Rg3+ 57. Kc2 Rg2+ 58. Kb1 Rg1+ 59. Kc2 Rg2+ 60. Kc3 Rg3+ 61. Kd2 Rg2+ 62. Qe2 { Seemed like the easiest way to get out of the checks. } 62... Rxe2+ 63. Kxe2 Re7 64. f5 Kc7 65. Rf8 Kd6 66. Kf3 c5 67. bxc5+ Kc6 68. Rf7 Re8 69. e7 Kd7 70. f6 Rh8 71. Rf8 Rh3+ 72. Kg2 Re3 73. Rd8+ Kc7 74. e8=Q Rxe8 75. Rxe8 1-0
+
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R2 - 11/27/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QmJwPy3L"]
+[White "Edwin Walker"]
+[Result "1-0"]
+[WhiteElo "1574"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:36"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Normal Variation"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 d6 4. Bf4 g6 5. h3 Bg7 6. Nc3 O-O 7. e3 Qe8 (7... Nc6 8. d5 (8. Be2 Ne4 9. Nxe4 fxe4 10. Nd2) 8... e5) 8. Be2 Nh5 9. Bh2 e5 { Pushed e5 without thinking too much about it, whoops. } 10. dxe5 dxe5 11. Bxe5 Bxe5 12. Qd5+ { Missed this check. } (12. Nxe5 Qxe5 13. Bxh5 gxh5 14. Qxh5 { The only line I calculated before pushing e5. }) 12... Be6 (12... Kh8 13. Qxe5+ Qxe5 14. Nxe5) 13. Qxe5 Na6 14. Nd4 Ng7 15. Nxe6 Nxe6 16. Nd5 Qf7 17. Nf4 Rfe8 18. O-O Rad8 19. Nd5 Rf8 20. Rfd1 c6 21. Nf4 Nac5 22. Nxe6 Nxe6 23. Rxd8 Rxd8 24. Rd1 Rxd1+ 25. Bxd1 Qd7 26. Bb3 c5 27. Qb8+ Qd8 28. Qxb7 Qd2 { Might as well go for activity. } 29. Qd5 Qe1+ 30. Kh2 Kf7 31. Qf3 Kf6 32. h4 g5 33. Bc2 f4 34. exf4 gxf4 35. Bxh7 Qd2 36. Qc3+ Qxc3 37. bxc3 Ng7 38. Kh3 Ne8 39. Kg4 Ke5 40. h5 Nf6+ 41. Kg5 Nxh7+ { I had given up but now I thought there could be chances. } 42. Kg6 Nf8+ 43. Kf7 Ne6 44. g4 Ng5+ { I had less than 1 minute here and didn't even consider f3. :( } (44... f3 45. h6 Ng5+ 46. Kg6 Kf4 $10) 45. Kg6 Ne4 46. h6 Nxf2 47. h7 Nxg4 48. h8=Q+ Ke4 49. Qe8+ Kf3 50. Qc6+ Kg3 51. Qxc5 1-0
+
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R3 - 11/27/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/adYNwKbL"]
+[Black "Anisha Oberai"]
+[Result "1-0"]
+[BlackElo "1518"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:36"]
+[Variant "Standard"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nf6 8. d5 (8. O-O Bxc3 9. bxc3 Nxe4 10. Re1 d5 { I wasn't sure whether this position was good for me or not. }) 8... Ne7 { yay :D } (8... Bxc3+ 9. bxc3 Na5 10. Bd3 { I was expecting this. }) 9. Qa4+ Qd7 10. Qxb4 O-O 11. O-O Ng6 12. Re1 Re8 13. Bg5 Nh5 14. g3 { I didn't want Nf4. } 14... h6 15. Bd2 Qh3 16. Bf1 Qg4 17. Bg2 Ne5 18. Nxe5 dxe5 19. Rac1 a6 20. Na4 Nf6 21. Rxc7 h5 22. h4 Nd7 23. Rec1 f5 24. exf5 Qxf5 25. Nb6 Nxb6 26. Qxb6 Rf8 27. Be3 Rf6 28. Qc5 Rf8 29. Qe7 Qg6 30. Qxe5 Bg4 31. d6 Rae8 32. Qd5+ Be6 33. Qxb7 Rb8 34. Qxa6 Rxb2 35. d7 Qf5 36. Qa7 Rd8 37. Rc8 Qf8 38. Rxd8 Qxd8 39. Rc8 Rb1+ 40. Kh2 { Can all games be this easy? } 1-0
+
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R4 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QALLNKTx"]
+[White "CJ Elam"]
+[Result "1-0"]
+[WhiteElo "1509"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:36"]
+[Variant "Standard"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Dutch Variation"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. Nf3 f5 2. d4 Nf6 3. Bf4 d6 4. e3 g6 5. Bc4 Bg7 6. c3 Nc6 7. Ng5 d5 { Not too happy about playing this Stonewall structure. } 8. Bb5 O-O 9. Bxc6 bxc6 10. h4 h6 11. Nf3 Nd7 { I was worried about Ne5. } (11... Rb8 12. Ne5 { [%csl Gg6,Gc6] }) 12. Nbd2 c5 13. Qb3 { I thought about pushing c4 but decided to keep it flexible. } 13... e6 14. O-O-O Ba6 (14... Rb8) 15. Ne5 Nxe5 16. Bxe5 { I thought if I allowed Bxg7 Kxg7 and later on I played cxd4 exd4, my e6 pawn would be quite weak. } 16... Bxe5 17. dxe5 c4 { Should've put my bishop outside this pawn chain first but I was somehow uncomfortable with putting it out there for no concrete reason. } 18. Qa4 Bc8 19. Nxc4 Bd7 20. Qa6 dxc4 21. Qxc4 Qc8 { Just getting out of the pin. } 22. g4 Kg7 (22... fxg4 23. Qxg4 Be8 { I was nervous about this. }) 23. gxf5 Rxf5 24. Rdg1 Rxf2 25. Qd3 Be8 26. Rg4 Qd7 { I was too eager to trade queens because I felt uncomfortable with the activity of White's pieces. } (26... Qb7 { Didn't consider this move. }) 27. Rxg6+ { Missed this move. } 27... Kf7 { I didn't see the difference between Kf7 and Kf8, missing the idea of Qh7+ } (27... Kf8) 28. Rf6+ Rxf6 29. Qh7+ Kf8 30. Qh8+ Kf7 31. Qxf6+ (31. exf6 e5 32. Qh7+ Ke6 33. Qg8+ Kxf6 34. Rf1+ Ke7 35. Qg7+ Kd8 36. Rd1) 31... Kg8 32. Qxh6 Qg7 33. Qxe6+ Bf7 34. Qc6 Qxe5 { I still felt shaken from missing Rxg6+ and played this move in a few seconds, somehow forgetting that I'm playing a classical game. } 35. Qxa8+ { whoops :D } 35... Kh7 36. Qxa7 Qe4 37. Rf1 Bg6 { I figured this was my only chance. } 38. Qxc7+ Kg8 39. Qd8+ Kh7 40. Qd7+ Kh6 { No more checks, yay } 41. Rf2 Qb1+ 42. Kd2 Qc2+ 43. Ke1 Qc1+ 44. Qd1 Qxe3+ 45. Re2 { I had a feeling there was a draw around here somewhere. } 45... Qg3+ 46. Kd2 Qd3+ 47. Ke1 Qg3+ 48. Kf1 Qf3+ 49. Kg1 Qg3+ { Missed the right idea. :( } (49... Qg4+ 50. Kh1 (50. Kh2 Qxh4+ 51. Kg1 Qg4+ 52. Kh2 Qh4+) 50... Be4+ 51. Kh2 Qxh4+ 52. Kg1) 50. Rg2 Qe3+ 51. Kh2 Qf4+ 52. Kh1 Be4 53. Qg1 { So close and yet so far from a perpetual. } 53... Qg3 54. Qb6+ Kh7 55. Qa7+ Kg6 56. Qf2 1-0
+
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R5 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QS5OmZJd"]
+[Black "Jacob Wang"]
+[Result "1-0"]
+[BlackElo "1502"]
+[UTCDate "2021.11.29"]
+[UTCTime "15:15:36"]
+[Variant "Standard"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation"]
+[Annotator "https://lichess.org/@/BairnOwl"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 cxd4 { I was surprised to see this. } 7. Nxd4 a6 8. Bd3 b5 9. Qg4 { I wanted to stop Bc5, which seemed a little annoying. } (9. O-O Bc5 10. Be3 Qb6 11. Nce2 Nc6 12. c3 b4 13. Kh1 { I thought this was fine for me but also decided to just not go into it. }) 9... Nc5 10. Be2 g6 11. a3 { b4 and then Ne4 seemed annoying. } 11... Bg7 12. Be3 Qc7 13. Qg3 { I didn't want tactics connected with f6 exf6 e5. } (13. Ndxb5 axb5 14. Nxb5 Qc6 15. Nd6+ Ke7 16. Bb5 Qc7 17. Qh4+ f6 { I calculated this position and didn't realize that it was so good for White. })  (13. O-O f6 14. exf6 e5 (14... Bxf6 { Did not realize this was good for me. }) 15. fxg7 Rg8 16. Qg3 exd4 17. Bxd4 { Somehow forgot I was two pawns up here. }) 13... Nc6 14. Ndxb5 Nd3+ (14... axb5 15. Bxc5 Nxe5 16. Bxb5+ Bd7 17. Bxd7+ Nxd7 18. Bb4 { This is what I considered. }) 15. Bxd3 axb5 16. Nxb5 (16. Bxb5 O-O) 16... Qa5+ 17. Bd2 Qb6 18. Qf2 d4 19. Nd6+ Kd7 20. Rb1 (20. Nxf7 Qxb2 21. Rd1 Rf8 22. Ng5 Nxe5 { I didn't like this. }) 20... Rxa3 { I was hoping for this move. } 21. Nc4 { Seems like the theme of this game is that I calculated some good positions and didn't realize they were good positions. } 1-0
+
+

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Dragon.Chess;
 
 namespace Classifier.Models {
     public class Tactic {
@@ -8,6 +9,7 @@ namespace Classifier.Models {
         public string Fen { get; set; }
         public int ColorToMove { get; set; }
         public string BestMove { get; set; }
+        public bool WasMissed { get; set; }
 
         public int? ScoreCp { get; set; }
         public int? ScoreMate { get; set; }

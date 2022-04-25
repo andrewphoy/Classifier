@@ -2,16 +2,23 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DragonModels\" />
+    <Compile Remove="DragonModels\**" />
+    <EmbeddedResource Remove="DragonModels\**" />
+    <None Remove="DragonModels\**" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Jil" Version="2.17.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="J:\Code\Dragon\Dragon.Chess\Dragon.Chess.csproj" />
+    <ProjectReference Include="J:\Code\MachineLearning\MachineLearning.csproj" />
   </ItemGroup>
 
 </Project>

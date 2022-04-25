@@ -10,6 +10,8 @@ tactics.json
 Resources/Andrew.*
 Resources/stockfish-11-win/src
 Resources/stockfish-11-win/tests
+Resources/lichess_db_puzzle*
+
 
 # User-specific files
 *.suo

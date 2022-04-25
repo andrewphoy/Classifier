@@ -1,0 +1,120 @@
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R3 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/lGAWkeYp"]
+[Black "George Trbojevic"]
+[Result "0-1"]
+[ECO "B23"]
+[SetUp "1"]
+[FEN "3b4/8/4k1p1/p3p1Pp/PpN1P2B/1P1P1n2/2P5/3K4 w - -"]
+
+51.Bg3
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R3 - 11/27/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/adYNwKbL"]
+[Black "Anisha Oberai"]
+[Result "1-0"]
+[ECO "C53"]
+[SetUp "1"]
+[FEN "r1bqk2r/ppp2ppp/2np1n2/3P4/1bB1P3/2N2N2/PP3PPP/R1BQK2R b KQkq -"]
+
+8...Ne7
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R2 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/gL2zPW32"]
+[White "Scott Kolb"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "2kr3N/ppp3b1/5n1p/3b1p2/3B3P/2P1P3/PPQN1q2/2K2R2 b - -"]
+
+20...Be4
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R2 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/gL2zPW32"]
+[White "Scott Kolb"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "1k1r4/ppp3b1/5nNp/3b1Q1q/3B4/2P1P3/PP1N1P2/2KR4 w - -"]
+
+18...Qxh2
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R2 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/gL2zPW32"]
+[White "Scott Kolb"]
+[Result "0-1"]
+[ECO "A80"]
+[SetUp "1"]
+[FEN "2k4r/ppp3n1/7p/5R2/7P/2P1P3/PPKN4/8 w - -"]
+
+20...Be4
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R4 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QALLNKTx"]
+[White "CJ Elam"]
+[Result "1-0"]
+[ECO "A04"]
+[SetUp "1"]
+[FEN "8/8/6bk/8/6qP/2P5/PP2R3/3Q2K1 w - -"]
+
+50.Kh1
+
+[Event "November OTB Tournaments: Illinois Class State 1600-1800 R4 - 11/21/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/mYoZCu6p"]
+[White "Jeremiah Davis"]
+[Result "1-0"]
+[ECO "B15"]
+[SetUp "1"]
+[FEN "r2qkb1r/pp1npppp/2p2n2/3b4/3P1N2/3Q2NP/PPP2PP1/R1B1KB1R b KQkq -"]
+
+9...c5
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R4 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QALLNKTx"]
+[White "CJ Elam"]
+[Result "1-0"]
+[ECO "A04"]
+[SetUp "1"]
+[FEN "8/8/6bk/8/7P/2P2q2/PP2R3/3Q2K1 b - -"]
+
+49...Qg3+
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R2 - 11/27/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QmJwPy3L"]
+[White "Edwin Walker"]
+[Result "1-0"]
+[ECO "A84"]
+[SetUp "1"]
+[FEN "rnb1qrk1/ppp4p/6p1/4bp1n/2P5/2N1PN1P/PP2BPP1/R2QK2R w KQ -"]
+
+12.Nxe5
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R4 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QALLNKTx"]
+[White "CJ Elam"]
+[Result "1-0"]
+[ECO "A04"]
+[SetUp "1"]
+[FEN "r3b3/p1pq2k1/4p1Rp/4P3/7P/2PQP3/PP3r2/2K4R b - -"]
+
+27...Kf7
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R5 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QS5OmZJd"]
+[Black "Jacob Wang"]
+[Result "1-0"]
+[ECO "C11"]
+[SetUp "1"]
+[FEN "rnb1k2r/2q2pbp/p3p1p1/1pnpP3/3N1P2/P1N1B1Q1/1PP1B1PP/R3K2R b KQkq -"]
+
+13...Nc6
+
+[Event "November OTB Tournaments: Sevan Memorial U1800: R4 - 11/28/2021"]
+[Site "https://lichess.org/study/P8SgjFq2/QALLNKTx"]
+[White "CJ Elam"]
+[Result "1-0"]
+[ECO "A04"]
+[SetUp "1"]
+[FEN "r1bq1rk1/p1p5/4p1pp/3pPp2/Q1p4P/2P1P3/PP1N1PP1/2KR3R w - -"]
+
+19.Nxc4
+
